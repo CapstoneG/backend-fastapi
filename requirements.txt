@@ -1,0 +1,6 @@
+pymongo
+pydantic_settings
+gTTS 
+cloudinary
+python-dotenv
+google-genai

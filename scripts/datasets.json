@@ -1,0 +1,702 @@
+[
+  {
+    "id": "A1_001",
+    "text": "Hello, my name is John.",
+    "topic": "Introduction",
+    "level": "A1",
+    "audioUrl": ""
+  },
+  {
+    "id": "A1_002",
+    "text": "The cat is on the table.",
+    "topic": "Daily Life",
+    "level": "A1",
+    "audioUrl": ""
+  },
+  {
+    "id": "A1_003",
+    "text": "I like to eat apples.",
+    "topic": "Food",
+    "level": "A1",
+    "audioUrl": ""
+  },
+  {
+    "id": "A1_004",
+    "text": "It is sunny today.",
+    "topic": "Weather",
+    "level": "A1",
+    "audioUrl": ""
+  },
+  {
+    "id": "A1_005",
+    "text": "She has a red car.",
+    "topic": "Daily Life",
+    "level": "A1",
+    "audioUrl": ""
+  },
+  {
+    "id": "A1_006",
+    "text": "Where is the bathroom?",
+    "topic": "Travel",
+    "level": "A1",
+    "audioUrl": ""
+  },
+  {
+    "id": "A1_007",
+    "text": "He is my brother.",
+    "topic": "Family",
+    "level": "A1",
+    "audioUrl": ""
+  },
+  {
+    "id": "A1_008",
+    "text": "I can speak a little English.",
+    "topic": "Skills",
+    "level": "A1",
+    "audioUrl": ""
+  },
+  {
+    "id": "A1_009",
+    "text": "They go to school by bus.",
+    "topic": "Daily Life",
+    "level": "A1",
+    "audioUrl": ""
+  },
+  {
+    "id": "A1_010",
+    "text": "This book is very good.",
+    "topic": "Hobbies",
+    "level": "A1",
+    "audioUrl": ""
+  },
+  {
+    "id": "A1_011",
+    "text": "Open the door, please.",
+    "topic": "Commands",
+    "level": "A1",
+    "audioUrl": ""
+  },
+  {
+    "id": "A1_012",
+    "text": "My favorite color is blue.",
+    "topic": "Personal",
+    "level": "A1",
+    "audioUrl": ""
+  },
+  {
+    "id": "A1_013",
+    "text": "I drink water every morning.",
+    "topic": "Health",
+    "level": "A1",
+    "audioUrl": ""
+  },
+  {
+    "id": "A1_014",
+    "text": "It is 5 o'clock now.",
+    "topic": "Time",
+    "level": "A1",
+    "audioUrl": ""
+  },
+  {
+    "id": "A1_015",
+    "text": "We live in a big house.",
+    "topic": "Housing",
+    "level": "A1",
+    "audioUrl": ""
+  },
+  {
+    "id": "A2_016",
+    "text": "I usually wake up at 7 AM.",
+    "topic": "Daily Life",
+    "level": "A2",
+    "audioUrl": ""
+  },
+  {
+    "id": "A2_017",
+    "text": "Can you help me with my homework?",
+    "topic": "School",
+    "level": "A2",
+    "audioUrl": ""
+  },
+  {
+    "id": "A2_018",
+    "text": "She bought a new dress yesterday.",
+    "topic": "Shopping",
+    "level": "A2",
+    "audioUrl": ""
+  },
+  {
+    "id": "A2_019",
+    "text": "We are going to visit our grandparents.",
+    "topic": "Family",
+    "level": "A2",
+    "audioUrl": ""
+  },
+  {
+    "id": "A2_020",
+    "text": "The weather was terrible last week.",
+    "topic": "Weather",
+    "level": "A2",
+    "audioUrl": ""
+  },
+  {
+    "id": "A2_021",
+    "text": "I would like to order a coffee.",
+    "topic": "Food & Drink",
+    "level": "A2",
+    "audioUrl": ""
+  },
+  {
+    "id": "A2_022",
+    "text": "Do you know how to swim?",
+    "topic": "Hobbies",
+    "level": "A2",
+    "audioUrl": ""
+  },
+  {
+    "id": "A2_023",
+    "text": "He is taller than his father.",
+    "topic": "Description",
+    "level": "A2",
+    "audioUrl": ""
+  },
+  {
+    "id": "A2_024",
+    "text": "I felt tired after the long walk.",
+    "topic": "Health",
+    "level": "A2",
+    "audioUrl": ""
+  },
+  {
+    "id": "A2_025",
+    "text": "They are watching a movie in the living room.",
+    "topic": "Entertainment",
+    "level": "A2",
+    "audioUrl": ""
+  },
+  {
+    "id": "A2_026",
+    "text": "Excuse me, how do I get to the station?",
+    "topic": "Travel",
+    "level": "A2",
+    "audioUrl": ""
+  },
+  {
+    "id": "A2_027",
+    "text": "I forgot to bring my umbrella.",
+    "topic": "Daily Life",
+    "level": "A2",
+    "audioUrl": ""
+  },
+  {
+    "id": "A2_028",
+    "text": "Why are you laughing so loud?",
+    "topic": "Emotions",
+    "level": "A2",
+    "audioUrl": ""
+  },
+  {
+    "id": "A2_029",
+    "text": "We had a delicious dinner at the restaurant.",
+    "topic": "Food",
+    "level": "A2",
+    "audioUrl": ""
+  },
+  {
+    "id": "A2_030",
+    "text": "Please turn off the lights before you leave.",
+    "topic": "Instructions",
+    "level": "A2",
+    "audioUrl": ""
+  },
+  {
+    "id": "B1_031",
+    "text": "I have been working here for five years.",
+    "topic": "Work",
+    "level": "B1",
+    "audioUrl": ""
+  },
+  {
+    "id": "B1_032",
+    "text": "If it rains tomorrow, we will cancel the picnic.",
+    "topic": "Plans",
+    "level": "B1",
+    "audioUrl": ""
+  },
+  {
+    "id": "B1_033",
+    "text": "She is interested in learning graphic design.",
+    "topic": "Education",
+    "level": "B1",
+    "audioUrl": ""
+  },
+  {
+    "id": "B1_034",
+    "text": "I think you should see a doctor about that cough.",
+    "topic": "Health",
+    "level": "B1",
+    "audioUrl": ""
+  },
+  {
+    "id": "B1_035",
+    "text": "The movie was so boring that I fell asleep.",
+    "topic": "Entertainment",
+    "level": "B1",
+    "audioUrl": ""
+  },
+  {
+    "id": "B1_036",
+    "text": "Have you ever traveled to Japan?",
+    "topic": "Travel",
+    "level": "B1",
+    "audioUrl": ""
+  },
+  {
+    "id": "B1_037",
+    "text": "He managed to fix the car by himself.",
+    "topic": "Skills",
+    "level": "B1",
+    "audioUrl": ""
+  },
+  {
+    "id": "B1_038",
+    "text": "It is important to eat a balanced diet.",
+    "topic": "Health",
+    "level": "B1",
+    "audioUrl": ""
+  },
+  {
+    "id": "B1_039",
+    "text": "I’m looking forward to meeting you next week.",
+    "topic": "Social",
+    "level": "B1",
+    "audioUrl": ""
+  },
+  {
+    "id": "B1_040",
+    "text": "Although he was tired, he finished his work.",
+    "topic": "Work",
+    "level": "B1",
+    "audioUrl": ""
+  },
+  {
+    "id": "B1_041",
+    "text": "Can you explain how this machine works?",
+    "topic": "Technology",
+    "level": "B1",
+    "audioUrl": ""
+  },
+  {
+    "id": "B1_042",
+    "text": "I used to play the piano when I was a child.",
+    "topic": "Hobbies",
+    "level": "B1",
+    "audioUrl": ""
+  },
+  {
+    "id": "B1_043",
+    "text": "We need to protect the environment for future generations.",
+    "topic": "Nature",
+    "level": "B1",
+    "audioUrl": ""
+  },
+  {
+    "id": "B1_044",
+    "text": "I’m not sure if I can attend the party.",
+    "topic": "Social",
+    "level": "B1",
+    "audioUrl": ""
+  },
+  {
+    "id": "B1_045",
+    "text": "The traffic in the city is getting worse every year.",
+    "topic": "City Life",
+    "level": "B1",
+    "audioUrl": ""
+  },
+  {
+    "id": "B1_046",
+    "text": "She prefers tea over coffee in the morning.",
+    "topic": "Preferences",
+    "level": "B1",
+    "audioUrl": ""
+  },
+  {
+    "id": "B1_047",
+    "text": "You must wear a helmet when riding a bike.",
+    "topic": "Safety",
+    "level": "B1",
+    "audioUrl": ""
+  },
+  {
+    "id": "B1_048",
+    "text": "I borrowed this book from the local library.",
+    "topic": "Education",
+    "level": "B1",
+    "audioUrl": ""
+  },
+  {
+    "id": "B1_049",
+    "text": "It took me two hours to clean the whole house.",
+    "topic": "Daily Life",
+    "level": "B1",
+    "audioUrl": ""
+  },
+  {
+    "id": "B1_050",
+    "text": "He apologized for arriving late to the meeting.",
+    "topic": "Work",
+    "level": "B1",
+    "audioUrl": ""
+  },
+  {
+    "id": "B2_051",
+    "text": "The company is planning to expand its operations overseas.",
+    "topic": "Business",
+    "level": "B2",
+    "audioUrl": ""
+  },
+  {
+    "id": "B2_052",
+    "text": "I would have called you if I had known you were in town.",
+    "topic": "Regret",
+    "level": "B2",
+    "audioUrl": ""
+  },
+  {
+    "id": "B2_053",
+    "text": "Regular exercise is essential for maintaining physical and mental health.",
+    "topic": "Health",
+    "level": "B2",
+    "audioUrl": ""
+  },
+  {
+    "id": "B2_054",
+    "text": "She has a talent for resolving conflicts between team members.",
+    "topic": "Work",
+    "level": "B2",
+    "audioUrl": ""
+  },
+  {
+    "id": "B2_055",
+    "text": "The rapid development of technology has changed how we communicate.",
+    "topic": "Technology",
+    "level": "B2",
+    "audioUrl": ""
+  },
+  {
+    "id": "B2_056",
+    "text": "I am writing to inquire about the job opening advertised on your website.",
+    "topic": "Work",
+    "level": "B2",
+    "audioUrl": ""
+  },
+  {
+    "id": "B2_057",
+    "text": "Despite the heavy rain, the football match continued as scheduled.",
+    "topic": "Sports",
+    "level": "B2",
+    "audioUrl": ""
+  },
+  {
+    "id": "B2_058",
+    "text": "You ought to double-check your work before submitting it.",
+    "topic": "Advice",
+    "level": "B2",
+    "audioUrl": ""
+  },
+  {
+    "id": "B2_059",
+    "text": "The scenery in the mountains was absolutely breathtaking.",
+    "topic": "Travel",
+    "level": "B2",
+    "audioUrl": ""
+  },
+  {
+    "id": "B2_060",
+    "text": "We need to come up with a solution to reduce plastic waste.",
+    "topic": "Environment",
+    "level": "B2",
+    "audioUrl": ""
+  },
+  {
+    "id": "B2_061",
+    "text": "He was accused of stealing sensitive information from the database.",
+    "topic": "Crime",
+    "level": "B2",
+    "audioUrl": ""
+  },
+  {
+    "id": "B2_062",
+    "text": "I find it difficult to concentrate when there is so much noise.",
+    "topic": "Focus",
+    "level": "B2",
+    "audioUrl": ""
+  },
+  {
+    "id": "B2_063",
+    "text": "The new policy will be implemented starting next month.",
+    "topic": "Business",
+    "level": "B2",
+    "audioUrl": ""
+  },
+  {
+    "id": "B2_064",
+    "text": "She succeeded in persuading the board to approve the budget.",
+    "topic": "Business",
+    "level": "B2",
+    "audioUrl": ""
+  },
+  {
+    "id": "B2_065",
+    "text": "Learning a second language opens up many career opportunities.",
+    "topic": "Education",
+    "level": "B2",
+    "audioUrl": ""
+  },
+  {
+    "id": "B2_066",
+    "text": "I am not used to driving on the left side of the road.",
+    "topic": "Travel",
+    "level": "B2",
+    "audioUrl": ""
+  },
+  {
+    "id": "B2_067",
+    "text": "The professor gave a fascinating lecture on ancient history.",
+    "topic": "Education",
+    "level": "B2",
+    "audioUrl": ""
+  },
+  {
+    "id": "B2_068",
+    "text": "Unless we take action now, the problem will only get worse.",
+    "topic": "Social Issues",
+    "level": "B2",
+    "audioUrl": ""
+  },
+  {
+    "id": "B2_069",
+    "text": "He decided to quit his job to pursue his passion for photography.",
+    "topic": "Career",
+    "level": "B2",
+    "audioUrl": ""
+  },
+  {
+    "id": "B2_070",
+    "text": "The architecture of this building is a mix of modern and traditional styles.",
+    "topic": "Art",
+    "level": "B2",
+    "audioUrl": ""
+  },
+  {
+    "id": "B2_071",
+    "text": "It is highly recommended that you book your tickets in advance.",
+    "topic": "Travel",
+    "level": "B2",
+    "audioUrl": ""
+  },
+  {
+    "id": "B2_072",
+    "text": "She expressed her gratitude for all the support she received.",
+    "topic": "Emotions",
+    "level": "B2",
+    "audioUrl": ""
+  },
+  {
+    "id": "B2_073",
+    "text": "The experiment failed because the temperature was not controlled properly.",
+    "topic": "Science",
+    "level": "B2",
+    "audioUrl": ""
+  },
+  {
+    "id": "B2_074",
+    "text": "Consumers are becoming more aware of the products they buy.",
+    "topic": "Economy",
+    "level": "B2",
+    "audioUrl": ""
+  },
+  {
+    "id": "B2_075",
+    "text": "I wonder if it would be possible to reschedule our appointment.",
+    "topic": "Politeness",
+    "level": "B2",
+    "audioUrl": ""
+  },
+  {
+    "id": "C1_076",
+    "text": "The implications of this economic policy are far-reaching and complex.",
+    "topic": "Economics",
+    "level": "C1",
+    "audioUrl": ""
+  },
+  {
+    "id": "C1_077",
+    "text": "Had I realized the severity of the situation, I would have acted sooner.",
+    "topic": "Reflection",
+    "level": "C1",
+    "audioUrl": ""
+  },
+  {
+    "id": "C1_078",
+    "text": "Sustainability has become a paramount concern in modern architecture.",
+    "topic": "Environment",
+    "level": "C1",
+    "audioUrl": ""
+  },
+  {
+    "id": "C1_079",
+    "text": "She articulated her arguments with such precision that no one could disagree.",
+    "topic": "Debate",
+    "level": "C1",
+    "audioUrl": ""
+  },
+  {
+    "id": "C1_080",
+    "text": "The novel explores the intricate relationship between memory and identity.",
+    "topic": "Literature",
+    "level": "C1",
+    "audioUrl": ""
+  },
+  {
+    "id": "C1_081",
+    "text": "Whatever the outcome, we must ensure that our integrity remains intact.",
+    "topic": "Ethics",
+    "level": "C1",
+    "audioUrl": ""
+  },
+  {
+    "id": "C1_082",
+    "text": "Scarcely had we arrived at the venue when the presentation began.",
+    "topic": "Narrative",
+    "level": "C1",
+    "audioUrl": ""
+  },
+  {
+    "id": "C1_083",
+    "text": "This software utilizes advanced algorithms to optimize data processing speeds.",
+    "topic": "Technology",
+    "level": "C1",
+    "audioUrl": ""
+  },
+  {
+    "id": "C1_084",
+    "text": "The CEO attributed the company's success to the dedication of its workforce.",
+    "topic": "Business",
+    "level": "C1",
+    "audioUrl": ""
+  },
+  {
+    "id": "C1_085",
+    "text": "There is a growing consensus among scientists regarding climate change.",
+    "topic": "Science",
+    "level": "C1",
+    "audioUrl": ""
+  },
+  {
+    "id": "C1_086",
+    "text": "Not only did he miss the deadline, but he also failed to notify his supervisor.",
+    "topic": "Work",
+    "level": "C1",
+    "audioUrl": ""
+  },
+  {
+    "id": "C1_087",
+    "text": "We must scrutinize every detail of the contract before signing it.",
+    "topic": "Law",
+    "level": "C1",
+    "audioUrl": ""
+  },
+  {
+    "id": "C1_088",
+    "text": "The nuances of the language are often lost in translation.",
+    "topic": "Linguistics",
+    "level": "C1",
+    "audioUrl": ""
+  },
+  {
+    "id": "C1_089",
+    "text": "It is vital that the government allocate more resources to education.",
+    "topic": "Politics",
+    "level": "C1",
+    "audioUrl": ""
+  },
+  {
+    "id": "C1_090",
+    "text": "Despite his vast wealth, he leads a remarkably modest lifestyle.",
+    "topic": "Lifestyle",
+    "level": "C1",
+    "audioUrl": ""
+  },
+  {
+    "id": "C1_091",
+    "text": "Innovation is often driven by the necessity to solve unforeseen problems.",
+    "topic": "Innovation",
+    "level": "C1",
+    "audioUrl": ""
+  },
+  {
+    "id": "C1_092",
+    "text": "The patient showed signs of recovery, albeit very slowly.",
+    "topic": "Medicine",
+    "level": "C1",
+    "audioUrl": ""
+  },
+  {
+    "id": "C1_093",
+    "text": "We need to foster an environment where creativity can flourish.",
+    "topic": "Culture",
+    "level": "C1",
+    "audioUrl": ""
+  },
+  {
+    "id": "C1_094",
+    "text": "The debate over artificial intelligence often centers on ethical dilemmas.",
+    "topic": "Technology",
+    "level": "C1",
+    "audioUrl": ""
+  },
+  {
+    "id": "C1_095",
+    "text": "Seldom have I seen such a display of courage in the face of adversity.",
+    "topic": "Description",
+    "level": "C1",
+    "audioUrl": ""
+  },
+  {
+    "id": "C1_096",
+    "text": "The project was abandoned due to a lack of viable funding.",
+    "topic": "Finance",
+    "level": "C1",
+    "audioUrl": ""
+  },
+  {
+    "id": "C1_097",
+    "text": "One must take into account the cultural differences when doing business abroad.",
+    "topic": "International",
+    "level": "C1",
+    "audioUrl": ""
+  },
+  {
+    "id": "C1_098",
+    "text": "The richness of the local cuisine is a testament to the region's history.",
+    "topic": "Culture",
+    "level": "C1",
+    "audioUrl": ""
+  },
+  {
+    "id": "C1_099",
+    "text": "He has a propensity for exaggeration when telling stories.",
+    "topic": "Personality",
+    "level": "C1",
+    "audioUrl": ""
+  },
+  {
+    "id": "C1_100",
+    "text": "To suggest that the task is easy would be a gross understatement.",
+    "topic": "Opinion",
+    "level": "C1",
+    "audioUrl": ""
+  }
+]
