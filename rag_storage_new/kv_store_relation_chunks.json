@@ -1,0 +1,3735 @@
+{
+  "Culture<SEP>Society": {
+    "chunk_ids": [
+      "chunk-41fc9250a6b1fd299c982632197998af",
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 2,
+    "update_time": 1766774003,
+    "_id": "Culture<SEP>Society"
+  },
+  "Cultural Identity<SEP>Music": {
+    "chunk_ids": [
+      "chunk-41fc9250a6b1fd299c982632197998af"
+    ],
+    "count": 1,
+    "create_time": 1766773364,
+    "update_time": 1766773364,
+    "_id": "Cultural Identity<SEP>Music"
+  },
+  "Cultural Exchange<SEP>Global Communication": {
+    "chunk_ids": [
+      "chunk-41fc9250a6b1fd299c982632197998af"
+    ],
+    "count": 1,
+    "create_time": 1766773364,
+    "update_time": 1766773364,
+    "_id": "Cultural Exchange<SEP>Global Communication"
+  },
+  "Cultural Homogenization<SEP>Globalization": {
+    "chunk_ids": [
+      "chunk-41fc9250a6b1fd299c982632197998af"
+    ],
+    "count": 1,
+    "create_time": 1766773364,
+    "update_time": 1766773364,
+    "_id": "Cultural Homogenization<SEP>Globalization"
+  },
+  "Cultural Heritage<SEP>Diversity": {
+    "chunk_ids": [
+      "chunk-41fc9250a6b1fd299c982632197998af"
+    ],
+    "count": 1,
+    "create_time": 1766773364,
+    "update_time": 1766773364,
+    "_id": "Cultural Heritage<SEP>Diversity"
+  },
+  "Culture<SEP>Values": {
+    "chunk_ids": [
+      "chunk-41fc9250a6b1fd299c982632197998af"
+    ],
+    "count": 1,
+    "create_time": 1766773365,
+    "update_time": 1766773365,
+    "_id": "Culture<SEP>Values"
+  },
+  "Art<SEP>Cultural Identity": {
+    "chunk_ids": [
+      "chunk-41fc9250a6b1fd299c982632197998af"
+    ],
+    "count": 1,
+    "create_time": 1766773365,
+    "update_time": 1766773365,
+    "_id": "Art<SEP>Cultural Identity"
+  },
+  "Cultural Exchange<SEP>Diversity": {
+    "chunk_ids": [
+      "chunk-41fc9250a6b1fd299c982632197998af"
+    ],
+    "count": 1,
+    "create_time": 1766773365,
+    "update_time": 1766773365,
+    "_id": "Cultural Exchange<SEP>Diversity"
+  },
+  "Culture<SEP>Traditions": {
+    "chunk_ids": [
+      "chunk-41fc9250a6b1fd299c982632197998af"
+    ],
+    "count": 1,
+    "create_time": 1766773365,
+    "update_time": 1766773365,
+    "_id": "Culture<SEP>Traditions"
+  },
+  "Cultural Identity<SEP>Literature": {
+    "chunk_ids": [
+      "chunk-41fc9250a6b1fd299c982632197998af"
+    ],
+    "count": 1,
+    "create_time": 1766773365,
+    "update_time": 1766773365,
+    "_id": "Cultural Identity<SEP>Literature"
+  },
+  "Beliefs<SEP>Culture": {
+    "chunk_ids": [
+      "chunk-41fc9250a6b1fd299c982632197998af"
+    ],
+    "count": 1,
+    "create_time": 1766773365,
+    "update_time": 1766773365,
+    "_id": "Beliefs<SEP>Culture"
+  },
+  "Critical Thinking<SEP>Education": {
+    "chunk_ids": [
+      "chunk-0258ad91fe9120781080b004f383bd29"
+    ],
+    "count": 1,
+    "create_time": 1766773373,
+    "update_time": 1766773373,
+    "_id": "Critical Thinking<SEP>Education"
+  },
+  "Online Education<SEP>Traditional Classroom Learning": {
+    "chunk_ids": [
+      "chunk-0258ad91fe9120781080b004f383bd29"
+    ],
+    "count": 1,
+    "create_time": 1766773373,
+    "update_time": 1766773373,
+    "_id": "Online Education<SEP>Traditional Classroom Learning"
+  },
+  "Academic Pressure<SEP>Exam-Oriented Teaching": {
+    "chunk_ids": [
+      "chunk-0258ad91fe9120781080b004f383bd29"
+    ],
+    "count": 1,
+    "create_time": 1766773373,
+    "update_time": 1766773373,
+    "_id": "Academic Pressure<SEP>Exam-Oriented Teaching"
+  },
+  "Creativity<SEP>Education": {
+    "chunk_ids": [
+      "chunk-0258ad91fe9120781080b004f383bd29"
+    ],
+    "count": 1,
+    "create_time": 1766773373,
+    "update_time": 1766773373,
+    "_id": "Creativity<SEP>Education"
+  },
+  "Critical Thinking<SEP>Education System": {
+    "chunk_ids": [
+      "chunk-0258ad91fe9120781080b004f383bd29"
+    ],
+    "count": 1,
+    "create_time": 1766773373,
+    "update_time": 1766773373,
+    "_id": "Critical Thinking<SEP>Education System"
+  },
+  "Education<SEP>Problem-Solving Skills": {
+    "chunk_ids": [
+      "chunk-0258ad91fe9120781080b004f383bd29"
+    ],
+    "count": 1,
+    "create_time": 1766773373,
+    "update_time": 1766773373,
+    "_id": "Education<SEP>Problem-Solving Skills"
+  },
+  "Creativity<SEP>Education System": {
+    "chunk_ids": [
+      "chunk-0258ad91fe9120781080b004f383bd29"
+    ],
+    "count": 1,
+    "create_time": 1766773373,
+    "update_time": 1766773373,
+    "_id": "Creativity<SEP>Education System"
+  },
+  "Academic Pressure<SEP>Students": {
+    "chunk_ids": [
+      "chunk-0258ad91fe9120781080b004f383bd29"
+    ],
+    "count": 1,
+    "create_time": 1766773373,
+    "update_time": 1766773373,
+    "_id": "Academic Pressure<SEP>Students"
+  },
+  "Education<SEP>Practical Skills": {
+    "chunk_ids": [
+      "chunk-0258ad91fe9120781080b004f383bd29"
+    ],
+    "count": 1,
+    "create_time": 1766773373,
+    "update_time": 1766773373,
+    "_id": "Education<SEP>Practical Skills"
+  },
+  "Exam-Oriented Teaching<SEP>Students": {
+    "chunk_ids": [
+      "chunk-0258ad91fe9120781080b004f383bd29"
+    ],
+    "count": 1,
+    "create_time": 1766773373,
+    "update_time": 1766773373,
+    "_id": "Exam-Oriented Teaching<SEP>Students"
+  },
+  "Education System<SEP>Problem-Solving Skills": {
+    "chunk_ids": [
+      "chunk-0258ad91fe9120781080b004f383bd29"
+    ],
+    "count": 1,
+    "create_time": 1766773373,
+    "update_time": 1766773373,
+    "_id": "Education System<SEP>Problem-Solving Skills"
+  },
+  "Education<SEP>Theoretical Knowledge": {
+    "chunk_ids": [
+      "chunk-0258ad91fe9120781080b004f383bd29"
+    ],
+    "count": 1,
+    "create_time": 1766773373,
+    "update_time": 1766773373,
+    "_id": "Education<SEP>Theoretical Knowledge"
+  },
+  "Education<SEP>Personal Development": {
+    "chunk_ids": [
+      "chunk-0258ad91fe9120781080b004f383bd29"
+    ],
+    "count": 1,
+    "create_time": 1766773374,
+    "update_time": 1766773374,
+    "_id": "Education<SEP>Personal Development"
+  },
+  "Education<SEP>Social Progress": {
+    "chunk_ids": [
+      "chunk-0258ad91fe9120781080b004f383bd29"
+    ],
+    "count": 1,
+    "create_time": 1766773374,
+    "update_time": 1766773374,
+    "_id": "Education<SEP>Social Progress"
+  },
+  "Climate Change<SEP>Environmental Protection": {
+    "chunk_ids": [
+      "chunk-f487536603023fb081295410a335b8e8"
+    ],
+    "count": 1,
+    "create_time": 1766773381,
+    "update_time": 1766773381,
+    "_id": "Climate Change<SEP>Environmental Protection"
+  },
+  "Environmental Damage<SEP>Human Activities": {
+    "chunk_ids": [
+      "chunk-f487536603023fb081295410a335b8e8"
+    ],
+    "count": 1,
+    "create_time": 1766773381,
+    "update_time": 1766773381,
+    "_id": "Environmental Damage<SEP>Human Activities"
+  },
+  "Air Pollution<SEP>Environmental Protection": {
+    "chunk_ids": [
+      "chunk-f487536603023fb081295410a335b8e8"
+    ],
+    "count": 1,
+    "create_time": 1766773381,
+    "update_time": 1766773381,
+    "_id": "Air Pollution<SEP>Environmental Protection"
+  },
+  "Climate Change<SEP>Natural Ecosystems": {
+    "chunk_ids": [
+      "chunk-f487536603023fb081295410a335b8e8"
+    ],
+    "count": 1,
+    "create_time": 1766773381,
+    "update_time": 1766773381,
+    "_id": "Climate Change<SEP>Natural Ecosystems"
+  },
+  "Environmental Damage<SEP>Industrial Production": {
+    "chunk_ids": [
+      "chunk-f487536603023fb081295410a335b8e8"
+    ],
+    "count": 1,
+    "create_time": 1766773381,
+    "update_time": 1766773381,
+    "_id": "Environmental Damage<SEP>Industrial Production"
+  },
+  "Governments<SEP>Renewable Energy": {
+    "chunk_ids": [
+      "chunk-f487536603023fb081295410a335b8e8"
+    ],
+    "count": 1,
+    "create_time": 1766773381,
+    "update_time": 1766773381,
+    "_id": "Governments<SEP>Renewable Energy"
+  },
+  "Deforestation<SEP>Environmental Protection": {
+    "chunk_ids": [
+      "chunk-f487536603023fb081295410a335b8e8"
+    ],
+    "count": 1,
+    "create_time": 1766773381,
+    "update_time": 1766773381,
+    "_id": "Deforestation<SEP>Environmental Protection"
+  },
+  "Air Pollution<SEP>Natural Ecosystems": {
+    "chunk_ids": [
+      "chunk-f487536603023fb081295410a335b8e8"
+    ],
+    "count": 1,
+    "create_time": 1766773381,
+    "update_time": 1766773381,
+    "_id": "Air Pollution<SEP>Natural Ecosystems"
+  },
+  "Carbon Emissions<SEP>Renewable Energy": {
+    "chunk_ids": [
+      "chunk-f487536603023fb081295410a335b8e8"
+    ],
+    "count": 1,
+    "create_time": 1766773382,
+    "update_time": 1766773382,
+    "_id": "Carbon Emissions<SEP>Renewable Energy"
+  },
+  "Governments<SEP>Recycling": {
+    "chunk_ids": [
+      "chunk-f487536603023fb081295410a335b8e8"
+    ],
+    "count": 1,
+    "create_time": 1766773382,
+    "update_time": 1766773382,
+    "_id": "Governments<SEP>Recycling"
+  },
+  "Environmental Damage<SEP>Excessive Consumption": {
+    "chunk_ids": [
+      "chunk-f487536603023fb081295410a335b8e8"
+    ],
+    "count": 1,
+    "create_time": 1766773382,
+    "update_time": 1766773382,
+    "_id": "Environmental Damage<SEP>Excessive Consumption"
+  },
+  "Individuals<SEP>Public Transport": {
+    "chunk_ids": [
+      "chunk-f487536603023fb081295410a335b8e8"
+    ],
+    "count": 1,
+    "create_time": 1766773382,
+    "update_time": 1766773382,
+    "_id": "Individuals<SEP>Public Transport"
+  },
+  "Deforestation<SEP>Natural Ecosystems": {
+    "chunk_ids": [
+      "chunk-f487536603023fb081295410a335b8e8"
+    ],
+    "count": 1,
+    "create_time": 1766773382,
+    "update_time": 1766773382,
+    "_id": "Deforestation<SEP>Natural Ecosystems"
+  },
+  "Environmental Protection<SEP>Future Generations": {
+    "chunk_ids": [
+      "chunk-f487536603023fb081295410a335b8e8"
+    ],
+    "count": 1,
+    "create_time": 1766773382,
+    "update_time": 1766773382,
+    "_id": "Environmental Protection<SEP>Future Generations"
+  },
+  "Individuals<SEP>Waste Reduction": {
+    "chunk_ids": [
+      "chunk-f487536603023fb081295410a335b8e8"
+    ],
+    "count": 1,
+    "create_time": 1766773382,
+    "update_time": 1766773382,
+    "_id": "Individuals<SEP>Waste Reduction"
+  },
+  "Carbon Emissions<SEP>Recycling": {
+    "chunk_ids": [
+      "chunk-f487536603023fb081295410a335b8e8"
+    ],
+    "count": 1,
+    "create_time": 1766773382,
+    "update_time": 1766773382,
+    "_id": "Carbon Emissions<SEP>Recycling"
+  },
+  "Subject<SEP>Topic": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e",
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 2,
+    "create_time": 1766773977,
+    "update_time": 1766773977,
+    "_id": "Subject<SEP>Topic"
+  },
+  "Acquire<SEP>Learn": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773977,
+    "update_time": 1766773977,
+    "_id": "Acquire<SEP>Learn"
+  },
+  "Grasp<SEP>Learn": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773977,
+    "update_time": 1766773977,
+    "_id": "Grasp<SEP>Learn"
+  },
+  "Theme<SEP>Topic": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e",
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 2,
+    "create_time": 1766773977,
+    "update_time": 1766773977,
+    "_id": "Theme<SEP>Topic"
+  },
+  "Learn<SEP>Master": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773978,
+    "update_time": 1766773978,
+    "_id": "Learn<SEP>Master"
+  },
+  "Issue<SEP>Topic": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e",
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 2,
+    "create_time": 1766773978,
+    "update_time": 1766773978,
+    "_id": "Issue<SEP>Topic"
+  },
+  "Learn<SEP>Study": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773978,
+    "update_time": 1766773978,
+    "_id": "Learn<SEP>Study"
+  },
+  "Matter<SEP>Topic": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e",
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 2,
+    "create_time": 1766773978,
+    "update_time": 1766773978,
+    "_id": "Matter<SEP>Topic"
+  },
+  "Learn<SEP>Understand": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773978,
+    "update_time": 1766773978,
+    "_id": "Learn<SEP>Understand"
+  },
+  "Important<SEP>Significant": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773978,
+    "update_time": 1766773978,
+    "_id": "Important<SEP>Significant"
+  },
+  "Point<SEP>Topic": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e",
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 2,
+    "create_time": 1766773978,
+    "update_time": 1766773978,
+    "_id": "Point<SEP>Topic"
+  },
+  "Crucial<SEP>Important": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773978,
+    "update_time": 1766773978,
+    "_id": "Crucial<SEP>Important"
+  },
+  "Learn<SEP>Teach": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773978,
+    "update_time": 1766773978,
+    "_id": "Learn<SEP>Teach"
+  },
+  "Forget<SEP>Learn": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773978,
+    "update_time": 1766773978,
+    "_id": "Forget<SEP>Learn"
+  },
+  "Important<SEP>Vital": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773978,
+    "update_time": 1766773978,
+    "_id": "Important<SEP>Vital"
+  },
+  "Essential<SEP>Important": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773979,
+    "update_time": 1766773979,
+    "_id": "Essential<SEP>Important"
+  },
+  "Ignore<SEP>Learn": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773979,
+    "update_time": 1766773979,
+    "_id": "Ignore<SEP>Learn"
+  },
+  "Important<SEP>Key": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773979,
+    "update_time": 1766773979,
+    "_id": "Important<SEP>Key"
+  },
+  "Field of Education<SEP>Learn": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773979,
+    "update_time": 1766773979,
+    "_id": "Field of Education<SEP>Learn"
+  },
+  "Crucial<SEP>Essential": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773979,
+    "update_time": 1766773979,
+    "_id": "Crucial<SEP>Essential"
+  },
+  "Essential<SEP>Vital": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773979,
+    "update_time": 1766773979,
+    "_id": "Essential<SEP>Vital"
+  },
+  "Important<SEP>Unimportant": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773979,
+    "update_time": 1766773979,
+    "_id": "Important<SEP>Unimportant"
+  },
+  "Essential<SEP>Necessary": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773979,
+    "update_time": 1766773979,
+    "_id": "Essential<SEP>Necessary"
+  },
+  "Important<SEP>Insignificant": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773979,
+    "update_time": 1766773979,
+    "_id": "Important<SEP>Insignificant"
+  },
+  "Essential<SEP>Fundamental": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773980,
+    "update_time": 1766773980,
+    "_id": "Essential<SEP>Fundamental"
+  },
+  "Important<SEP>Trivial": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773980,
+    "update_time": 1766773980,
+    "_id": "Important<SEP>Trivial"
+  },
+  "Essential<SEP>Indispensable": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773980,
+    "update_time": 1766773980,
+    "_id": "Essential<SEP>Indispensable"
+  },
+  "Important<SEP>Minor": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773980,
+    "update_time": 1766773980,
+    "_id": "Important<SEP>Minor"
+  },
+  "Essential<SEP>Nonessential": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773980,
+    "update_time": 1766773980,
+    "_id": "Essential<SEP>Nonessential"
+  },
+  "Amuse Oneself<SEP>Play": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773980,
+    "update_time": 1766773980,
+    "_id": "Amuse Oneself<SEP>Play"
+  },
+  "General<SEP>Important": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773980,
+    "update_time": 1766773980,
+    "_id": "General<SEP>Important"
+  },
+  "Essential<SEP>Optional": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773980,
+    "update_time": 1766773980,
+    "_id": "Essential<SEP>Optional"
+  },
+  "Entertain<SEP>Play": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773980,
+    "update_time": 1766773980,
+    "_id": "Entertain<SEP>Play"
+  },
+  "Essential<SEP>Unnecessary": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773980,
+    "update_time": 1766773980,
+    "_id": "Essential<SEP>Unnecessary"
+  },
+  "Perform<SEP>Play": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773980,
+    "update_time": 1766773980,
+    "_id": "Perform<SEP>Play"
+  },
+  "Act<SEP>Play": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773981,
+    "update_time": 1766773981,
+    "_id": "Act<SEP>Play"
+  },
+  "Global<SEP>Worldwide": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773981,
+    "update_time": 1766773981,
+    "_id": "Global<SEP>Worldwide"
+  },
+  "Essential<SEP>Expendable": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773981,
+    "update_time": 1766773981,
+    "_id": "Essential<SEP>Expendable"
+  },
+  "Essential<SEP>General": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773981,
+    "update_time": 1766773981,
+    "_id": "Essential<SEP>General"
+  },
+  "Global<SEP>International": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773981,
+    "update_time": 1766773981,
+    "_id": "Global<SEP>International"
+  },
+  "Participate<SEP>Play": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773981,
+    "update_time": 1766773981,
+    "_id": "Participate<SEP>Play"
+  },
+  "Global<SEP>Universal": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773981,
+    "update_time": 1766773981,
+    "_id": "Global<SEP>Universal"
+  },
+  "Play<SEP>Work": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773981,
+    "update_time": 1766773981,
+    "_id": "Play<SEP>Work"
+  },
+  "Global<SEP>Planetary": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773981,
+    "update_time": 1766773981,
+    "_id": "Global<SEP>Planetary"
+  },
+  "Leisure / Arts<SEP>Play": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773981,
+    "update_time": 1766773981,
+    "_id": "Leisure / Arts<SEP>Play"
+  },
+  "Diversity<SEP>Variety": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773981,
+    "update_time": 1766773981,
+    "_id": "Diversity<SEP>Variety"
+  },
+  "Global<SEP>Local": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773982,
+    "update_time": 1766773982,
+    "_id": "Global<SEP>Local"
+  },
+  "Assortment<SEP>Diversity": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773982,
+    "update_time": 1766773982,
+    "_id": "Assortment<SEP>Diversity"
+  },
+  "Global<SEP>Regional": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773982,
+    "update_time": 1766773982,
+    "_id": "Global<SEP>Regional"
+  },
+  "Diversity<SEP>Mixture": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773982,
+    "update_time": 1766773982,
+    "_id": "Diversity<SEP>Mixture"
+  },
+  "Global<SEP>National": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773982,
+    "update_time": 1766773982,
+    "_id": "Global<SEP>National"
+  },
+  "Diversity<SEP>Multiplicity": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773982,
+    "update_time": 1766773982,
+    "_id": "Diversity<SEP>Multiplicity"
+  },
+  "Domestic<SEP>Global": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773982,
+    "update_time": 1766773982,
+    "_id": "Domestic<SEP>Global"
+  },
+  "Diversity<SEP>Heterogeneity": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773982,
+    "update_time": 1766773982,
+    "_id": "Diversity<SEP>Heterogeneity"
+  },
+  "Communication<SEP>Interaction": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773982,
+    "update_time": 1766773982,
+    "_id": "Communication<SEP>Interaction"
+  },
+  "Geography / Politics<SEP>Global": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773982,
+    "update_time": 1766773982,
+    "_id": "Geography / Politics<SEP>Global"
+  },
+  "Communication<SEP>Contact": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773982,
+    "update_time": 1766773982,
+    "_id": "Communication<SEP>Contact"
+  },
+  "Diversity<SEP>Uniformity": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773982,
+    "update_time": 1766773982,
+    "_id": "Diversity<SEP>Uniformity"
+  },
+  "Communication<SEP>Correspondence": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773983,
+    "update_time": 1766773983,
+    "_id": "Communication<SEP>Correspondence"
+  },
+  "Diversity<SEP>Similarity": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773983,
+    "update_time": 1766773983,
+    "_id": "Diversity<SEP>Similarity"
+  },
+  "Communication<SEP>Transmission": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773983,
+    "update_time": 1766773983,
+    "_id": "Communication<SEP>Transmission"
+  },
+  "Diversity<SEP>Homogeneity": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773983,
+    "update_time": 1766773983,
+    "_id": "Diversity<SEP>Homogeneity"
+  },
+  "Accept<SEP>Embrace": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773983,
+    "update_time": 1766773983,
+    "_id": "Accept<SEP>Embrace"
+  },
+  "Embrace<SEP>Welcome": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773983,
+    "update_time": 1766773983,
+    "_id": "Embrace<SEP>Welcome"
+  },
+  "Communication<SEP>Dialogue": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773983,
+    "update_time": 1766773983,
+    "_id": "Communication<SEP>Dialogue"
+  },
+  "Diversity<SEP>Sociology / Ecology": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773983,
+    "update_time": 1766773983,
+    "_id": "Diversity<SEP>Sociology / Ecology"
+  },
+  "Adopt<SEP>Embrace": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773983,
+    "update_time": 1766773983,
+    "_id": "Adopt<SEP>Embrace"
+  },
+  "Communication<SEP>Silence": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773983,
+    "update_time": 1766773983,
+    "_id": "Communication<SEP>Silence"
+  },
+  "Embrace<SEP>Espouse": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773984,
+    "update_time": 1766773984,
+    "_id": "Embrace<SEP>Espouse"
+  },
+  "Communication<SEP>Concealment": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773984,
+    "update_time": 1766773984,
+    "_id": "Communication<SEP>Concealment"
+  },
+  "Communication<SEP>Withholding": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773984,
+    "update_time": 1766773984,
+    "_id": "Communication<SEP>Withholding"
+  },
+  "Cultural<SEP>Societal": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e",
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 2,
+    "create_time": 1766773984,
+    "update_time": 1766773984,
+    "_id": "Cultural<SEP>Societal"
+  },
+  "Embrace<SEP>Support": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773984,
+    "update_time": 1766773984,
+    "_id": "Embrace<SEP>Support"
+  },
+  "Cultural<SEP>Ethnic": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e",
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 2,
+    "create_time": 1766773984,
+    "update_time": 1766773984,
+    "_id": "Cultural<SEP>Ethnic"
+  },
+  "Embrace<SEP>Reject": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773984,
+    "update_time": 1766773984,
+    "_id": "Embrace<SEP>Reject"
+  },
+  "Artistic<SEP>Cultural": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e",
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 2,
+    "create_time": 1766773984,
+    "update_time": 1766773984,
+    "_id": "Artistic<SEP>Cultural"
+  },
+  "Discourse<SEP>Topic": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773984,
+    "update_time": 1766773984,
+    "_id": "Discourse<SEP>Topic"
+  },
+  "Embrace<SEP>Refuse": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773984,
+    "update_time": 1766773984,
+    "_id": "Embrace<SEP>Refuse"
+  },
+  "Conversation<SEP>Topic": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773984,
+    "update_time": 1766773984,
+    "_id": "Conversation<SEP>Topic"
+  },
+  "Education<SEP>Learn": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e",
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 2,
+    "create_time": 1766773984,
+    "update_time": 1766773984,
+    "_id": "Education<SEP>Learn"
+  },
+  "Cultural<SEP>Educational": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e",
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 2,
+    "create_time": 1766773984,
+    "update_time": 1766773984,
+    "_id": "Cultural<SEP>Educational"
+  },
+  "Communication<SEP>General": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773984,
+    "update_time": 1766773984,
+    "_id": "Communication<SEP>General"
+  },
+  "Embrace<SEP>Oppose": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773985,
+    "update_time": 1766773985,
+    "_id": "Embrace<SEP>Oppose"
+  },
+  "Allow<SEP>General / Governance": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773985,
+    "update_time": 1766773985,
+    "_id": "Allow<SEP>General / Governance"
+  },
+  "Embrace<SEP>Shun": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773985,
+    "update_time": 1766773985,
+    "_id": "Embrace<SEP>Shun"
+  },
+  "Cultural<SEP>Sociology": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e",
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 2,
+    "create_time": 1766773985,
+    "update_time": 1766773985,
+    "_id": "Cultural<SEP>Sociology"
+  },
+  "Allow<SEP>Permit": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773985,
+    "update_time": 1766773985,
+    "_id": "Allow<SEP>Permit"
+  },
+  "Embrace<SEP>Psychology / General": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773985,
+    "update_time": 1766773985,
+    "_id": "Embrace<SEP>Psychology / General"
+  },
+  "Allow<SEP>Let": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773985,
+    "update_time": 1766773985,
+    "_id": "Allow<SEP>Let"
+  },
+  "Allow<SEP>Authorize": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773985,
+    "update_time": 1766773985,
+    "_id": "Allow<SEP>Authorize"
+  },
+  "Embrace<SEP>General": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773985,
+    "update_time": 1766773985,
+    "_id": "Embrace<SEP>General"
+  },
+  "Allow<SEP>Grant": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773986,
+    "update_time": 1766773986,
+    "_id": "Allow<SEP>Grant"
+  },
+  "Society<SEP>Sociology": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773986,
+    "update_time": 1766773986,
+    "_id": "Society<SEP>Sociology"
+  },
+  "Allow<SEP>Enable": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773986,
+    "update_time": 1766773986,
+    "_id": "Allow<SEP>Enable"
+  },
+  "Community<SEP>Society": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773986,
+    "update_time": 1766773986,
+    "_id": "Community<SEP>Society"
+  },
+  "Allow<SEP>Forbid": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773986,
+    "update_time": 1766773986,
+    "_id": "Allow<SEP>Forbid"
+  },
+  "Public<SEP>Society": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773986,
+    "update_time": 1766773986,
+    "_id": "Public<SEP>Society"
+  },
+  "Allow<SEP>Prohibit": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773986,
+    "update_time": 1766773986,
+    "_id": "Allow<SEP>Prohibit"
+  },
+  "Populace<SEP>Society": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773986,
+    "update_time": 1766773986,
+    "_id": "Populace<SEP>Society"
+  },
+  "Allow<SEP>Disallow": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773986,
+    "update_time": 1766773986,
+    "_id": "Allow<SEP>Disallow"
+  },
+  "Civilization<SEP>Society": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773986,
+    "update_time": 1766773986,
+    "_id": "Civilization<SEP>Society"
+  },
+  "Art<SEP>Culture / Arts": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773986,
+    "update_time": 1766773986,
+    "_id": "Art<SEP>Culture / Arts"
+  },
+  "Allow<SEP>Ban": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773987,
+    "update_time": 1766773987,
+    "_id": "Allow<SEP>Ban"
+  },
+  "Art<SEP>Artwork": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773987,
+    "update_time": 1766773987,
+    "_id": "Art<SEP>Artwork"
+  },
+  "Humanity<SEP>Society": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773987,
+    "update_time": 1766773987,
+    "_id": "Humanity<SEP>Society"
+  },
+  "Allow<SEP>Prevent": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773987,
+    "update_time": 1766773987,
+    "_id": "Allow<SEP>Prevent"
+  },
+  "Isolation<SEP>Society": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773987,
+    "update_time": 1766773987,
+    "_id": "Isolation<SEP>Society"
+  },
+  "Art<SEP>Creation": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773987,
+    "update_time": 1766773987,
+    "_id": "Art<SEP>Creation"
+  },
+  "Art<SEP>Craft": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773987,
+    "update_time": 1766773987,
+    "_id": "Art<SEP>Craft"
+  },
+  "Homogenization<SEP>Sociology / Globalization": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773987,
+    "update_time": 1766773987,
+    "_id": "Homogenization<SEP>Sociology / Globalization"
+  },
+  "Society<SEP>Solitude": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773987,
+    "update_time": 1766773987,
+    "_id": "Society<SEP>Solitude"
+  },
+  "Homogenization<SEP>Standardization": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773987,
+    "update_time": 1766773987,
+    "_id": "Homogenization<SEP>Standardization"
+  },
+  "Art<SEP>Skill": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773987,
+    "update_time": 1766773987,
+    "_id": "Art<SEP>Skill"
+  },
+  "Art<SEP>Masterpiece": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773988,
+    "update_time": 1766773988,
+    "_id": "Art<SEP>Masterpiece"
+  },
+  "Homogenization<SEP>Uniformity": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773988,
+    "update_time": 1766773988,
+    "_id": "Homogenization<SEP>Uniformity"
+  },
+  "Assimilation<SEP>Homogenization": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773988,
+    "update_time": 1766773988,
+    "_id": "Assimilation<SEP>Homogenization"
+  },
+  "Art<SEP>Science": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773988,
+    "update_time": 1766773988,
+    "_id": "Art<SEP>Science"
+  },
+  "Ethics / Economics<SEP>Value": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773988,
+    "update_time": 1766773988,
+    "_id": "Ethics / Economics<SEP>Value"
+  },
+  "Art<SEP>Reality": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773988,
+    "update_time": 1766773988,
+    "_id": "Art<SEP>Reality"
+  },
+  "Blending<SEP>Homogenization": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773988,
+    "update_time": 1766773988,
+    "_id": "Blending<SEP>Homogenization"
+  },
+  "Value<SEP>Worth": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773988,
+    "update_time": 1766773988,
+    "_id": "Value<SEP>Worth"
+  },
+  "Diversification<SEP>Homogenization": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773988,
+    "update_time": 1766773988,
+    "_id": "Diversification<SEP>Homogenization"
+  },
+  "Merit<SEP>Value": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773988,
+    "update_time": 1766773988,
+    "_id": "Merit<SEP>Value"
+  },
+  "Heterogeneity<SEP>Homogenization": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773989,
+    "update_time": 1766773989,
+    "_id": "Heterogeneity<SEP>Homogenization"
+  },
+  "Importance<SEP>Value": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773989,
+    "update_time": 1766773989,
+    "_id": "Importance<SEP>Value"
+  },
+  "Different<SEP>General": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773989,
+    "update_time": 1766773989,
+    "_id": "Different<SEP>General"
+  },
+  "Differentiation<SEP>Homogenization": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773989,
+    "update_time": 1766773989,
+    "_id": "Differentiation<SEP>Homogenization"
+  },
+  "Principle<SEP>Value": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773989,
+    "update_time": 1766773989,
+    "_id": "Principle<SEP>Value"
+  },
+  "Different<SEP>Distinct": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773989,
+    "update_time": 1766773989,
+    "_id": "Different<SEP>Distinct"
+  },
+  "Standard<SEP>Value": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773989,
+    "update_time": 1766773989,
+    "_id": "Standard<SEP>Value"
+  },
+  "Value<SEP>Worthlessness": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773989,
+    "update_time": 1766773989,
+    "_id": "Value<SEP>Worthlessness"
+  },
+  "Different<SEP>Dissimilar": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773989,
+    "update_time": 1766773989,
+    "_id": "Different<SEP>Dissimilar"
+  },
+  "Insignificance<SEP>Value": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773989,
+    "update_time": 1766773989,
+    "_id": "Insignificance<SEP>Value"
+  },
+  "Different<SEP>Diverse": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773989,
+    "update_time": 1766773989,
+    "_id": "Different<SEP>Diverse"
+  },
+  "Different<SEP>Varied": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773990,
+    "update_time": 1766773990,
+    "_id": "Different<SEP>Varied"
+  },
+  "Culture / Arts<SEP>Music": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773990,
+    "update_time": 1766773990,
+    "_id": "Culture / Arts<SEP>Music"
+  },
+  "Melody<SEP>Music": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773990,
+    "update_time": 1766773990,
+    "_id": "Melody<SEP>Music"
+  },
+  "Different<SEP>Unique": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773990,
+    "update_time": 1766773990,
+    "_id": "Different<SEP>Unique"
+  },
+  "Different<SEP>Same": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773990,
+    "update_time": 1766773990,
+    "_id": "Different<SEP>Same"
+  },
+  "Music<SEP>Tune": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773990,
+    "update_time": 1766773990,
+    "_id": "Music<SEP>Tune"
+  },
+  "Different<SEP>Similar": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773990,
+    "update_time": 1766773990,
+    "_id": "Different<SEP>Similar"
+  },
+  "Composition<SEP>Music": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773990,
+    "update_time": 1766773990,
+    "_id": "Composition<SEP>Music"
+  },
+  "Identity<SEP>Psychology / Sociology": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773990,
+    "update_time": 1766773990,
+    "_id": "Identity<SEP>Psychology / Sociology"
+  },
+  "Different<SEP>Identical": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773991,
+    "update_time": 1766773991,
+    "_id": "Different<SEP>Identical"
+  },
+  "Harmony<SEP>Music": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773991,
+    "update_time": 1766773991,
+    "_id": "Harmony<SEP>Music"
+  },
+  "Identity<SEP>Individuality": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773991,
+    "update_time": 1766773991,
+    "_id": "Identity<SEP>Individuality"
+  },
+  "Alike<SEP>Different": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773991,
+    "update_time": 1766773991,
+    "_id": "Alike<SEP>Different"
+  },
+  "Identity<SEP>Self": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773991,
+    "update_time": 1766773991,
+    "_id": "Identity<SEP>Self"
+  },
+  "Music<SEP>Silence": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773991,
+    "update_time": 1766773991,
+    "_id": "Music<SEP>Silence"
+  },
+  "Communication<SEP>Topic": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773991,
+    "update_time": 1766773991,
+    "_id": "Communication<SEP>Topic"
+  },
+  "Identity<SEP>Personality": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773991,
+    "update_time": 1766773991,
+    "_id": "Identity<SEP>Personality"
+  },
+  "Allow<SEP>Collocations of 'allow'": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773991,
+    "update_time": 1766773991,
+    "_id": "Allow<SEP>Collocations of 'allow'"
+  },
+  "Music<SEP>Noise": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773991,
+    "update_time": 1766773991,
+    "_id": "Music<SEP>Noise"
+  },
+  "Collocations of 'society'<SEP>Society": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773991,
+    "update_time": 1766773991,
+    "_id": "Collocations of 'society'<SEP>Society"
+  },
+  "Art<SEP>Collocations of 'art'": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773991,
+    "update_time": 1766773991,
+    "_id": "Art<SEP>Collocations of 'art'"
+  },
+  "Character<SEP>Identity": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773991,
+    "update_time": 1766773991,
+    "_id": "Character<SEP>Identity"
+  },
+  "Collocations of 'homogenization'<SEP>Homogenization": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773991,
+    "update_time": 1766773991,
+    "_id": "Collocations of 'homogenization'<SEP>Homogenization"
+  },
+  "Collocations of 'value'<SEP>Value": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773991,
+    "update_time": 1766773991,
+    "_id": "Collocations of 'value'<SEP>Value"
+  },
+  "Collocations of 'different'<SEP>Different": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773991,
+    "update_time": 1766773991,
+    "_id": "Collocations of 'different'<SEP>Different"
+  },
+  "Collocations of 'music'<SEP>Music": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773991,
+    "update_time": 1766773991,
+    "_id": "Collocations of 'music'<SEP>Music"
+  },
+  "Distinctiveness<SEP>Identity": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773991,
+    "update_time": 1766773991,
+    "_id": "Distinctiveness<SEP>Identity"
+  },
+  "Collocations of 'topic'<SEP>Topic": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773991,
+    "update_time": 1766773991,
+    "_id": "Collocations of 'topic'<SEP>Topic"
+  },
+  "Collocations of 'learn'<SEP>Learn": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773992,
+    "update_time": 1766773992,
+    "_id": "Collocations of 'learn'<SEP>Learn"
+  },
+  "Cultural<SEP>Cultural Heritage": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773992,
+    "update_time": 1766773992,
+    "_id": "Cultural<SEP>Cultural Heritage"
+  },
+  "Anonymity<SEP>Identity": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773992,
+    "update_time": 1766773992,
+    "_id": "Anonymity<SEP>Identity"
+  },
+  "General / Sociology<SEP>Role": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773992,
+    "update_time": 1766773992,
+    "_id": "General / Sociology<SEP>Role"
+  },
+  "Cultural<SEP>Cultural Differences": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773992,
+    "update_time": 1766773992,
+    "_id": "Cultural<SEP>Cultural Differences"
+  },
+  "Collocations of 'identity'<SEP>Identity": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773992,
+    "update_time": 1766773992,
+    "_id": "Collocations of 'identity'<SEP>Identity"
+  },
+  "Function<SEP>Role": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773992,
+    "update_time": 1766773992,
+    "_id": "Function<SEP>Role"
+  },
+  "Cultural<SEP>Cultural Exchange": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773992,
+    "update_time": 1766773992,
+    "_id": "Cultural<SEP>Cultural Exchange"
+  },
+  "Part<SEP>Role": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773992,
+    "update_time": 1766773992,
+    "_id": "Part<SEP>Role"
+  },
+  "Cultural<SEP>Cultural Background": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773992,
+    "update_time": 1766773992,
+    "_id": "Cultural<SEP>Cultural Background"
+  },
+  "Capacity<SEP>Role": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773992,
+    "update_time": 1766773992,
+    "_id": "Capacity<SEP>Role"
+  },
+  "Belief<SEP>Philosophy / Religion": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773992,
+    "update_time": 1766773992,
+    "_id": "Belief<SEP>Philosophy / Religion"
+  },
+  "Position<SEP>Role": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773993,
+    "update_time": 1766773993,
+    "_id": "Position<SEP>Role"
+  },
+  "Belief<SEP>Faith": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773993,
+    "update_time": 1766773993,
+    "_id": "Belief<SEP>Faith"
+  },
+  "Belief<SEP>Conviction": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773993,
+    "update_time": 1766773993,
+    "_id": "Belief<SEP>Conviction"
+  },
+  "Duty<SEP>Role": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773993,
+    "update_time": 1766773993,
+    "_id": "Duty<SEP>Role"
+  },
+  "Belief<SEP>Opinion": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773993,
+    "update_time": 1766773993,
+    "_id": "Belief<SEP>Opinion"
+  },
+  "Play a Role<SEP>Role": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773993,
+    "update_time": 1766773993,
+    "_id": "Play a Role<SEP>Role"
+  },
+  "Belief<SEP>View": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773993,
+    "update_time": 1766773993,
+    "_id": "Belief<SEP>View"
+  },
+  "Key Role<SEP>Role": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773993,
+    "update_time": 1766773993,
+    "_id": "Key Role<SEP>Role"
+  },
+  "Belief<SEP>Creed": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773993,
+    "update_time": 1766773993,
+    "_id": "Belief<SEP>Creed"
+  },
+  "Leading Role<SEP>Role": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773993,
+    "update_time": 1766773993,
+    "_id": "Leading Role<SEP>Role"
+  },
+  "Belief<SEP>Disbelief": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773994,
+    "update_time": 1766773994,
+    "_id": "Belief<SEP>Disbelief"
+  },
+  "Role<SEP>Role Model": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773994,
+    "update_time": 1766773994,
+    "_id": "Role<SEP>Role Model"
+  },
+  "Belief<SEP>Doubt": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773994,
+    "update_time": 1766773994,
+    "_id": "Belief<SEP>Doubt"
+  },
+  "Economics / Sociology<SEP>Globalization": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773994,
+    "update_time": 1766773994,
+    "_id": "Economics / Sociology<SEP>Globalization"
+  },
+  "Belief<SEP>Skepticism": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773994,
+    "update_time": 1766773994,
+    "_id": "Belief<SEP>Skepticism"
+  },
+  "Globalization<SEP>Internationalization": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773994,
+    "update_time": 1766773994,
+    "_id": "Globalization<SEP>Internationalization"
+  },
+  "Belief<SEP>Strong Belief": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773994,
+    "update_time": 1766773994,
+    "_id": "Belief<SEP>Strong Belief"
+  },
+  "Globalization<SEP>Universalization": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773994,
+    "update_time": 1766773994,
+    "_id": "Globalization<SEP>Universalization"
+  },
+  "Belief<SEP>Religious Belief": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773995,
+    "update_time": 1766773995,
+    "_id": "Belief<SEP>Religious Belief"
+  },
+  "Globalization<SEP>Integration": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773995,
+    "update_time": 1766773995,
+    "_id": "Globalization<SEP>Integration"
+  },
+  "Belief<SEP>Belief System": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773995,
+    "update_time": 1766773995,
+    "_id": "Belief<SEP>Belief System"
+  },
+  "Globalization<SEP>Localization": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773995,
+    "update_time": 1766773995,
+    "_id": "Globalization<SEP>Localization"
+  },
+  "Belief<SEP>Contrary to Popular Belief": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773995,
+    "update_time": 1766773995,
+    "_id": "Belief<SEP>Contrary to Popular Belief"
+  },
+  "Globalization<SEP>Isolationism": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773995,
+    "update_time": 1766773995,
+    "_id": "Globalization<SEP>Isolationism"
+  },
+  "Fear<SEP>Psychology": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773995,
+    "update_time": 1766773995,
+    "_id": "Fear<SEP>Psychology"
+  },
+  "Dread<SEP>Fear": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773995,
+    "update_time": 1766773995,
+    "_id": "Dread<SEP>Fear"
+  },
+  "Globalization<SEP>Protectionism": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773995,
+    "update_time": 1766773995,
+    "_id": "Globalization<SEP>Protectionism"
+  },
+  "Fear<SEP>Fright": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773995,
+    "update_time": 1766773995,
+    "_id": "Fear<SEP>Fright"
+  },
+  "Economic Globalization<SEP>Globalization": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773995,
+    "update_time": 1766773995,
+    "_id": "Economic Globalization<SEP>Globalization"
+  },
+  "Fear<SEP>Terror": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773996,
+    "update_time": 1766773996,
+    "_id": "Fear<SEP>Terror"
+  },
+  "Globalization<SEP>Impact of Globalization": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773996,
+    "update_time": 1766773996,
+    "_id": "Globalization<SEP>Impact of Globalization"
+  },
+  "Era of Globalization<SEP>Globalization": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773996,
+    "update_time": 1766773996,
+    "_id": "Era of Globalization<SEP>Globalization"
+  },
+  "Fear<SEP>Panic": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773996,
+    "update_time": 1766773996,
+    "_id": "Fear<SEP>Panic"
+  },
+  "Anti-Globalization<SEP>Globalization": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773996,
+    "update_time": 1766773996,
+    "_id": "Anti-Globalization<SEP>Globalization"
+  },
+  "Anxiety<SEP>Fear": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773996,
+    "update_time": 1766773996,
+    "_id": "Anxiety<SEP>Fear"
+  },
+  "Courage<SEP>Fear": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773996,
+    "update_time": 1766773996,
+    "_id": "Courage<SEP>Fear"
+  },
+  "Bravery<SEP>Fear": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773997,
+    "update_time": 1766773997,
+    "_id": "Bravery<SEP>Fear"
+  },
+  "Economics / Communication<SEP>Exchange": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773997,
+    "update_time": 1766773997,
+    "_id": "Economics / Communication<SEP>Exchange"
+  },
+  "Confidence<SEP>Fear": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773997,
+    "update_time": 1766773997,
+    "_id": "Confidence<SEP>Fear"
+  },
+  "Exchange<SEP>Trade": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773997,
+    "update_time": 1766773997,
+    "_id": "Exchange<SEP>Trade"
+  },
+  "Fear<SEP>Fearlessness": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773997,
+    "update_time": 1766773997,
+    "_id": "Fear<SEP>Fearlessness"
+  },
+  "Exchange<SEP>Swap": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773997,
+    "update_time": 1766773997,
+    "_id": "Exchange<SEP>Swap"
+  },
+  "Exchange<SEP>Interchange": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773997,
+    "update_time": 1766773997,
+    "_id": "Exchange<SEP>Interchange"
+  },
+  "Fear<SEP>Fear of": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773997,
+    "update_time": 1766773997,
+    "_id": "Fear<SEP>Fear of"
+  },
+  "Barter<SEP>Exchange": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773997,
+    "update_time": 1766773997,
+    "_id": "Barter<SEP>Exchange"
+  },
+  "Fear<SEP>Overcome Fear": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773997,
+    "update_time": 1766773997,
+    "_id": "Fear<SEP>Overcome Fear"
+  },
+  "Exchange<SEP>Switch": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773998,
+    "update_time": 1766773998,
+    "_id": "Exchange<SEP>Switch"
+  },
+  "Deep-Seated Fear<SEP>Fear": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773998,
+    "update_time": 1766773998,
+    "_id": "Deep-Seated Fear<SEP>Fear"
+  },
+  "Exchange<SEP>Keep": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773998,
+    "update_time": 1766773998,
+    "_id": "Exchange<SEP>Keep"
+  },
+  "Fear<SEP>Living in Fear": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773998,
+    "update_time": 1766773998,
+    "_id": "Fear<SEP>Living in Fear"
+  },
+  "Cause<SEP>General / Science": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773998,
+    "update_time": 1766773998,
+    "_id": "Cause<SEP>General / Science"
+  },
+  "Exchange<SEP>Hold": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773998,
+    "update_time": 1766773998,
+    "_id": "Exchange<SEP>Hold"
+  },
+  "Cause<SEP>Reason": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773998,
+    "update_time": 1766773998,
+    "_id": "Cause<SEP>Reason"
+  },
+  "Cause<SEP>Source": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773998,
+    "update_time": 1766773998,
+    "_id": "Cause<SEP>Source"
+  },
+  "Cultural Exchange<SEP>Exchange": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773998,
+    "update_time": 1766773998,
+    "_id": "Cultural Exchange<SEP>Exchange"
+  },
+  "Exchange<SEP>Exchange Rate": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773998,
+    "update_time": 1766773998,
+    "_id": "Exchange<SEP>Exchange Rate"
+  },
+  "Cause<SEP>Origin": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773998,
+    "update_time": 1766773998,
+    "_id": "Cause<SEP>Origin"
+  },
+  "Cause<SEP>Root": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773999,
+    "update_time": 1766773999,
+    "_id": "Cause<SEP>Root"
+  },
+  "Exchange<SEP>Exchange Ideas": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773999,
+    "update_time": 1766773999,
+    "_id": "Exchange<SEP>Exchange Ideas"
+  },
+  "Exchange<SEP>Exchange Student": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773999,
+    "update_time": 1766773999,
+    "_id": "Exchange<SEP>Exchange Student"
+  },
+  "Basis<SEP>Cause": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773999,
+    "update_time": 1766773999,
+    "_id": "Basis<SEP>Cause"
+  },
+  "Cause<SEP>Effect": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773999,
+    "update_time": 1766773999,
+    "_id": "Cause<SEP>Effect"
+  },
+  "Cause<SEP>Result": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773999,
+    "update_time": 1766773999,
+    "_id": "Cause<SEP>Result"
+  },
+  "People<SEP>Sociology": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773999,
+    "update_time": 1766773999,
+    "_id": "People<SEP>Sociology"
+  },
+  "Humans<SEP>People": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766774000,
+    "update_time": 1766774000,
+    "_id": "Humans<SEP>People"
+  },
+  "Cause<SEP>Outcome": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766774000,
+    "update_time": 1766774000,
+    "_id": "Cause<SEP>Outcome"
+  },
+  "Individuals<SEP>People": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766774000,
+    "update_time": 1766774000,
+    "_id": "Individuals<SEP>People"
+  },
+  "Cause<SEP>Consequence": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766774000,
+    "update_time": 1766774000,
+    "_id": "Cause<SEP>Consequence"
+  },
+  "Cause<SEP>Root Cause": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766774000,
+    "update_time": 1766774000,
+    "_id": "Cause<SEP>Root Cause"
+  },
+  "People<SEP>Persons": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766774000,
+    "update_time": 1766774000,
+    "_id": "People<SEP>Persons"
+  },
+  "People<SEP>Public": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766774000,
+    "update_time": 1766774000,
+    "_id": "People<SEP>Public"
+  },
+  "Cause<SEP>Cause and Effect": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766774000,
+    "update_time": 1766774000,
+    "_id": "Cause<SEP>Cause and Effect"
+  },
+  "Cause<SEP>Cause of Death": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766774001,
+    "update_time": 1766774001,
+    "_id": "Cause<SEP>Cause of Death"
+  },
+  "People<SEP>Populace": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766774001,
+    "update_time": 1766774001,
+    "_id": "People<SEP>Populace"
+  },
+  "Arts / Education<SEP>Literature": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766774001,
+    "update_time": 1766774001,
+    "_id": "Arts / Education<SEP>Literature"
+  },
+  "Literature<SEP>Writings": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766774001,
+    "update_time": 1766774001,
+    "_id": "Literature<SEP>Writings"
+  },
+  "People<SEP>Young People": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766774001,
+    "update_time": 1766774001,
+    "_id": "People<SEP>Young People"
+  },
+  "Cause<SEP>Major Cause": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766774001,
+    "update_time": 1766774001,
+    "_id": "Cause<SEP>Major Cause"
+  },
+  "Books<SEP>Literature": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766774001,
+    "update_time": 1766774001,
+    "_id": "Books<SEP>Literature"
+  },
+  "Local People<SEP>People": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766774001,
+    "update_time": 1766774001,
+    "_id": "Local People<SEP>People"
+  },
+  "Literature<SEP>Texts": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766774001,
+    "update_time": 1766774001,
+    "_id": "Literature<SEP>Texts"
+  },
+  "People<SEP>People Say": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766774001,
+    "update_time": 1766774001,
+    "_id": "People<SEP>People Say"
+  },
+  "Group of People<SEP>People": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766774001,
+    "update_time": 1766774001,
+    "_id": "Group of People<SEP>People"
+  },
+  "Letters<SEP>Literature": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766774001,
+    "update_time": 1766774001,
+    "_id": "Letters<SEP>Literature"
+  },
+  "Physics / Psychology<SEP>Reflect": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766774001,
+    "update_time": 1766774001,
+    "_id": "Physics / Psychology<SEP>Reflect"
+  },
+  "Embrace<SEP>Embrace Change": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766774002,
+    "update_time": 1766774002,
+    "_id": "Embrace<SEP>Embrace Change"
+  },
+  "Literature<SEP>Prose": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85",
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 2,
+    "create_time": 1766774002,
+    "update_time": 1766774002,
+    "_id": "Literature<SEP>Prose"
+  },
+  "English Literature<SEP>Literature": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85",
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 2,
+    "create_time": 1766774002,
+    "update_time": 1766774002,
+    "_id": "English Literature<SEP>Literature"
+  },
+  "Embrace<SEP>Embrace Diversity": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766774002,
+    "update_time": 1766774002,
+    "_id": "Embrace<SEP>Embrace Diversity"
+  },
+  "Physics<SEP>Reflect": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774002,
+    "update_time": 1766774002,
+    "_id": "Physics<SEP>Reflect"
+  },
+  "Psychology<SEP>Reflect": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774002,
+    "update_time": 1766774002,
+    "_id": "Psychology<SEP>Reflect"
+  },
+  "Embrace<SEP>Embrace An Opportunity": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766774002,
+    "update_time": 1766774002,
+    "_id": "Embrace<SEP>Embrace An Opportunity"
+  },
+  "Classic Literature<SEP>Literature": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85",
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 2,
+    "create_time": 1766774002,
+    "update_time": 1766774002,
+    "_id": "Classic Literature<SEP>Literature"
+  },
+  "Mirror<SEP>Reflect": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774002,
+    "update_time": 1766774002,
+    "_id": "Mirror<SEP>Reflect"
+  },
+  "Embrace<SEP>Warmly Embrace": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766774002,
+    "update_time": 1766774002,
+    "_id": "Embrace<SEP>Warmly Embrace"
+  },
+  "Culture<SEP>Sociology": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774003,
+    "update_time": 1766774003,
+    "_id": "Culture<SEP>Sociology"
+  },
+  "Contemplate<SEP>Reflect": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774003,
+    "update_time": 1766774003,
+    "_id": "Contemplate<SEP>Reflect"
+  },
+  "Literature<SEP>Modern Literature": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85",
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 2,
+    "create_time": 1766774003,
+    "update_time": 1766774003,
+    "_id": "Literature<SEP>Modern Literature"
+  },
+  "Anthropology<SEP>Culture": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774003,
+    "update_time": 1766774003,
+    "_id": "Anthropology<SEP>Culture"
+  },
+  "Literature<SEP>Review the Literature": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85",
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 2,
+    "create_time": 1766774003,
+    "update_time": 1766774003,
+    "_id": "Literature<SEP>Review the Literature"
+  },
+  "Lead<SEP>Leadership": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774003,
+    "update_time": 1766774003,
+    "_id": "Lead<SEP>Leadership"
+  },
+  "Absorb<SEP>Reflect": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774003,
+    "update_time": 1766774003,
+    "_id": "Absorb<SEP>Reflect"
+  },
+  "Culture<SEP>Heritage": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774003,
+    "update_time": 1766774003,
+    "_id": "Culture<SEP>Heritage"
+  },
+  "General<SEP>Lead": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774004,
+    "update_time": 1766774004,
+    "_id": "General<SEP>Lead"
+  },
+  "Culture<SEP>Nature": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774004,
+    "update_time": 1766774004,
+    "_id": "Culture<SEP>Nature"
+  },
+  "Ignore<SEP>Reflect": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774004,
+    "update_time": 1766774004,
+    "_id": "Ignore<SEP>Reflect"
+  },
+  "Culture (field for heritage)<SEP>Heritage": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774004,
+    "update_time": 1766774004,
+    "_id": "Culture (field for heritage)<SEP>Heritage"
+  },
+  "Guide<SEP>Lead": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774004,
+    "update_time": 1766774004,
+    "_id": "Guide<SEP>Lead"
+  },
+  "Heritage<SEP>History": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774004,
+    "update_time": 1766774004,
+    "_id": "Heritage<SEP>History"
+  },
+  "Culture (field for tradition)<SEP>Tradition": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774004,
+    "update_time": 1766774004,
+    "_id": "Culture (field for tradition)<SEP>Tradition"
+  },
+  "Heritage<SEP>Legacy": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774004,
+    "update_time": 1766774004,
+    "_id": "Heritage<SEP>Legacy"
+  },
+  "Sociology (field for tradition)<SEP>Tradition": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774004,
+    "update_time": 1766774004,
+    "_id": "Sociology (field for tradition)<SEP>Tradition"
+  },
+  "Direct<SEP>Lead": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774005,
+    "update_time": 1766774005,
+    "_id": "Direct<SEP>Lead"
+  },
+  "Custom<SEP>Tradition": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774005,
+    "update_time": 1766774005,
+    "_id": "Custom<SEP>Tradition"
+  },
+  "Heritage<SEP>Inheritance": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774005,
+    "update_time": 1766774005,
+    "_id": "Heritage<SEP>Inheritance"
+  },
+  "Follow<SEP>Lead": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774005,
+    "update_time": 1766774005,
+    "_id": "Follow<SEP>Lead"
+  },
+  "Conservation<SEP>Preserve": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774005,
+    "update_time": 1766774005,
+    "_id": "Conservation<SEP>Preserve"
+  },
+  "Practice<SEP>Tradition": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774005,
+    "update_time": 1766774005,
+    "_id": "Practice<SEP>Tradition"
+  },
+  "History (field for preserve)<SEP>Preserve": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774005,
+    "update_time": 1766774005,
+    "_id": "History (field for preserve)<SEP>Preserve"
+  },
+  "Lead<SEP>Obey": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774005,
+    "update_time": 1766774005,
+    "_id": "Lead<SEP>Obey"
+  },
+  "Preserve<SEP>Protect": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774005,
+    "update_time": 1766774005,
+    "_id": "Preserve<SEP>Protect"
+  },
+  "Innovation<SEP>Tradition": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774006,
+    "update_time": 1766774006,
+    "_id": "Innovation<SEP>Tradition"
+  },
+  "Reflect<SEP>Reflect on": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774006,
+    "update_time": 1766774006,
+    "_id": "Reflect<SEP>Reflect on"
+  },
+  "Maintain<SEP>Preserve": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774006,
+    "update_time": 1766774006,
+    "_id": "Maintain<SEP>Preserve"
+  },
+  "Novelty<SEP>Tradition": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774006,
+    "update_time": 1766774006,
+    "_id": "Novelty<SEP>Tradition"
+  },
+  "Reflect<SEP>Reflect Light": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774006,
+    "update_time": 1766774006,
+    "_id": "Reflect<SEP>Reflect Light"
+  },
+  "Culture<SEP>Pop Culture": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774006,
+    "update_time": 1766774006,
+    "_id": "Culture<SEP>Pop Culture"
+  },
+  "Destroy<SEP>Preserve": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774006,
+    "update_time": 1766774006,
+    "_id": "Destroy<SEP>Preserve"
+  },
+  "Reflect<SEP>Reflect the Reality": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774007,
+    "update_time": 1766774007,
+    "_id": "Reflect<SEP>Reflect the Reality"
+  },
+  "Corporate Culture<SEP>Culture": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774007,
+    "update_time": 1766774007,
+    "_id": "Corporate Culture<SEP>Culture"
+  },
+  "Lead<SEP>Lead to": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774007,
+    "update_time": 1766774007,
+    "_id": "Lead<SEP>Lead to"
+  },
+  "Neglect<SEP>Preserve": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774007,
+    "update_time": 1766774007,
+    "_id": "Neglect<SEP>Preserve"
+  },
+  "Culture<SEP>Culture Shock": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774007,
+    "update_time": 1766774007,
+    "_id": "Culture<SEP>Culture Shock"
+  },
+  "Reflect<SEP>Time to Reflect": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774007,
+    "update_time": 1766774007,
+    "_id": "Reflect<SEP>Time to Reflect"
+  },
+  "Lead<SEP>Lead the Way": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774007,
+    "update_time": 1766774007,
+    "_id": "Lead<SEP>Lead the Way"
+  },
+  "Cultural Heritage<SEP>Heritage": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774007,
+    "update_time": 1766774007,
+    "_id": "Cultural Heritage<SEP>Heritage"
+  },
+  "Lead<SEP>Take the Lead": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774007,
+    "update_time": 1766774007,
+    "_id": "Lead<SEP>Take the Lead"
+  },
+  "Heritage<SEP>National Heritage": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774007,
+    "update_time": 1766774007,
+    "_id": "Heritage<SEP>National Heritage"
+  },
+  "Culture<SEP>Rich Culture": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774007,
+    "update_time": 1766774007,
+    "_id": "Culture<SEP>Rich Culture"
+  },
+  "Long Tradition<SEP>Tradition": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774007,
+    "update_time": 1766774007,
+    "_id": "Long Tradition<SEP>Tradition"
+  },
+  "Lead<SEP>Lead a Team": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774008,
+    "update_time": 1766774008,
+    "_id": "Lead<SEP>Lead a Team"
+  },
+  "Follow Tradition<SEP>Tradition": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774008,
+    "update_time": 1766774008,
+    "_id": "Follow Tradition<SEP>Tradition"
+  },
+  "Heritage<SEP>Preserve Heritage": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774008,
+    "update_time": 1766774008,
+    "_id": "Heritage<SEP>Preserve Heritage"
+  },
+  "Preserve<SEP>Preserve Peace": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774008,
+    "update_time": 1766774008,
+    "_id": "Preserve<SEP>Preserve Peace"
+  },
+  "Heritage<SEP>Rich Heritage": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774008,
+    "update_time": 1766774008,
+    "_id": "Heritage<SEP>Rich Heritage"
+  },
+  "Preserve<SEP>Preserve Culture": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774008,
+    "update_time": 1766774008,
+    "_id": "Preserve<SEP>Preserve Culture"
+  },
+  "Echo<SEP>Reflect": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774008,
+    "update_time": 1766774008,
+    "_id": "Echo<SEP>Reflect"
+  },
+  "Break with Tradition<SEP>Tradition": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774008,
+    "update_time": 1766774008,
+    "_id": "Break with Tradition<SEP>Tradition"
+  },
+  "Preserve<SEP>Preserve the Environment": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774009,
+    "update_time": 1766774009,
+    "_id": "Preserve<SEP>Preserve the Environment"
+  },
+  "Culture<SEP>Customs": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774009,
+    "update_time": 1766774009,
+    "_id": "Culture<SEP>Customs"
+  },
+  "Oral Tradition<SEP>Tradition": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774009,
+    "update_time": 1766774009,
+    "_id": "Oral Tradition<SEP>Tradition"
+  },
+  "Ponder<SEP>Reflect": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774009,
+    "update_time": 1766774009,
+    "_id": "Ponder<SEP>Reflect"
+  },
+  "Culture<SEP>Way of Life": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774009,
+    "update_time": 1766774009,
+    "_id": "Culture<SEP>Way of Life"
+  },
+  "Govern<SEP>Lead": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774009,
+    "update_time": 1766774009,
+    "_id": "Govern<SEP>Lead"
+  },
+  "Preserve<SEP>Preserve for Future Generations": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774009,
+    "update_time": 1766774009,
+    "_id": "Preserve<SEP>Preserve for Future Generations"
+  },
+  "Disregard<SEP>Reflect": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774009,
+    "update_time": 1766774009,
+    "_id": "Disregard<SEP>Reflect"
+  },
+  "Culture (field)<SEP>Heritage": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774009,
+    "update_time": 1766774009,
+    "_id": "Culture (field)<SEP>Heritage"
+  },
+  "Heritage<SEP>Tradition": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774010,
+    "update_time": 1766774010,
+    "_id": "Heritage<SEP>Tradition"
+  },
+  "Civilization<SEP>Culture": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774010,
+    "update_time": 1766774010,
+    "_id": "Civilization<SEP>Culture"
+  },
+  "Head<SEP>Lead": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774010,
+    "update_time": 1766774010,
+    "_id": "Head<SEP>Lead"
+  },
+  "Convention<SEP>Tradition": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774010,
+    "update_time": 1766774010,
+    "_id": "Convention<SEP>Tradition"
+  },
+  "Ancestry<SEP>Heritage": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774010,
+    "update_time": 1766774010,
+    "_id": "Ancestry<SEP>Heritage"
+  },
+  "Ritual<SEP>Tradition": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774010,
+    "update_time": 1766774010,
+    "_id": "Ritual<SEP>Tradition"
+  },
+  "Command<SEP>Lead": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774010,
+    "update_time": 1766774010,
+    "_id": "Command<SEP>Lead"
+  },
+  "Conserve<SEP>Preserve": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774010,
+    "update_time": 1766774010,
+    "_id": "Conserve<SEP>Preserve"
+  },
+  "Heritage<SEP>History (as synonym)": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774010,
+    "update_time": 1766774010,
+    "_id": "Heritage<SEP>History (as synonym)"
+  },
+  "Habit<SEP>Tradition": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774011,
+    "update_time": 1766774011,
+    "_id": "Habit<SEP>Tradition"
+  },
+  "Preserve<SEP>Save": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774011,
+    "update_time": 1766774011,
+    "_id": "Preserve<SEP>Save"
+  },
+  "English literature<SEP>Literature": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774011,
+    "update_time": 1766774011,
+    "_id": "English literature<SEP>Literature"
+  },
+  "Modenity<SEP>Tradition": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774011,
+    "update_time": 1766774011,
+    "_id": "Modenity<SEP>Tradition"
+  },
+  "Classic literature<SEP>Literature": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774011,
+    "update_time": 1766774011,
+    "_id": "Classic literature<SEP>Literature"
+  },
+  "Keep<SEP>Preserve": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774011,
+    "update_time": 1766774011,
+    "_id": "Keep<SEP>Preserve"
+  },
+  "Reflect<SEP>Reflect light": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774011,
+    "update_time": 1766774011,
+    "_id": "Reflect<SEP>Reflect light"
+  },
+  "Literature<SEP>Modern literature": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774012,
+    "update_time": 1766774012,
+    "_id": "Literature<SEP>Modern literature"
+  },
+  "Reflect<SEP>Reflect the reality": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774012,
+    "update_time": 1766774012,
+    "_id": "Reflect<SEP>Reflect the reality"
+  },
+  "Preserve<SEP>Ruin": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774012,
+    "update_time": 1766774012,
+    "_id": "Preserve<SEP>Ruin"
+  },
+  "Culture<SEP>Pop culture": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774012,
+    "update_time": 1766774012,
+    "_id": "Culture<SEP>Pop culture"
+  },
+  "Literature<SEP>Review the literature": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774012,
+    "update_time": 1766774012,
+    "_id": "Literature<SEP>Review the literature"
+  },
+  "Abandon<SEP>Preserve": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774012,
+    "update_time": 1766774012,
+    "_id": "Abandon<SEP>Preserve"
+  },
+  "Reflect<SEP>Time to reflect": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774012,
+    "update_time": 1766774012,
+    "_id": "Reflect<SEP>Time to reflect"
+  },
+  "Corporate culture<SEP>Culture": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774012,
+    "update_time": 1766774012,
+    "_id": "Corporate culture<SEP>Culture"
+  },
+  "Lead<SEP>Lead the way": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774012,
+    "update_time": 1766774012,
+    "_id": "Lead<SEP>Lead the way"
+  },
+  "Lead<SEP>Take the lead": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774013,
+    "update_time": 1766774013,
+    "_id": "Lead<SEP>Take the lead"
+  },
+  "Cultural heritage<SEP>Heritage": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774013,
+    "update_time": 1766774013,
+    "_id": "Cultural heritage<SEP>Heritage"
+  },
+  "Culture<SEP>Culture shock": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774013,
+    "update_time": 1766774013,
+    "_id": "Culture<SEP>Culture shock"
+  },
+  "Heritage<SEP>National heritage": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774013,
+    "update_time": 1766774013,
+    "_id": "Heritage<SEP>National heritage"
+  },
+  "Long tradition<SEP>Tradition": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774013,
+    "update_time": 1766774013,
+    "_id": "Long tradition<SEP>Tradition"
+  },
+  "Lead<SEP>Lead a team": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774013,
+    "update_time": 1766774013,
+    "_id": "Lead<SEP>Lead a team"
+  },
+  "Culture<SEP>Rich culture": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774013,
+    "update_time": 1766774013,
+    "_id": "Culture<SEP>Rich culture"
+  },
+  "Follow tradition<SEP>Tradition": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774014,
+    "update_time": 1766774014,
+    "_id": "Follow tradition<SEP>Tradition"
+  },
+  "Heritage<SEP>Preserve heritage": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774014,
+    "update_time": 1766774014,
+    "_id": "Heritage<SEP>Preserve heritage"
+  },
+  "Preserve<SEP>Preserve peace": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774014,
+    "update_time": 1766774014,
+    "_id": "Preserve<SEP>Preserve peace"
+  },
+  "Heritage<SEP>Rich heritage": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774014,
+    "update_time": 1766774014,
+    "_id": "Heritage<SEP>Rich heritage"
+  },
+  "Break with tradition<SEP>Tradition": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774014,
+    "update_time": 1766774014,
+    "_id": "Break with tradition<SEP>Tradition"
+  },
+  "Preserve<SEP>Preserve culture": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774014,
+    "update_time": 1766774014,
+    "_id": "Preserve<SEP>Preserve culture"
+  },
+  "Preserve<SEP>Preserve the environment": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774014,
+    "update_time": 1766774014,
+    "_id": "Preserve<SEP>Preserve the environment"
+  },
+  "Oral tradition<SEP>Tradition": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774014,
+    "update_time": 1766774014,
+    "_id": "Oral tradition<SEP>Tradition"
+  },
+  "Preserve<SEP>Preserve for future generations": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774015,
+    "update_time": 1766774015,
+    "_id": "Preserve<SEP>Preserve for future generations"
+  }
+}

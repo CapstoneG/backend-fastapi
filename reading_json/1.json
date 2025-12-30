@@ -1,0 +1,258 @@
+[
+  {
+    "word": "allow",
+    "definition": "To give permission for something to happen or to be done; to permit.",
+    "synonyms": ["permit", "let", "authorize", "grant", "enable"],
+    "antonyms": ["forbid", "prohibit", "disallow", "ban", "prevent"],
+    "topic": "General / Governance",
+    "collocations": ["allow access", "allow time", "allow for", "allow someone to do something"]
+  },
+  {
+    "word": "society",
+    "definition": "The aggregate of people living together in a more or less ordered community.",
+    "synonyms": ["community", "public", "populace", "civilization", "humanity"],
+    "antonyms": ["isolation", "solitude"],
+    "topic": "Sociology",
+    "collocations": ["modern society", "multicultural society", "society as a whole", "role in society"]
+  },
+  {
+    "word": "art",
+    "definition": "The expression or application of human creative skill and imagination, typically in a visual form such as painting or sculpture.",
+    "synonyms": ["artwork", "creation", "craft", "skill", "masterpiece"],
+    "antonyms": ["science", "reality"],
+    "topic": "Culture / Arts",
+    "collocations": ["work of art", "modern art", "art gallery", "art history"]
+  },
+  {
+    "word": "homogenization",
+    "definition": "The process of making things uniform or similar.",
+    "synonyms": ["standardization", "uniformity", "assimilation", "blending"],
+    "antonyms": ["diversification", "heterogeneity", "differentiation"],
+    "topic": "Sociology / Globalization",
+    "collocations": ["cultural homogenization", "homogenization of products", "global homogenization", "process of homogenization"]
+  },
+  {
+    "word": "value",
+    "definition": "The importance, worth, or usefulness of something; principles or standards of behaviour.",
+    "synonyms": ["worth", "merit", "importance", "principle", "standard"],
+    "antonyms": ["worthlessness", "insignificance"],
+    "topic": "Ethics / Economics",
+    "collocations": ["core values", "value system", "added value", "place value on"]
+  },
+  {
+    "word": "different",
+    "definition": "Not the same as another or each other; unlike in nature, form, or quality.",
+    "synonyms": ["distinct", "dissimilar", "diverse", "varied", "unique"],
+    "antonyms": ["same", "similar", "identical", "alike"],
+    "topic": "General",
+    "collocations": ["different from", "different perspective", "many different", "completely different"]
+  },
+  {
+    "word": "music",
+    "definition": "Vocal or instrumental sounds (or both) combined in such a way as to produce beauty of form, harmony, and expression of emotion.",
+    "synonyms": ["melody", "tune", "composition", "harmony"],
+    "antonyms": ["silence", "noise"],
+    "topic": "Culture / Arts",
+    "collocations": ["listen to music", "classical music", "live music", "background music"]
+  },
+  {
+    "word": "identity",
+    "definition": "The fact of being who or what a person or thing is; the characteristics determining who or what a person or thing is.",
+    "synonyms": ["individuality", "self", "personality", "character", "distinctiveness"],
+    "antonyms": ["anonymity"],
+    "topic": "Psychology / Sociology",
+    "collocations": ["cultural identity", "personal identity", "national identity", "identity crisis"]
+  },
+  {
+    "word": "topic",
+    "definition": "A matter dealt with in a text, discourse, or conversation; a subject.",
+    "synonyms": ["subject", "theme", "issue", "matter", "point"],
+    "antonyms": [],
+    "topic": "Communication",
+    "collocations": ["hot topic", "topic of discussion", "main topic", "cover a topic"]
+  },
+  {
+    "word": "learn",
+    "definition": "Gain or acquire knowledge of or skill in something by study, experience, or being taught.",
+    "synonyms": ["acquire", "grasp", "master", "study", "understand"],
+    "antonyms": ["teach", "forget", "ignore"],
+    "topic": "Education",
+    "collocations": ["learn from", "learn about", "eager to learn", "learn a lesson"]
+  },
+  {
+    "word": "important",
+    "definition": "Of great significance or value; likely to have a profound effect on success, survival, or well-being.",
+    "synonyms": ["significant", "crucial", "vital", "essential", "key"],
+    "antonyms": ["unimportant", "insignificant", "trivial", "minor"],
+    "topic": "General",
+    "collocations": ["play an important role", "extremely important", "important decision", "vitally important"]
+  },
+  {
+    "word": "essential",
+    "definition": "Absolutely necessary; extremely important.",
+    "synonyms": ["crucial", "vital", "necessary", "fundamental", "indispensable"],
+    "antonyms": ["nonessential", "optional", "unnecessary", "expendable"],
+    "topic": "General",
+    "collocations": ["essential part", "absolutely essential", "essential nutrient", "essential skill"]
+  },
+  {
+    "word": "play",
+    "definition": "Engage in activity for enjoyment and recreation rather than a serious or practical purpose; perform on a musical instrument.",
+    "synonyms": ["amuse oneself", "entertain", "perform", "act", "participate"],
+    "antonyms": ["work"],
+    "topic": "Leisure / Arts",
+    "collocations": ["play a role", "play a game", "play music", "play with"]
+  },
+  {
+    "word": "global",
+    "definition": "Relating to the whole world; worldwide.",
+    "synonyms": ["worldwide", "international", "universal", "planetary"],
+    "antonyms": ["local", "regional", "national", "domestic"],
+    "topic": "Geography / Politics",
+    "collocations": ["global warming", "global economy", "global market", "global scale"]
+  },
+  {
+    "word": "diversity",
+    "definition": "The state of being diverse; variety.",
+    "synonyms": ["variety", "assortment", "mixture", "multiplicity", "heterogeneity"],
+    "antonyms": ["uniformity", "similarity", "homogeneity"],
+    "topic": "Sociology / Ecology",
+    "collocations": ["cultural diversity", "biodiversity", "celebrate diversity", "diversity of opinion"]
+  },
+  {
+    "word": "communication",
+    "definition": "The imparting or exchanging of information or news.",
+    "synonyms": ["interaction", "contact", "correspondence", "transmission", "dialogue"],
+    "antonyms": ["silence", "concealment", "withholding"],
+    "topic": "General",
+    "collocations": ["effective communication", "communication skills", "means of communication", "breakdown in communication"]
+  },
+  {
+    "word": "embrace",
+    "definition": "To accept or support something willingly and enthusiastically.",
+    "synonyms": ["accept", "welcome", "adopt", "espouse", "support"],
+    "antonyms": ["reject", "refuse", "oppose", "shun"],
+    "topic": "Psychology / General",
+    "collocations": ["embrace change", "embrace diversity", "embrace an opportunity", "warmly embrace"]
+  },
+  {
+    "word": "cultural",
+    "definition": "Relating to the ideas, customs, and social behavior of a society.",
+    "synonyms": ["societal", "ethnic", "artistic", "educational"],
+    "antonyms": [],
+    "topic": "Sociology",
+    "collocations": ["cultural heritage", "cultural differences", "cultural exchange", "cultural background"]
+  },
+  {
+    "word": "role",
+    "definition": "The function assumed or part played by a person or thing in a particular situation.",
+    "synonyms": ["function", "part", "capacity", "position", "duty"],
+    "antonyms": [],
+    "topic": "General / Sociology",
+    "collocations": ["play a role", "key role", "leading role", "role model"]
+  },
+  {
+    "word": "belief",
+    "definition": "Trust, faith, or confidence in someone or something; an acceptance that a statement is true or that something exists.",
+    "synonyms": ["faith", "conviction", "opinion", "view", "creed"],
+    "antonyms": ["disbelief", "doubt", "skepticism"],
+    "topic": "Philosophy / Religion",
+    "collocations": ["strong belief", "religious belief", "belief system", "contrary to popular belief"]
+  },
+  {
+    "word": "globalization",
+    "definition": "The process by which businesses or other organizations develop international influence or start operating on an international scale.",
+    "synonyms": ["internationalization", "universalization", "integration"],
+    "antonyms": ["localization", "isolationism", "protectionism"],
+    "topic": "Economics / Sociology",
+    "collocations": ["economic globalization", "impact of globalization", "era of globalization", "anti-globalization"]
+  },
+  {
+    "word": "fear",
+    "definition": "An unpleasant emotion caused by the belief that someone or something is dangerous, likely to cause pain, or a threat.",
+    "synonyms": ["dread", "fright", "terror", "panic", "anxiety"],
+    "antonyms": ["courage", "bravery", "confidence", "fearlessness"],
+    "topic": "Psychology",
+    "collocations": ["fear of", "overcome fear", "deep-seated fear", "living in fear"]
+  },
+  {
+    "word": "exchange",
+    "definition": "An act of giving one thing and receiving another (especially of the same type or value) in return.",
+    "synonyms": ["trade", "swap", "interchange", "barter", "switch"],
+    "antonyms": ["keep", "hold"],
+    "topic": "Economics / Communication",
+    "collocations": ["cultural exchange", "exchange rate", "exchange ideas", "exchange student"]
+  },
+  {
+    "word": "cause",
+    "definition": "A person or thing that gives rise to an action, phenomenon, or condition.",
+    "synonyms": ["reason", "source", "origin", "root", "basis"],
+    "antonyms": ["effect", "result", "outcome", "consequence"],
+    "topic": "General / Science",
+    "collocations": ["root cause", "cause and effect", "cause of death", "major cause"]
+  },
+  {
+    "word": "people",
+    "definition": "Human beings in general or considered collectively.",
+    "synonyms": ["humans", "individuals", "persons", "public", "populace"],
+    "antonyms": [],
+    "topic": "Sociology",
+    "collocations": ["young people", "local people", "people say", "group of people"]
+  },
+  {
+    "word": "literature",
+    "definition": "Written works, especially those considered of superior or lasting artistic merit.",
+    "synonyms": ["writings", "books", "texts", "letters", "prose"],
+    "antonyms": [],
+    "topic": "Arts / Education",
+    "collocations": ["English literature", "classic literature", "modern literature", "review the literature"]
+  },
+  {
+    "word": "reflect",
+    "definition": "To throw back (heat, light, or sound) without absorbing it; to show an image of; to think deeply or carefully about.",
+    "synonyms": ["mirror", "echo", "contemplate", "ponder", "demonstrate"],
+    "antonyms": ["absorb", "ignore", "disregard"],
+    "topic": "Physics / Psychology",
+    "collocations": ["reflect on", "reflect light", "reflect the reality", "time to reflect"]
+  },
+  {
+    "word": "culture",
+    "definition": "The arts and other manifestations of human intellectual achievement regarded collectively.",
+    "synonyms": ["society", "heritage", "customs", "way of life", "civilization"],
+    "antonyms": ["nature"],
+    "topic": "Sociology / Anthropology",
+    "collocations": ["pop culture", "corporate culture", "culture shock", "rich culture"]
+  },
+  {
+    "word": "lead",
+    "definition": "To be in charge or command of; to guide on a way especially by going in advance.",
+    "synonyms": ["guide", "direct", "govern", "head", "command"],
+    "antonyms": ["follow", "obey"],
+    "topic": "Leadership / General",
+    "collocations": ["lead to", "lead the way", "take the lead", "lead a team"]
+  },
+  {
+    "word": "heritage",
+    "definition": "Property that is or may be inherited; valued objects and qualities such as historic buildings and cultural traditions that have been passed down from previous generations.",
+    "synonyms": ["legacy", "inheritance", "tradition", "ancestry", "history"],
+    "antonyms": [],
+    "topic": "Culture / History",
+    "collocations": ["cultural heritage", "national heritage", "preserve heritage", "rich heritage"]
+  },
+  {
+    "word": "tradition",
+    "definition": "The transmission of customs or beliefs from generation to generation, or the fact of being passed on in this way.",
+    "synonyms": ["custom", "practice", "convention", "ritual", "habit"],
+    "antonyms": ["innovation", "novelty", "modernity"],
+    "topic": "Culture / Sociology",
+    "collocations": ["long tradition", "follow tradition", "break with tradition", "oral tradition"]
+  },
+  {
+    "word": "preserve",
+    "definition": "To maintain (something) in its original or existing state.",
+    "synonyms": ["protect", "maintain", "conserve", "save", "keep"],
+    "antonyms": ["destroy", "neglect", "ruin", "abandon"],
+    "topic": "Conservation / History",
+    "collocations": ["preserve peace", "preserve culture", "preserve the environment", "preserve for future generations"]
+  }
+]

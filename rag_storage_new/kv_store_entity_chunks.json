@@ -1,0 +1,4045 @@
+{
+  "Culture": {
+    "chunk_ids": [
+      "chunk-41fc9250a6b1fd299c982632197998af",
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 2,
+    "update_time": 1766773977,
+    "_id": "Culture"
+  },
+  "Society": {
+    "chunk_ids": [
+      "chunk-41fc9250a6b1fd299c982632197998af",
+      "chunk-13c1852ae8531ada53791c4956a59104",
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 3,
+    "update_time": 1766774003,
+    "_id": "Society"
+  },
+  "Music": {
+    "chunk_ids": [
+      "chunk-41fc9250a6b1fd299c982632197998af",
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 2,
+    "update_time": 1766773972,
+    "_id": "Music"
+  },
+  "Art": {
+    "chunk_ids": [
+      "chunk-41fc9250a6b1fd299c982632197998af",
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 2,
+    "update_time": 1766773971,
+    "_id": "Art"
+  },
+  "Literature": {
+    "chunk_ids": [
+      "chunk-41fc9250a6b1fd299c982632197998af",
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85",
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 3,
+    "update_time": 1766773976,
+    "_id": "Literature"
+  },
+  "Cultural Identity": {
+    "chunk_ids": [
+      "chunk-41fc9250a6b1fd299c982632197998af"
+    ],
+    "count": 1,
+    "create_time": 1766773364,
+    "update_time": 1766773364,
+    "_id": "Cultural Identity"
+  },
+  "Global Communication": {
+    "chunk_ids": [
+      "chunk-41fc9250a6b1fd299c982632197998af"
+    ],
+    "count": 1,
+    "create_time": 1766773364,
+    "update_time": 1766773364,
+    "_id": "Global Communication"
+  },
+  "Cultural Exchange": {
+    "chunk_ids": [
+      "chunk-41fc9250a6b1fd299c982632197998af",
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 2,
+    "update_time": 1766773974,
+    "_id": "Cultural Exchange"
+  },
+  "Globalization": {
+    "chunk_ids": [
+      "chunk-41fc9250a6b1fd299c982632197998af",
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 2,
+    "update_time": 1766773974,
+    "_id": "Globalization"
+  },
+  "Cultural Homogenization": {
+    "chunk_ids": [
+      "chunk-41fc9250a6b1fd299c982632197998af"
+    ],
+    "count": 1,
+    "create_time": 1766773364,
+    "update_time": 1766773364,
+    "_id": "Cultural Homogenization"
+  },
+  "Cultural Heritage": {
+    "chunk_ids": [
+      "chunk-41fc9250a6b1fd299c982632197998af",
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85",
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 3,
+    "update_time": 1766774007,
+    "_id": "Cultural Heritage"
+  },
+  "Diversity": {
+    "chunk_ids": [
+      "chunk-41fc9250a6b1fd299c982632197998af",
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 2,
+    "update_time": 1766773969,
+    "_id": "Diversity"
+  },
+  "Values": {
+    "chunk_ids": [
+      "chunk-41fc9250a6b1fd299c982632197998af"
+    ],
+    "count": 1,
+    "create_time": 1766773364,
+    "update_time": 1766773364,
+    "_id": "Values"
+  },
+  "Traditions": {
+    "chunk_ids": [
+      "chunk-41fc9250a6b1fd299c982632197998af"
+    ],
+    "count": 1,
+    "create_time": 1766773364,
+    "update_time": 1766773364,
+    "_id": "Traditions"
+  },
+  "Beliefs": {
+    "chunk_ids": [
+      "chunk-41fc9250a6b1fd299c982632197998af"
+    ],
+    "count": 1,
+    "create_time": 1766773364,
+    "update_time": 1766773364,
+    "_id": "Beliefs"
+  },
+  "Education": {
+    "chunk_ids": [
+      "chunk-0258ad91fe9120781080b004f383bd29",
+      "chunk-7e82e3f76d7635f646256257f008ff3e",
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 3,
+    "update_time": 1766773970,
+    "_id": "Education"
+  },
+  "Critical Thinking": {
+    "chunk_ids": [
+      "chunk-0258ad91fe9120781080b004f383bd29"
+    ],
+    "count": 1,
+    "create_time": 1766773372,
+    "update_time": 1766773372,
+    "_id": "Critical Thinking"
+  },
+  "Creativity": {
+    "chunk_ids": [
+      "chunk-0258ad91fe9120781080b004f383bd29"
+    ],
+    "count": 1,
+    "create_time": 1766773372,
+    "update_time": 1766773372,
+    "_id": "Creativity"
+  },
+  "Problem-Solving Skills": {
+    "chunk_ids": [
+      "chunk-0258ad91fe9120781080b004f383bd29"
+    ],
+    "count": 1,
+    "create_time": 1766773372,
+    "update_time": 1766773372,
+    "_id": "Problem-Solving Skills"
+  },
+  "Traditional Classroom Learning": {
+    "chunk_ids": [
+      "chunk-0258ad91fe9120781080b004f383bd29"
+    ],
+    "count": 1,
+    "create_time": 1766773372,
+    "update_time": 1766773372,
+    "_id": "Traditional Classroom Learning"
+  },
+  "Online Education": {
+    "chunk_ids": [
+      "chunk-0258ad91fe9120781080b004f383bd29"
+    ],
+    "count": 1,
+    "create_time": 1766773372,
+    "update_time": 1766773372,
+    "_id": "Online Education"
+  },
+  "Academic Pressure": {
+    "chunk_ids": [
+      "chunk-0258ad91fe9120781080b004f383bd29"
+    ],
+    "count": 1,
+    "create_time": 1766773372,
+    "update_time": 1766773372,
+    "_id": "Academic Pressure"
+  },
+  "Exam-Oriented Teaching": {
+    "chunk_ids": [
+      "chunk-0258ad91fe9120781080b004f383bd29"
+    ],
+    "count": 1,
+    "create_time": 1766773372,
+    "update_time": 1766773372,
+    "_id": "Exam-Oriented Teaching"
+  },
+  "Practical Skills": {
+    "chunk_ids": [
+      "chunk-0258ad91fe9120781080b004f383bd29"
+    ],
+    "count": 1,
+    "create_time": 1766773372,
+    "update_time": 1766773372,
+    "_id": "Practical Skills"
+  },
+  "Theoretical Knowledge": {
+    "chunk_ids": [
+      "chunk-0258ad91fe9120781080b004f383bd29"
+    ],
+    "count": 1,
+    "create_time": 1766773372,
+    "update_time": 1766773372,
+    "_id": "Theoretical Knowledge"
+  },
+  "Personal Development": {
+    "chunk_ids": [
+      "chunk-0258ad91fe9120781080b004f383bd29"
+    ],
+    "count": 1,
+    "create_time": 1766773372,
+    "update_time": 1766773372,
+    "_id": "Personal Development"
+  },
+  "Social Progress": {
+    "chunk_ids": [
+      "chunk-0258ad91fe9120781080b004f383bd29"
+    ],
+    "count": 1,
+    "create_time": 1766773372,
+    "update_time": 1766773372,
+    "_id": "Social Progress"
+  },
+  "Education System": {
+    "chunk_ids": [
+      "chunk-0258ad91fe9120781080b004f383bd29"
+    ],
+    "count": 1,
+    "create_time": 1766773372,
+    "update_time": 1766773372,
+    "_id": "Education System"
+  },
+  "Students": {
+    "chunk_ids": [
+      "chunk-0258ad91fe9120781080b004f383bd29"
+    ],
+    "count": 1,
+    "create_time": 1766773372,
+    "update_time": 1766773372,
+    "_id": "Students"
+  },
+  "Environmental Protection": {
+    "chunk_ids": [
+      "chunk-f487536603023fb081295410a335b8e8"
+    ],
+    "count": 1,
+    "create_time": 1766773380,
+    "update_time": 1766773380,
+    "_id": "Environmental Protection"
+  },
+  "Climate Change": {
+    "chunk_ids": [
+      "chunk-f487536603023fb081295410a335b8e8"
+    ],
+    "count": 1,
+    "create_time": 1766773380,
+    "update_time": 1766773380,
+    "_id": "Climate Change"
+  },
+  "Air Pollution": {
+    "chunk_ids": [
+      "chunk-f487536603023fb081295410a335b8e8"
+    ],
+    "count": 1,
+    "create_time": 1766773380,
+    "update_time": 1766773380,
+    "_id": "Air Pollution"
+  },
+  "Deforestation": {
+    "chunk_ids": [
+      "chunk-f487536603023fb081295410a335b8e8"
+    ],
+    "count": 1,
+    "create_time": 1766773380,
+    "update_time": 1766773380,
+    "_id": "Deforestation"
+  },
+  "Natural Ecosystems": {
+    "chunk_ids": [
+      "chunk-f487536603023fb081295410a335b8e8"
+    ],
+    "count": 1,
+    "create_time": 1766773380,
+    "update_time": 1766773380,
+    "_id": "Natural Ecosystems"
+  },
+  "Human Activities": {
+    "chunk_ids": [
+      "chunk-f487536603023fb081295410a335b8e8"
+    ],
+    "count": 1,
+    "create_time": 1766773380,
+    "update_time": 1766773380,
+    "_id": "Human Activities"
+  },
+  "Industrial Production": {
+    "chunk_ids": [
+      "chunk-f487536603023fb081295410a335b8e8"
+    ],
+    "count": 1,
+    "create_time": 1766773380,
+    "update_time": 1766773380,
+    "_id": "Industrial Production"
+  },
+  "Excessive Consumption": {
+    "chunk_ids": [
+      "chunk-f487536603023fb081295410a335b8e8"
+    ],
+    "count": 1,
+    "create_time": 1766773380,
+    "update_time": 1766773380,
+    "_id": "Excessive Consumption"
+  },
+  "Environmental Damage": {
+    "chunk_ids": [
+      "chunk-f487536603023fb081295410a335b8e8"
+    ],
+    "count": 1,
+    "create_time": 1766773381,
+    "update_time": 1766773381,
+    "_id": "Environmental Damage"
+  },
+  "Governments": {
+    "chunk_ids": [
+      "chunk-f487536603023fb081295410a335b8e8"
+    ],
+    "count": 1,
+    "create_time": 1766773381,
+    "update_time": 1766773381,
+    "_id": "Governments"
+  },
+  "Renewable Energy": {
+    "chunk_ids": [
+      "chunk-f487536603023fb081295410a335b8e8"
+    ],
+    "count": 1,
+    "create_time": 1766773381,
+    "update_time": 1766773381,
+    "_id": "Renewable Energy"
+  },
+  "Recycling": {
+    "chunk_ids": [
+      "chunk-f487536603023fb081295410a335b8e8"
+    ],
+    "count": 1,
+    "create_time": 1766773381,
+    "update_time": 1766773381,
+    "_id": "Recycling"
+  },
+  "Carbon Emissions": {
+    "chunk_ids": [
+      "chunk-f487536603023fb081295410a335b8e8"
+    ],
+    "count": 1,
+    "create_time": 1766773381,
+    "update_time": 1766773381,
+    "_id": "Carbon Emissions"
+  },
+  "Individuals": {
+    "chunk_ids": [
+      "chunk-f487536603023fb081295410a335b8e8",
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 2,
+    "update_time": 1766773976,
+    "_id": "Individuals"
+  },
+  "Public Transport": {
+    "chunk_ids": [
+      "chunk-f487536603023fb081295410a335b8e8"
+    ],
+    "count": 1,
+    "create_time": 1766773381,
+    "update_time": 1766773381,
+    "_id": "Public Transport"
+  },
+  "Waste Reduction": {
+    "chunk_ids": [
+      "chunk-f487536603023fb081295410a335b8e8"
+    ],
+    "count": 1,
+    "create_time": 1766773381,
+    "update_time": 1766773381,
+    "_id": "Waste Reduction"
+  },
+  "Future Generations": {
+    "chunk_ids": [
+      "chunk-f487536603023fb081295410a335b8e8"
+    ],
+    "count": 1,
+    "create_time": 1766773381,
+    "update_time": 1766773381,
+    "_id": "Future Generations"
+  },
+  "Topic": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e",
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 2,
+    "create_time": 1766773968,
+    "update_time": 1766773968,
+    "_id": "Topic"
+  },
+  "Subject": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e",
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 2,
+    "create_time": 1766773968,
+    "update_time": 1766773968,
+    "_id": "Subject"
+  },
+  "Theme": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e",
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 2,
+    "create_time": 1766773968,
+    "update_time": 1766773968,
+    "_id": "Theme"
+  },
+  "Issue": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e",
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 2,
+    "create_time": 1766773968,
+    "update_time": 1766773968,
+    "_id": "Issue"
+  },
+  "Matter": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e",
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 2,
+    "create_time": 1766773968,
+    "update_time": 1766773968,
+    "_id": "Matter"
+  },
+  "Point": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e",
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 2,
+    "create_time": 1766773968,
+    "update_time": 1766773968,
+    "_id": "Point"
+  },
+  "Learn": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e",
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 2,
+    "create_time": 1766773968,
+    "update_time": 1766773968,
+    "_id": "Learn"
+  },
+  "Acquire": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773968,
+    "update_time": 1766773968,
+    "_id": "Acquire"
+  },
+  "Grasp": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773968,
+    "update_time": 1766773968,
+    "_id": "Grasp"
+  },
+  "Master": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773968,
+    "update_time": 1766773968,
+    "_id": "Master"
+  },
+  "Study": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773968,
+    "update_time": 1766773968,
+    "_id": "Study"
+  },
+  "Understand": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773968,
+    "update_time": 1766773968,
+    "_id": "Understand"
+  },
+  "Teach": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773968,
+    "update_time": 1766773968,
+    "_id": "Teach"
+  },
+  "Forget": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773968,
+    "update_time": 1766773968,
+    "_id": "Forget"
+  },
+  "Ignore": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e",
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 2,
+    "update_time": 1766774004,
+    "_id": "Ignore"
+  },
+  "Important": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773968,
+    "update_time": 1766773968,
+    "_id": "Important"
+  },
+  "Significant": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773968,
+    "update_time": 1766773968,
+    "_id": "Significant"
+  },
+  "Crucial": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773968,
+    "update_time": 1766773968,
+    "_id": "Crucial"
+  },
+  "Vital": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773968,
+    "update_time": 1766773968,
+    "_id": "Vital"
+  },
+  "Essential": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773968,
+    "update_time": 1766773968,
+    "_id": "Essential"
+  },
+  "Key": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773968,
+    "update_time": 1766773968,
+    "_id": "Key"
+  },
+  "Unimportant": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773968,
+    "update_time": 1766773968,
+    "_id": "Unimportant"
+  },
+  "Insignificant": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773968,
+    "update_time": 1766773968,
+    "_id": "Insignificant"
+  },
+  "Trivial": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773968,
+    "update_time": 1766773968,
+    "_id": "Trivial"
+  },
+  "Minor": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773968,
+    "update_time": 1766773968,
+    "_id": "Minor"
+  },
+  "Necessary": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773968,
+    "update_time": 1766773968,
+    "_id": "Necessary"
+  },
+  "Fundamental": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773969,
+    "update_time": 1766773969,
+    "_id": "Fundamental"
+  },
+  "Indispensable": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773969,
+    "update_time": 1766773969,
+    "_id": "Indispensable"
+  },
+  "Nonessential": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773969,
+    "update_time": 1766773969,
+    "_id": "Nonessential"
+  },
+  "Optional": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773969,
+    "update_time": 1766773969,
+    "_id": "Optional"
+  },
+  "Unnecessary": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773969,
+    "update_time": 1766773969,
+    "_id": "Unnecessary"
+  },
+  "Expendable": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773969,
+    "update_time": 1766773969,
+    "_id": "Expendable"
+  },
+  "Play": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773969,
+    "update_time": 1766773969,
+    "_id": "Play"
+  },
+  "Amuse Oneself": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773969,
+    "update_time": 1766773969,
+    "_id": "Amuse Oneself"
+  },
+  "Entertain": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773969,
+    "update_time": 1766773969,
+    "_id": "Entertain"
+  },
+  "Perform": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773969,
+    "update_time": 1766773969,
+    "_id": "Perform"
+  },
+  "Act": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773969,
+    "update_time": 1766773969,
+    "_id": "Act"
+  },
+  "Participate": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773969,
+    "update_time": 1766773969,
+    "_id": "Participate"
+  },
+  "Work": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773969,
+    "update_time": 1766773969,
+    "_id": "Work"
+  },
+  "Global": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773969,
+    "update_time": 1766773969,
+    "_id": "Global"
+  },
+  "Worldwide": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773969,
+    "update_time": 1766773969,
+    "_id": "Worldwide"
+  },
+  "International": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773969,
+    "update_time": 1766773969,
+    "_id": "International"
+  },
+  "Universal": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773969,
+    "update_time": 1766773969,
+    "_id": "Universal"
+  },
+  "Planetary": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773969,
+    "update_time": 1766773969,
+    "_id": "Planetary"
+  },
+  "Local": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773969,
+    "update_time": 1766773969,
+    "_id": "Local"
+  },
+  "Regional": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773969,
+    "update_time": 1766773969,
+    "_id": "Regional"
+  },
+  "National": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773969,
+    "update_time": 1766773969,
+    "_id": "National"
+  },
+  "Domestic": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773969,
+    "update_time": 1766773969,
+    "_id": "Domestic"
+  },
+  "Variety": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773969,
+    "update_time": 1766773969,
+    "_id": "Variety"
+  },
+  "Assortment": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773969,
+    "update_time": 1766773969,
+    "_id": "Assortment"
+  },
+  "Mixture": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773969,
+    "update_time": 1766773969,
+    "_id": "Mixture"
+  },
+  "Multiplicity": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773969,
+    "update_time": 1766773969,
+    "_id": "Multiplicity"
+  },
+  "Heterogeneity": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e",
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 2,
+    "create_time": 1766773969,
+    "update_time": 1766773969,
+    "_id": "Heterogeneity"
+  },
+  "Uniformity": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e",
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 2,
+    "create_time": 1766773969,
+    "update_time": 1766773969,
+    "_id": "Uniformity"
+  },
+  "Similarity": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773969,
+    "update_time": 1766773969,
+    "_id": "Similarity"
+  },
+  "Homogeneity": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773969,
+    "update_time": 1766773969,
+    "_id": "Homogeneity"
+  },
+  "Communication": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e",
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 2,
+    "create_time": 1766773969,
+    "update_time": 1766773969,
+    "_id": "Communication"
+  },
+  "Interaction": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773969,
+    "update_time": 1766773969,
+    "_id": "Interaction"
+  },
+  "Contact": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773969,
+    "update_time": 1766773969,
+    "_id": "Contact"
+  },
+  "Correspondence": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773970,
+    "update_time": 1766773970,
+    "_id": "Correspondence"
+  },
+  "Transmission": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773970,
+    "update_time": 1766773970,
+    "_id": "Transmission"
+  },
+  "Dialogue": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773970,
+    "update_time": 1766773970,
+    "_id": "Dialogue"
+  },
+  "Silence": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e",
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 2,
+    "create_time": 1766773970,
+    "update_time": 1766773970,
+    "_id": "Silence"
+  },
+  "Concealment": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773970,
+    "update_time": 1766773970,
+    "_id": "Concealment"
+  },
+  "Withholding": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773970,
+    "update_time": 1766773970,
+    "_id": "Withholding"
+  },
+  "Embrace": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e",
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 2,
+    "create_time": 1766773970,
+    "update_time": 1766773970,
+    "_id": "Embrace"
+  },
+  "Accept": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773970,
+    "update_time": 1766773970,
+    "_id": "Accept"
+  },
+  "Welcome": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773970,
+    "update_time": 1766773970,
+    "_id": "Welcome"
+  },
+  "Adopt": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773970,
+    "update_time": 1766773970,
+    "_id": "Adopt"
+  },
+  "Espouse": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773970,
+    "update_time": 1766773970,
+    "_id": "Espouse"
+  },
+  "Support": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773970,
+    "update_time": 1766773970,
+    "_id": "Support"
+  },
+  "Reject": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773970,
+    "update_time": 1766773970,
+    "_id": "Reject"
+  },
+  "Refuse": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773970,
+    "update_time": 1766773970,
+    "_id": "Refuse"
+  },
+  "Oppose": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773970,
+    "update_time": 1766773970,
+    "_id": "Oppose"
+  },
+  "Shun": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773970,
+    "update_time": 1766773970,
+    "_id": "Shun"
+  },
+  "Cultural": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e",
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 2,
+    "create_time": 1766773970,
+    "update_time": 1766773970,
+    "_id": "Cultural"
+  },
+  "Societal": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e",
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 2,
+    "create_time": 1766773970,
+    "update_time": 1766773970,
+    "_id": "Societal"
+  },
+  "Ethnic": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e",
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 2,
+    "create_time": 1766773970,
+    "update_time": 1766773970,
+    "_id": "Ethnic"
+  },
+  "Artistic": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e",
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 2,
+    "create_time": 1766773970,
+    "update_time": 1766773970,
+    "_id": "Artistic"
+  },
+  "Educational": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e",
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 2,
+    "create_time": 1766773970,
+    "update_time": 1766773970,
+    "_id": "Educational"
+  },
+  "Field of Education": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773970,
+    "update_time": 1766773970,
+    "_id": "Field of Education"
+  },
+  "Field of General": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773970,
+    "update_time": 1766773970,
+    "_id": "Field of General"
+  },
+  "Field of Leisure / Arts": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773970,
+    "update_time": 1766773970,
+    "_id": "Field of Leisure / Arts"
+  },
+  "Field of Geography / Politics": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773970,
+    "update_time": 1766773970,
+    "_id": "Field of Geography / Politics"
+  },
+  "Field of Sociology / Ecology": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773970,
+    "update_time": 1766773970,
+    "_id": "Field of Sociology / Ecology"
+  },
+  "General": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e",
+      "chunk-13c1852ae8531ada53791c4956a59104",
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 3,
+    "update_time": 1766774004,
+    "_id": "General"
+  },
+  "Leisure / Arts": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773970,
+    "update_time": 1766773970,
+    "_id": "Leisure / Arts"
+  },
+  "Geography / Politics": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773970,
+    "update_time": 1766773970,
+    "_id": "Geography / Politics"
+  },
+  "Sociology / Ecology": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773970,
+    "update_time": 1766773970,
+    "_id": "Sociology / Ecology"
+  },
+  "Discourse": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773970,
+    "update_time": 1766773970,
+    "_id": "Discourse"
+  },
+  "Conversation": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773970,
+    "update_time": 1766773970,
+    "_id": "Conversation"
+  },
+  "Allow": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773970,
+    "update_time": 1766773970,
+    "_id": "Allow"
+  },
+  "General / Governance": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773970,
+    "update_time": 1766773970,
+    "_id": "General / Governance"
+  },
+  "Permit": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773970,
+    "update_time": 1766773970,
+    "_id": "Permit"
+  },
+  "Let": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773971,
+    "update_time": 1766773971,
+    "_id": "Let"
+  },
+  "Authorize": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773971,
+    "update_time": 1766773971,
+    "_id": "Authorize"
+  },
+  "Grant": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773971,
+    "update_time": 1766773971,
+    "_id": "Grant"
+  },
+  "Enable": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773971,
+    "update_time": 1766773971,
+    "_id": "Enable"
+  },
+  "Forbid": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773971,
+    "update_time": 1766773971,
+    "_id": "Forbid"
+  },
+  "Prohibit": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773971,
+    "update_time": 1766773971,
+    "_id": "Prohibit"
+  },
+  "Disallow": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773971,
+    "update_time": 1766773971,
+    "_id": "Disallow"
+  },
+  "Ban": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773971,
+    "update_time": 1766773971,
+    "_id": "Ban"
+  },
+  "Prevent": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773971,
+    "update_time": 1766773971,
+    "_id": "Prevent"
+  },
+  "Sociology": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104",
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85",
+      "chunk-e5522df5f6f626115fe8cfc9350b1357",
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 4,
+    "update_time": 1766773985,
+    "_id": "Sociology"
+  },
+  "Community": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773971,
+    "update_time": 1766773971,
+    "_id": "Community"
+  },
+  "Public": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104",
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 2,
+    "create_time": 1766773971,
+    "update_time": 1766773971,
+    "_id": "Public"
+  },
+  "Populace": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104",
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 2,
+    "create_time": 1766773971,
+    "update_time": 1766773971,
+    "_id": "Populace"
+  },
+  "Civilization": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104",
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 2,
+    "update_time": 1766774010,
+    "_id": "Civilization"
+  },
+  "Humanity": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773971,
+    "update_time": 1766773971,
+    "_id": "Humanity"
+  },
+  "Isolation": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773971,
+    "update_time": 1766773971,
+    "_id": "Isolation"
+  },
+  "Solitude": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773971,
+    "update_time": 1766773971,
+    "_id": "Solitude"
+  },
+  "Culture / Arts": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773971,
+    "update_time": 1766773971,
+    "_id": "Culture / Arts"
+  },
+  "Artwork": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773971,
+    "update_time": 1766773971,
+    "_id": "Artwork"
+  },
+  "Creation": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773971,
+    "update_time": 1766773971,
+    "_id": "Creation"
+  },
+  "Craft": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773971,
+    "update_time": 1766773971,
+    "_id": "Craft"
+  },
+  "Skill": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773971,
+    "update_time": 1766773971,
+    "_id": "Skill"
+  },
+  "Masterpiece": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773971,
+    "update_time": 1766773971,
+    "_id": "Masterpiece"
+  },
+  "Science": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773971,
+    "update_time": 1766773971,
+    "_id": "Science"
+  },
+  "Reality": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773971,
+    "update_time": 1766773971,
+    "_id": "Reality"
+  },
+  "Homogenization": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773971,
+    "update_time": 1766773971,
+    "_id": "Homogenization"
+  },
+  "Sociology / Globalization": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773971,
+    "update_time": 1766773971,
+    "_id": "Sociology / Globalization"
+  },
+  "Standardization": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773971,
+    "update_time": 1766773971,
+    "_id": "Standardization"
+  },
+  "Assimilation": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773971,
+    "update_time": 1766773971,
+    "_id": "Assimilation"
+  },
+  "Blending": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773971,
+    "update_time": 1766773971,
+    "_id": "Blending"
+  },
+  "Diversification": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773971,
+    "update_time": 1766773971,
+    "_id": "Diversification"
+  },
+  "Differentiation": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773971,
+    "update_time": 1766773971,
+    "_id": "Differentiation"
+  },
+  "Value": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773971,
+    "update_time": 1766773971,
+    "_id": "Value"
+  },
+  "Ethics / Economics": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773971,
+    "update_time": 1766773971,
+    "_id": "Ethics / Economics"
+  },
+  "Worth": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773972,
+    "update_time": 1766773972,
+    "_id": "Worth"
+  },
+  "Merit": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773972,
+    "update_time": 1766773972,
+    "_id": "Merit"
+  },
+  "Importance": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773972,
+    "update_time": 1766773972,
+    "_id": "Importance"
+  },
+  "Principle": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773972,
+    "update_time": 1766773972,
+    "_id": "Principle"
+  },
+  "Standard": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773972,
+    "update_time": 1766773972,
+    "_id": "Standard"
+  },
+  "Worthlessness": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773972,
+    "update_time": 1766773972,
+    "_id": "Worthlessness"
+  },
+  "Insignificance": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773972,
+    "update_time": 1766773972,
+    "_id": "Insignificance"
+  },
+  "Different": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773972,
+    "update_time": 1766773972,
+    "_id": "Different"
+  },
+  "Distinct": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773972,
+    "update_time": 1766773972,
+    "_id": "Distinct"
+  },
+  "Dissimilar": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773972,
+    "update_time": 1766773972,
+    "_id": "Dissimilar"
+  },
+  "Diverse": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773972,
+    "update_time": 1766773972,
+    "_id": "Diverse"
+  },
+  "Varied": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773972,
+    "update_time": 1766773972,
+    "_id": "Varied"
+  },
+  "Unique": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773972,
+    "update_time": 1766773972,
+    "_id": "Unique"
+  },
+  "Same": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773972,
+    "update_time": 1766773972,
+    "_id": "Same"
+  },
+  "Similar": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773972,
+    "update_time": 1766773972,
+    "_id": "Similar"
+  },
+  "Identical": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773972,
+    "update_time": 1766773972,
+    "_id": "Identical"
+  },
+  "Alike": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773972,
+    "update_time": 1766773972,
+    "_id": "Alike"
+  },
+  "Melody": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773972,
+    "update_time": 1766773972,
+    "_id": "Melody"
+  },
+  "Tune": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773972,
+    "update_time": 1766773972,
+    "_id": "Tune"
+  },
+  "Composition": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773972,
+    "update_time": 1766773972,
+    "_id": "Composition"
+  },
+  "Harmony": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773972,
+    "update_time": 1766773972,
+    "_id": "Harmony"
+  },
+  "Noise": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773972,
+    "update_time": 1766773972,
+    "_id": "Noise"
+  },
+  "Identity": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773972,
+    "update_time": 1766773972,
+    "_id": "Identity"
+  },
+  "Psychology / Sociology": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773972,
+    "update_time": 1766773972,
+    "_id": "Psychology / Sociology"
+  },
+  "Individuality": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773972,
+    "update_time": 1766773972,
+    "_id": "Individuality"
+  },
+  "Self": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773972,
+    "update_time": 1766773972,
+    "_id": "Self"
+  },
+  "Personality": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773972,
+    "update_time": 1766773972,
+    "_id": "Personality"
+  },
+  "Character": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773972,
+    "update_time": 1766773972,
+    "_id": "Character"
+  },
+  "Distinctiveness": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773972,
+    "update_time": 1766773972,
+    "_id": "Distinctiveness"
+  },
+  "Anonymity": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773972,
+    "update_time": 1766773972,
+    "_id": "Anonymity"
+  },
+  "Field": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773972,
+    "update_time": 1766773972,
+    "_id": "Field"
+  },
+  "Collocation": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773972,
+    "update_time": 1766773972,
+    "_id": "Collocation"
+  },
+  "Contextually": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773973,
+    "update_time": 1766773973,
+    "_id": "Contextually"
+  },
+  "Standard Usage": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773973,
+    "update_time": 1766773973,
+    "_id": "Standard Usage"
+  },
+  "Contrast": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773973,
+    "update_time": 1766773973,
+    "_id": "Contrast"
+  },
+  "In contrast": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773973,
+    "update_time": 1766773973,
+    "_id": "In contrast"
+  },
+  "Significantly": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773973,
+    "update_time": 1766773973,
+    "_id": "Significantly"
+  },
+  "Similar Meaning": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773973,
+    "update_time": 1766773973,
+    "_id": "Similar Meaning"
+  },
+  "Interchangeably": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773973,
+    "update_time": 1766773973,
+    "_id": "Interchangeably"
+  },
+  "Antonym": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773973,
+    "update_time": 1766773973,
+    "_id": "Antonym"
+  },
+  "Aggregate": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773973,
+    "update_time": 1766773973,
+    "_id": "Aggregate"
+  },
+  "Ordered Community": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773973,
+    "update_time": 1766773973,
+    "_id": "Ordered Community"
+  },
+  "Expression": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773973,
+    "update_time": 1766773973,
+    "_id": "Expression"
+  },
+  "Application": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773973,
+    "update_time": 1766773973,
+    "_id": "Application"
+  },
+  "Human Creative Skill": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773973,
+    "update_time": 1766773973,
+    "_id": "Human Creative Skill"
+  },
+  "Imagination": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773973,
+    "update_time": 1766773973,
+    "_id": "Imagination"
+  },
+  "Visual Form": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773973,
+    "update_time": 1766773973,
+    "_id": "Visual Form"
+  },
+  "Painting": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773973,
+    "update_time": 1766773973,
+    "_id": "Painting"
+  },
+  "Sculpture": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773973,
+    "update_time": 1766773973,
+    "_id": "Sculpture"
+  },
+  "Process": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773973,
+    "update_time": 1766773973,
+    "_id": "Process"
+  },
+  "Uniform": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773973,
+    "update_time": 1766773973,
+    "_id": "Uniform"
+  },
+  "Behaviour": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773973,
+    "update_time": 1766773973,
+    "_id": "Behaviour"
+  },
+  "Unlike": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773973,
+    "update_time": 1766773973,
+    "_id": "Unlike"
+  },
+  "Quality": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773973,
+    "update_time": 1766773973,
+    "_id": "Quality"
+  },
+  "Vocal Sounds": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773973,
+    "update_time": 1766773973,
+    "_id": "Vocal Sounds"
+  },
+  "Instrumental Sounds": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773973,
+    "update_time": 1766773973,
+    "_id": "Instrumental Sounds"
+  },
+  "Beauty of Form": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773973,
+    "update_time": 1766773973,
+    "_id": "Beauty of Form"
+  },
+  "Expression of Emotion": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773973,
+    "update_time": 1766773973,
+    "_id": "Expression of Emotion"
+  },
+  "Gain": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773973,
+    "update_time": 1766773973,
+    "_id": "Gain"
+  },
+  "Collocations of 'allow'": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773973,
+    "update_time": 1766773973,
+    "_id": "Collocations of 'allow'"
+  },
+  "Collocations of 'society'": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773973,
+    "update_time": 1766773973,
+    "_id": "Collocations of 'society'"
+  },
+  "Collocations of 'art'": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773973,
+    "update_time": 1766773973,
+    "_id": "Collocations of 'art'"
+  },
+  "Collocations of 'homogenization'": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773973,
+    "update_time": 1766773973,
+    "_id": "Collocations of 'homogenization'"
+  },
+  "Collocations of 'value'": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773973,
+    "update_time": 1766773973,
+    "_id": "Collocations of 'value'"
+  },
+  "Collocations of 'different'": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773973,
+    "update_time": 1766773973,
+    "_id": "Collocations of 'different'"
+  },
+  "Collocations of 'music'": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773974,
+    "update_time": 1766773974,
+    "_id": "Collocations of 'music'"
+  },
+  "Collocations of 'identity'": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773974,
+    "update_time": 1766773974,
+    "_id": "Collocations of 'identity'"
+  },
+  "Collocations of 'topic'": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773974,
+    "update_time": 1766773974,
+    "_id": "Collocations of 'topic'"
+  },
+  "Embrace Change": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773974,
+    "update_time": 1766773974,
+    "_id": "Embrace Change"
+  },
+  "Embrace Diversity": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773974,
+    "update_time": 1766773974,
+    "_id": "Embrace Diversity"
+  },
+  "Embrace An Opportunity": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773974,
+    "update_time": 1766773974,
+    "_id": "Embrace An Opportunity"
+  },
+  "Warmly Embrace": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773974,
+    "update_time": 1766773974,
+    "_id": "Warmly Embrace"
+  },
+  "Cultural Differences": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773974,
+    "update_time": 1766773974,
+    "_id": "Cultural Differences"
+  },
+  "Cultural Background": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773974,
+    "update_time": 1766773974,
+    "_id": "Cultural Background"
+  },
+  "Role": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773974,
+    "update_time": 1766773974,
+    "_id": "Role"
+  },
+  "General / Sociology": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773974,
+    "update_time": 1766773974,
+    "_id": "General / Sociology"
+  },
+  "Function": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773974,
+    "update_time": 1766773974,
+    "_id": "Function"
+  },
+  "Part": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773974,
+    "update_time": 1766773974,
+    "_id": "Part"
+  },
+  "Capacity": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773974,
+    "update_time": 1766773974,
+    "_id": "Capacity"
+  },
+  "Position": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773974,
+    "update_time": 1766773974,
+    "_id": "Position"
+  },
+  "Duty": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773974,
+    "update_time": 1766773974,
+    "_id": "Duty"
+  },
+  "Play a Role": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773974,
+    "update_time": 1766773974,
+    "_id": "Play a Role"
+  },
+  "Key Role": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773974,
+    "update_time": 1766773974,
+    "_id": "Key Role"
+  },
+  "Leading Role": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773974,
+    "update_time": 1766773974,
+    "_id": "Leading Role"
+  },
+  "Role Model": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773974,
+    "update_time": 1766773974,
+    "_id": "Role Model"
+  },
+  "Belief": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773974,
+    "update_time": 1766773974,
+    "_id": "Belief"
+  },
+  "Philosophy / Religion": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773974,
+    "update_time": 1766773974,
+    "_id": "Philosophy / Religion"
+  },
+  "Faith": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773974,
+    "update_time": 1766773974,
+    "_id": "Faith"
+  },
+  "Conviction": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773974,
+    "update_time": 1766773974,
+    "_id": "Conviction"
+  },
+  "Opinion": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773974,
+    "update_time": 1766773974,
+    "_id": "Opinion"
+  },
+  "View": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773974,
+    "update_time": 1766773974,
+    "_id": "View"
+  },
+  "Creed": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773974,
+    "update_time": 1766773974,
+    "_id": "Creed"
+  },
+  "Disbelief": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773974,
+    "update_time": 1766773974,
+    "_id": "Disbelief"
+  },
+  "Doubt": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773974,
+    "update_time": 1766773974,
+    "_id": "Doubt"
+  },
+  "Skepticism": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773974,
+    "update_time": 1766773974,
+    "_id": "Skepticism"
+  },
+  "Strong Belief": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773974,
+    "update_time": 1766773974,
+    "_id": "Strong Belief"
+  },
+  "Religious Belief": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773974,
+    "update_time": 1766773974,
+    "_id": "Religious Belief"
+  },
+  "Belief System": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773974,
+    "update_time": 1766773974,
+    "_id": "Belief System"
+  },
+  "Contrary to Popular Belief": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773974,
+    "update_time": 1766773974,
+    "_id": "Contrary to Popular Belief"
+  },
+  "Economics / Sociology": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773974,
+    "update_time": 1766773974,
+    "_id": "Economics / Sociology"
+  },
+  "Internationalization": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773975,
+    "update_time": 1766773975,
+    "_id": "Internationalization"
+  },
+  "Universalization": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773975,
+    "update_time": 1766773975,
+    "_id": "Universalization"
+  },
+  "Integration": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773975,
+    "update_time": 1766773975,
+    "_id": "Integration"
+  },
+  "Localization": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773975,
+    "update_time": 1766773975,
+    "_id": "Localization"
+  },
+  "Isolationism": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773975,
+    "update_time": 1766773975,
+    "_id": "Isolationism"
+  },
+  "Protectionism": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773975,
+    "update_time": 1766773975,
+    "_id": "Protectionism"
+  },
+  "Economic Globalization": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773975,
+    "update_time": 1766773975,
+    "_id": "Economic Globalization"
+  },
+  "Impact of Globalization": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773975,
+    "update_time": 1766773975,
+    "_id": "Impact of Globalization"
+  },
+  "Era of Globalization": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773975,
+    "update_time": 1766773975,
+    "_id": "Era of Globalization"
+  },
+  "Anti-Globalization": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773975,
+    "update_time": 1766773975,
+    "_id": "Anti-Globalization"
+  },
+  "Fear": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773975,
+    "update_time": 1766773975,
+    "_id": "Fear"
+  },
+  "Psychology": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85",
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 2,
+    "create_time": 1766773975,
+    "update_time": 1766773975,
+    "_id": "Psychology"
+  },
+  "Dread": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773975,
+    "update_time": 1766773975,
+    "_id": "Dread"
+  },
+  "Fright": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773975,
+    "update_time": 1766773975,
+    "_id": "Fright"
+  },
+  "Terror": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773975,
+    "update_time": 1766773975,
+    "_id": "Terror"
+  },
+  "Panic": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773975,
+    "update_time": 1766773975,
+    "_id": "Panic"
+  },
+  "Anxiety": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773975,
+    "update_time": 1766773975,
+    "_id": "Anxiety"
+  },
+  "Courage": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773975,
+    "update_time": 1766773975,
+    "_id": "Courage"
+  },
+  "Bravery": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773975,
+    "update_time": 1766773975,
+    "_id": "Bravery"
+  },
+  "Confidence": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773975,
+    "update_time": 1766773975,
+    "_id": "Confidence"
+  },
+  "Fearlessness": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773975,
+    "update_time": 1766773975,
+    "_id": "Fearlessness"
+  },
+  "Fear of": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773975,
+    "update_time": 1766773975,
+    "_id": "Fear of"
+  },
+  "Overcome Fear": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773975,
+    "update_time": 1766773975,
+    "_id": "Overcome Fear"
+  },
+  "Deep-Seated Fear": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773975,
+    "update_time": 1766773975,
+    "_id": "Deep-Seated Fear"
+  },
+  "Living in Fear": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773975,
+    "update_time": 1766773975,
+    "_id": "Living in Fear"
+  },
+  "Exchange": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773975,
+    "update_time": 1766773975,
+    "_id": "Exchange"
+  },
+  "Economics / Communication": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773975,
+    "update_time": 1766773975,
+    "_id": "Economics / Communication"
+  },
+  "Trade": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773975,
+    "update_time": 1766773975,
+    "_id": "Trade"
+  },
+  "Swap": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773975,
+    "update_time": 1766773975,
+    "_id": "Swap"
+  },
+  "Interchange": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773975,
+    "update_time": 1766773975,
+    "_id": "Interchange"
+  },
+  "Barter": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773975,
+    "update_time": 1766773975,
+    "_id": "Barter"
+  },
+  "Switch": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773975,
+    "update_time": 1766773975,
+    "_id": "Switch"
+  },
+  "Keep": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85",
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 2,
+    "update_time": 1766774011,
+    "_id": "Keep"
+  },
+  "Hold": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773975,
+    "update_time": 1766773975,
+    "_id": "Hold"
+  },
+  "Exchange Rate": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773976,
+    "update_time": 1766773976,
+    "_id": "Exchange Rate"
+  },
+  "Exchange Ideas": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773976,
+    "update_time": 1766773976,
+    "_id": "Exchange Ideas"
+  },
+  "Exchange Student": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773976,
+    "update_time": 1766773976,
+    "_id": "Exchange Student"
+  },
+  "Cause": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773976,
+    "update_time": 1766773976,
+    "_id": "Cause"
+  },
+  "General / Science": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773976,
+    "update_time": 1766773976,
+    "_id": "General / Science"
+  },
+  "Reason": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773976,
+    "update_time": 1766773976,
+    "_id": "Reason"
+  },
+  "Source": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773976,
+    "update_time": 1766773976,
+    "_id": "Source"
+  },
+  "Origin": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773976,
+    "update_time": 1766773976,
+    "_id": "Origin"
+  },
+  "Root": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773976,
+    "update_time": 1766773976,
+    "_id": "Root"
+  },
+  "Basis": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773976,
+    "update_time": 1766773976,
+    "_id": "Basis"
+  },
+  "Effect": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773976,
+    "update_time": 1766773976,
+    "_id": "Effect"
+  },
+  "Result": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773976,
+    "update_time": 1766773976,
+    "_id": "Result"
+  },
+  "Outcome": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773976,
+    "update_time": 1766773976,
+    "_id": "Outcome"
+  },
+  "Consequence": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773976,
+    "update_time": 1766773976,
+    "_id": "Consequence"
+  },
+  "Root Cause": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773976,
+    "update_time": 1766773976,
+    "_id": "Root Cause"
+  },
+  "Cause and Effect": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773976,
+    "update_time": 1766773976,
+    "_id": "Cause and Effect"
+  },
+  "Cause of Death": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773976,
+    "update_time": 1766773976,
+    "_id": "Cause of Death"
+  },
+  "Major Cause": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773976,
+    "update_time": 1766773976,
+    "_id": "Major Cause"
+  },
+  "People": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773976,
+    "update_time": 1766773976,
+    "_id": "People"
+  },
+  "Humans": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773976,
+    "update_time": 1766773976,
+    "_id": "Humans"
+  },
+  "Persons": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773976,
+    "update_time": 1766773976,
+    "_id": "Persons"
+  },
+  "Young People": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773976,
+    "update_time": 1766773976,
+    "_id": "Young People"
+  },
+  "Local People": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773976,
+    "update_time": 1766773976,
+    "_id": "Local People"
+  },
+  "People Say": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773976,
+    "update_time": 1766773976,
+    "_id": "People Say"
+  },
+  "Group of People": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773976,
+    "update_time": 1766773976,
+    "_id": "Group of People"
+  },
+  "Arts / Education": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773976,
+    "update_time": 1766773976,
+    "_id": "Arts / Education"
+  },
+  "Writings": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773976,
+    "update_time": 1766773976,
+    "_id": "Writings"
+  },
+  "Books": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773976,
+    "update_time": 1766773976,
+    "_id": "Books"
+  },
+  "Texts": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773976,
+    "update_time": 1766773976,
+    "_id": "Texts"
+  },
+  "Letters": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773976,
+    "update_time": 1766773976,
+    "_id": "Letters"
+  },
+  "Prose": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85",
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 2,
+    "create_time": 1766773976,
+    "update_time": 1766773976,
+    "_id": "Prose"
+  },
+  "English Literature": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85",
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 2,
+    "update_time": 1766774002,
+    "_id": "English Literature"
+  },
+  "Classic Literature": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85",
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 2,
+    "update_time": 1766774002,
+    "_id": "Classic Literature"
+  },
+  "Modern Literature": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85",
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 2,
+    "update_time": 1766774003,
+    "_id": "Modern Literature"
+  },
+  "Review the Literature": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85",
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 2,
+    "update_time": 1766774003,
+    "_id": "Review the Literature"
+  },
+  "Reflect": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85",
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 2,
+    "create_time": 1766773977,
+    "update_time": 1766773977,
+    "_id": "Reflect"
+  },
+  "Physics / Psychology": {
+    "chunk_ids": [
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85"
+    ],
+    "count": 1,
+    "create_time": 1766773977,
+    "update_time": 1766773977,
+    "_id": "Physics / Psychology"
+  },
+  "Physics": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766773977,
+    "update_time": 1766773977,
+    "_id": "Physics"
+  },
+  "Anthropology": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766773977,
+    "update_time": 1766773977,
+    "_id": "Anthropology"
+  },
+  "Lead": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766773977,
+    "update_time": 1766773977,
+    "_id": "Lead"
+  },
+  "Leadership": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766773977,
+    "update_time": 1766773977,
+    "_id": "Leadership"
+  },
+  "Heritage": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766773977,
+    "update_time": 1766773977,
+    "_id": "Heritage"
+  },
+  "Culture (field)": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766773977,
+    "update_time": 1766773977,
+    "_id": "Culture (field)"
+  },
+  "History": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766773977,
+    "update_time": 1766773977,
+    "_id": "History"
+  },
+  "Tradition": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766773977,
+    "update_time": 1766773977,
+    "_id": "Tradition"
+  },
+  "Culture (field for tradition)": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766773977,
+    "update_time": 1766773977,
+    "_id": "Culture (field for tradition)"
+  },
+  "Sociology (field for tradition)": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766773977,
+    "update_time": 1766773977,
+    "_id": "Sociology (field for tradition)"
+  },
+  "Preserve": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766773977,
+    "update_time": 1766773977,
+    "_id": "Preserve"
+  },
+  "Conservation": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766773977,
+    "update_time": 1766773977,
+    "_id": "Conservation"
+  },
+  "History (field for preserve)": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766773977,
+    "update_time": 1766773977,
+    "_id": "History (field for preserve)"
+  },
+  "Psychology / General": {
+    "chunk_ids": [
+      "chunk-7e82e3f76d7635f646256257f008ff3e"
+    ],
+    "count": 1,
+    "create_time": 1766773985,
+    "update_time": 1766773985,
+    "_id": "Psychology / General"
+  },
+  "Collocations of 'learn'": {
+    "chunk_ids": [
+      "chunk-13c1852ae8531ada53791c4956a59104"
+    ],
+    "count": 1,
+    "create_time": 1766773992,
+    "update_time": 1766773992,
+    "_id": "Collocations of 'learn'"
+  },
+  "Mirror": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774002,
+    "update_time": 1766774002,
+    "_id": "Mirror"
+  },
+  "Contemplate": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774003,
+    "update_time": 1766774003,
+    "_id": "Contemplate"
+  },
+  "Absorb": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774003,
+    "update_time": 1766774003,
+    "_id": "Absorb"
+  },
+  "Nature": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774004,
+    "update_time": 1766774004,
+    "_id": "Nature"
+  },
+  "Culture (field for heritage)": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774004,
+    "update_time": 1766774004,
+    "_id": "Culture (field for heritage)"
+  },
+  "Guide": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774004,
+    "update_time": 1766774004,
+    "_id": "Guide"
+  },
+  "Legacy": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774004,
+    "update_time": 1766774004,
+    "_id": "Legacy"
+  },
+  "Direct": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774005,
+    "update_time": 1766774005,
+    "_id": "Direct"
+  },
+  "Custom": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774005,
+    "update_time": 1766774005,
+    "_id": "Custom"
+  },
+  "Inheritance": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774005,
+    "update_time": 1766774005,
+    "_id": "Inheritance"
+  },
+  "Follow": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774005,
+    "update_time": 1766774005,
+    "_id": "Follow"
+  },
+  "Practice": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774005,
+    "update_time": 1766774005,
+    "_id": "Practice"
+  },
+  "Obey": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774005,
+    "update_time": 1766774005,
+    "_id": "Obey"
+  },
+  "Protect": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774005,
+    "update_time": 1766774005,
+    "_id": "Protect"
+  },
+  "Innovation": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774006,
+    "update_time": 1766774006,
+    "_id": "Innovation"
+  },
+  "Reflect on": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774006,
+    "update_time": 1766774006,
+    "_id": "Reflect on"
+  },
+  "Maintain": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774006,
+    "update_time": 1766774006,
+    "_id": "Maintain"
+  },
+  "Novelty": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774006,
+    "update_time": 1766774006,
+    "_id": "Novelty"
+  },
+  "Reflect Light": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774006,
+    "update_time": 1766774006,
+    "_id": "Reflect Light"
+  },
+  "Pop Culture": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774006,
+    "update_time": 1766774006,
+    "_id": "Pop Culture"
+  },
+  "Destroy": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774006,
+    "update_time": 1766774006,
+    "_id": "Destroy"
+  },
+  "Corporate Culture": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774007,
+    "update_time": 1766774007,
+    "_id": "Corporate Culture"
+  },
+  "Reflect the Reality": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774007,
+    "update_time": 1766774007,
+    "_id": "Reflect the Reality"
+  },
+  "Lead to": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774007,
+    "update_time": 1766774007,
+    "_id": "Lead to"
+  },
+  "Neglect": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774007,
+    "update_time": 1766774007,
+    "_id": "Neglect"
+  },
+  "Culture Shock": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774007,
+    "update_time": 1766774007,
+    "_id": "Culture Shock"
+  },
+  "Time to Reflect": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774007,
+    "update_time": 1766774007,
+    "_id": "Time to Reflect"
+  },
+  "Lead the Way": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774007,
+    "update_time": 1766774007,
+    "_id": "Lead the Way"
+  },
+  "Take the Lead": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774007,
+    "update_time": 1766774007,
+    "_id": "Take the Lead"
+  },
+  "National Heritage": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774007,
+    "update_time": 1766774007,
+    "_id": "National Heritage"
+  },
+  "Long Tradition": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774007,
+    "update_time": 1766774007,
+    "_id": "Long Tradition"
+  },
+  "Rich Culture": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774007,
+    "update_time": 1766774007,
+    "_id": "Rich Culture"
+  },
+  "Lead a Team": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774008,
+    "update_time": 1766774008,
+    "_id": "Lead a Team"
+  },
+  "Follow Tradition": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774008,
+    "update_time": 1766774008,
+    "_id": "Follow Tradition"
+  },
+  "Preserve Heritage": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774008,
+    "update_time": 1766774008,
+    "_id": "Preserve Heritage"
+  },
+  "Preserve Peace": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774008,
+    "update_time": 1766774008,
+    "_id": "Preserve Peace"
+  },
+  "Rich Heritage": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774008,
+    "update_time": 1766774008,
+    "_id": "Rich Heritage"
+  },
+  "Echo": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774008,
+    "update_time": 1766774008,
+    "_id": "Echo"
+  },
+  "Break with Tradition": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774008,
+    "update_time": 1766774008,
+    "_id": "Break with Tradition"
+  },
+  "Preserve Culture": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774008,
+    "update_time": 1766774008,
+    "_id": "Preserve Culture"
+  },
+  "Preserve the Environment": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774009,
+    "update_time": 1766774009,
+    "_id": "Preserve the Environment"
+  },
+  "Customs": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774009,
+    "update_time": 1766774009,
+    "_id": "Customs"
+  },
+  "Oral Tradition": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774009,
+    "update_time": 1766774009,
+    "_id": "Oral Tradition"
+  },
+  "Ponder": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774009,
+    "update_time": 1766774009,
+    "_id": "Ponder"
+  },
+  "Govern": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774009,
+    "update_time": 1766774009,
+    "_id": "Govern"
+  },
+  "Way of Life": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774009,
+    "update_time": 1766774009,
+    "_id": "Way of Life"
+  },
+  "Preserve for Future Generations": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774009,
+    "update_time": 1766774009,
+    "_id": "Preserve for Future Generations"
+  },
+  "Disregard": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774009,
+    "update_time": 1766774009,
+    "_id": "Disregard"
+  },
+  "Head": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774010,
+    "update_time": 1766774010,
+    "_id": "Head"
+  },
+  "Convention": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774010,
+    "update_time": 1766774010,
+    "_id": "Convention"
+  },
+  "Ancestry": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774010,
+    "update_time": 1766774010,
+    "_id": "Ancestry"
+  },
+  "Ritual": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774010,
+    "update_time": 1766774010,
+    "_id": "Ritual"
+  },
+  "Command": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774010,
+    "update_time": 1766774010,
+    "_id": "Command"
+  },
+  "Conserve": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774010,
+    "update_time": 1766774010,
+    "_id": "Conserve"
+  },
+  "History (as synonym)": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774010,
+    "update_time": 1766774010,
+    "_id": "History (as synonym)"
+  },
+  "Habit": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774011,
+    "update_time": 1766774011,
+    "_id": "Habit"
+  },
+  "Save": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774011,
+    "update_time": 1766774011,
+    "_id": "Save"
+  },
+  "English literature": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774011,
+    "update_time": 1766774011,
+    "_id": "English literature"
+  },
+  "Modenity": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774011,
+    "update_time": 1766774011,
+    "_id": "Modenity"
+  },
+  "Classic literature": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774011,
+    "update_time": 1766774011,
+    "_id": "Classic literature"
+  },
+  "Reflect light": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774011,
+    "update_time": 1766774011,
+    "_id": "Reflect light"
+  },
+  "Modern literature": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774012,
+    "update_time": 1766774012,
+    "_id": "Modern literature"
+  },
+  "Reflect the reality": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774012,
+    "update_time": 1766774012,
+    "_id": "Reflect the reality"
+  },
+  "Ruin": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774012,
+    "update_time": 1766774012,
+    "_id": "Ruin"
+  },
+  "Pop culture": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774012,
+    "update_time": 1766774012,
+    "_id": "Pop culture"
+  },
+  "Review the literature": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774012,
+    "update_time": 1766774012,
+    "_id": "Review the literature"
+  },
+  "Abandon": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774012,
+    "update_time": 1766774012,
+    "_id": "Abandon"
+  },
+  "Corporate culture": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774012,
+    "update_time": 1766774012,
+    "_id": "Corporate culture"
+  },
+  "Time to reflect": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774012,
+    "update_time": 1766774012,
+    "_id": "Time to reflect"
+  },
+  "Lead the way": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774012,
+    "update_time": 1766774012,
+    "_id": "Lead the way"
+  },
+  "Cultural heritage": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774013,
+    "update_time": 1766774013,
+    "_id": "Cultural heritage"
+  },
+  "Take the lead": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774013,
+    "update_time": 1766774013,
+    "_id": "Take the lead"
+  },
+  "Culture shock": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774013,
+    "update_time": 1766774013,
+    "_id": "Culture shock"
+  },
+  "Long tradition": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774013,
+    "update_time": 1766774013,
+    "_id": "Long tradition"
+  },
+  "National heritage": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774013,
+    "update_time": 1766774013,
+    "_id": "National heritage"
+  },
+  "Lead a team": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774013,
+    "update_time": 1766774013,
+    "_id": "Lead a team"
+  },
+  "Rich culture": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774013,
+    "update_time": 1766774013,
+    "_id": "Rich culture"
+  },
+  "Follow tradition": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774014,
+    "update_time": 1766774014,
+    "_id": "Follow tradition"
+  },
+  "Preserve heritage": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774014,
+    "update_time": 1766774014,
+    "_id": "Preserve heritage"
+  },
+  "Preserve peace": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774014,
+    "update_time": 1766774014,
+    "_id": "Preserve peace"
+  },
+  "Rich heritage": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774014,
+    "update_time": 1766774014,
+    "_id": "Rich heritage"
+  },
+  "Break with tradition": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774014,
+    "update_time": 1766774014,
+    "_id": "Break with tradition"
+  },
+  "Preserve culture": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774014,
+    "update_time": 1766774014,
+    "_id": "Preserve culture"
+  },
+  "Oral tradition": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774014,
+    "update_time": 1766774014,
+    "_id": "Oral tradition"
+  },
+  "Preserve the environment": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774014,
+    "update_time": 1766774014,
+    "_id": "Preserve the environment"
+  },
+  "Preserve for future generations": {
+    "chunk_ids": [
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "count": 1,
+    "create_time": 1766774015,
+    "update_time": 1766774015,
+    "_id": "Preserve for future generations"
+  }
+}

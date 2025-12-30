@@ -1,0 +1,338 @@
+{
+  "doc-3006fb387afe83f8f182ca7118231db7": {
+    "relation_pairs": [
+      [
+        "Consumer API (Kafka)",
+        "Kafka APIs (Collection)"
+      ],
+      [
+        "Kafka",
+        "Kafka Quickstart"
+      ],
+      [
+        "Partition",
+        "Topic"
+      ],
+      [
+        "Apache Kafka",
+        "Kafka Cluster"
+      ],
+      [
+        "Data Size",
+        "Kafka"
+      ],
+      [
+        "Consumers",
+        "Topics"
+      ],
+      [
+        "Event",
+        "Event Value"
+      ],
+      [
+        "Kafka Brokers",
+        "Partitions"
+      ],
+      [
+        "Admin API (Kafka)",
+        "Kafka Brokers"
+      ],
+      [
+        "Data Platform",
+        "Event Streaming"
+      ],
+      [
+        "Event",
+        "Topic"
+      ],
+      [
+        "Event",
+        "Metadata Header"
+      ],
+      [
+        "Datacenter",
+        "Kafka Cluster"
+      ],
+      [
+        "Replication Factor",
+        "Topics"
+      ],
+      [
+        "Event Streaming",
+        "Microservice"
+      ],
+      [
+        "Event",
+        "Event Key"
+      ],
+      [
+        "Apache Kafka",
+        "Consumer"
+      ],
+      [
+        "Apache Kafka",
+        "Producer"
+      ],
+      [
+        "Apache Kafka",
+        "Virtual Machine"
+      ],
+      [
+        "Events",
+        "Kafka"
+      ],
+      [
+        "Kafka",
+        "Producer API (Kafka)"
+      ],
+      [
+        "Kafka",
+        "Kafka Use Cases"
+      ],
+      [
+        "Replication",
+        "Topics"
+      ],
+      [
+        "Events",
+        "Topics"
+      ],
+      [
+        "Broker",
+        "Kafka Cluster"
+      ],
+      [
+        "Academic Papers (Kafka)",
+        "Kafka"
+      ],
+      [
+        "Consumers",
+        "Partitions"
+      ],
+      [
+        "External Systems",
+        "Relational Database"
+      ],
+      [
+        "Admin API (Kafka)",
+        "Topics"
+      ],
+      [
+        "Kafka",
+        "Kafka Streams API"
+      ],
+      [
+        "Kafka",
+        "Kafka APIs (Collection)"
+      ],
+      [
+        "Partitions",
+        "Topics"
+      ],
+      [
+        "Event Source",
+        "Event Streaming"
+      ],
+      [
+        "Datacenters",
+        "Topics"
+      ],
+      [
+        "Data Import/Export Connectors",
+        "External Systems"
+      ],
+      [
+        "Kafka",
+        "Kafka Books"
+      ],
+      [
+        "Client",
+        "Programming Language"
+      ],
+      [
+        "Events",
+        "Producer API (Kafka)"
+      ],
+      [
+        "Data Import/Export Connectors",
+        "PostgreSQL"
+      ],
+      [
+        "Cloud Region",
+        "Kafka Cluster"
+      ],
+      [
+        "Kafka",
+        "Kafka Connect API"
+      ],
+      [
+        "Client",
+        "TCP Network Protocol"
+      ],
+      [
+        "Apache Kafka",
+        "Bare-Metal Hardware"
+      ],
+      [
+        "Apache Kafka",
+        "Client"
+      ],
+      [
+        "Events",
+        "Partitions"
+      ],
+      [
+        "Admin API (Kafka)",
+        "Kafka"
+      ],
+      [
+        "Client Applications",
+        "Kafka Brokers"
+      ],
+      [
+        "Kafka Connect",
+        "Relational Database"
+      ],
+      [
+        "Kafka",
+        "Topic Configuration Setting"
+      ],
+      [
+        "High Availability",
+        "Topics"
+      ],
+      [
+        "Kafka Community",
+        "Local Kafka Meetup Group"
+      ],
+      [
+        "Kafka Cluster",
+        "Kafka Connect"
+      ],
+      [
+        "Kafka Streams API",
+        "Microservices"
+      ],
+      [
+        "Kafka APIs (Collection)",
+        "Producer API (Kafka)"
+      ],
+      [
+        "Apache Kafka",
+        "Event Streaming"
+      ],
+      [
+        "Client",
+        "Kafka Streams Library"
+      ],
+      [
+        "Network (Computing)",
+        "Producers"
+      ],
+      [
+        "Kafka Community",
+        "Kafka Summit"
+      ],
+      [
+        "Client",
+        "REST API"
+      ],
+      [
+        "Kafka APIs (Collection)",
+        "Kafka Streams API"
+      ],
+      [
+        "Kafka",
+        "Scala (Language)"
+      ],
+      [
+        "Consumer API (Kafka)",
+        "Kafka"
+      ],
+      [
+        "Partitions",
+        "Scalability"
+      ],
+      [
+        "Event",
+        "Event Timestamp"
+      ],
+      [
+        "Java (Language)",
+        "Kafka"
+      ],
+      [
+        "Events",
+        "Kafka Streams API"
+      ],
+      [
+        "Consumer API (Kafka)",
+        "Events"
+      ],
+      [
+        "Event Key",
+        "Partitions"
+      ],
+      [
+        "Admin API (Kafka)",
+        "Kafka APIs (Collection)"
+      ],
+      [
+        "Producers",
+        "Topics"
+      ],
+      [
+        "Geo-Regions",
+        "Topics"
+      ],
+      [
+        "Kafka",
+        "Topics"
+      ],
+      [
+        "Event",
+        "Event Streaming"
+      ],
+      [
+        "Fault Tolerance",
+        "Topics"
+      ],
+      [
+        "Apache Kafka",
+        "Container"
+      ],
+      [
+        "Event Streaming",
+        "Event-Driven Architecture"
+      ],
+      [
+        "Data Import/Export Connectors",
+        "Kafka Connect API"
+      ],
+      [
+        "Kafka",
+        "Kafka Documentation"
+      ],
+      [
+        "Command Line Tooling (Kafka)",
+        "Kafka"
+      ],
+      [
+        "Kafka APIs (Collection)",
+        "Kafka Connect API"
+      ],
+      [
+        "Kafka Streams API",
+        "Stream Processing Applications"
+      ],
+      [
+        "Client",
+        "Kafka Community"
+      ]
+    ],
+    "count": 82,
+    "create_time": 1766743585,
+    "update_time": 1766743585,
+    "_id": "doc-3006fb387afe83f8f182ca7118231db7"
+  }
+}

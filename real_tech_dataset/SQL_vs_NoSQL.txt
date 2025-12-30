@@ -1,0 +1,25 @@
+Topic: SQL_vs_NoSQL
+Source: https://www.mongodb.com/resources/basics/databases/nosql-explained
+Domain: Software Engineering/Backend
+========================================
+
+What is NoSQL?
+FAQs
+Many NoSQL databases have the following advantages:
+Eventual consistency is a property of distributed databases. Eventual consistency ensures that when an update is made to the database, eventually, all nodes in the distributed database will reflect that update.
+The CAP theorem states that a distributed computing system can provide a maximum of two of the following three properties: consistency, availability, and partition tolerance.
+NoSQL databases are used in nearly every industry for a variety of use cases.
+The type of NoSQL database determines the typical use case. For example, document databases like MongoDB are general-purpose databases. Key-value databases are ideal for large volumes of data with simple lookup queries. Wide-column stores work well for use cases with large amounts of data and predictable query patterns. Graph databases excel at analyzing and traversing relationships between data. See Understanding the Different Types of NoSQL Databases for more information.
+A NoSQL database is a database that stores data in a format other than relational tables.
+Each NoSQL database will have its own approach to writing queries. Visit the interactive MongoDB documentation to learn more about querying a MongoDB database.
+No, NoSQL databases are not hard to learn. In fact, many developers find modeling data in NoSQL databases to be incredibly intuitive. For example, documents in MongoDB map to data structures in the most popular programming languages, making programming faster and easier.
+Note that those with training and experience in relational databases will likely face a bit of a learning curve as they adjust to new ways of modeling data in NoSQL databases.
+A document database is a type of NoSQL database that stores data in JSON or BSON documents.
+NoSQL databases span a variety of types and implementations. As a result, NoSQL databases can be queried using many query languages and APIs. MongoDB, the world's most popular NoSQL database, can be queried using the MongoDB Query Language (MQL).
+NoSQL databases typically have flexible schemas. Note that some NoSQL databases, like MongoDB, also have support for schema validation, so developers can lock down their schemas as much or as little as they'd like when they are ready.
+Get started with Atlas today
+- 125+ regions worldwide
+- Sample data sets
+- Always-on authentication
+- End-to-end encryption
+- Command line tools

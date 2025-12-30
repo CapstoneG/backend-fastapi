@@ -1,0 +1,635 @@
+{
+  "Kafka": {
+    "chunk_ids": [
+      "chunk-a15c8d50abd30a81a1bb191da6acd84e"
+    ],
+    "count": 1,
+    "create_time": 1766743576,
+    "update_time": 1766743576,
+    "_id": "Kafka"
+  },
+  "Events": {
+    "chunk_ids": [
+      "chunk-a15c8d50abd30a81a1bb191da6acd84e"
+    ],
+    "count": 1,
+    "create_time": 1766743576,
+    "update_time": 1766743576,
+    "_id": "Events"
+  },
+  "Topics": {
+    "chunk_ids": [
+      "chunk-a15c8d50abd30a81a1bb191da6acd84e"
+    ],
+    "count": 1,
+    "create_time": 1766743576,
+    "update_time": 1766743576,
+    "_id": "Topics"
+  },
+  "Consumers": {
+    "chunk_ids": [
+      "chunk-a15c8d50abd30a81a1bb191da6acd84e"
+    ],
+    "count": 1,
+    "create_time": 1766743576,
+    "update_time": 1766743576,
+    "_id": "Consumers"
+  },
+  "Traditional Messaging Systems": {
+    "chunk_ids": [
+      "chunk-a15c8d50abd30a81a1bb191da6acd84e"
+    ],
+    "count": 1,
+    "create_time": 1766743576,
+    "update_time": 1766743576,
+    "_id": "Traditional Messaging Systems"
+  },
+  "Kafka Brokers": {
+    "chunk_ids": [
+      "chunk-a15c8d50abd30a81a1bb191da6acd84e"
+    ],
+    "count": 1,
+    "create_time": 1766743576,
+    "update_time": 1766743576,
+    "_id": "Kafka Brokers"
+  },
+  "Client Applications": {
+    "chunk_ids": [
+      "chunk-a15c8d50abd30a81a1bb191da6acd84e"
+    ],
+    "count": 1,
+    "create_time": 1766743576,
+    "update_time": 1766743576,
+    "_id": "Client Applications"
+  },
+  "Event Key": {
+    "chunk_ids": [
+      "chunk-a15c8d50abd30a81a1bb191da6acd84e",
+      "chunk-c7a6477706b973e2e63ad547b7ea2015"
+    ],
+    "count": 2,
+    "create_time": 1766743576,
+    "update_time": 1766743576,
+    "_id": "Event Key"
+  },
+  "Partitions": {
+    "chunk_ids": [
+      "chunk-a15c8d50abd30a81a1bb191da6acd84e"
+    ],
+    "count": 1,
+    "create_time": 1766743576,
+    "update_time": 1766743576,
+    "_id": "Partitions"
+  },
+  "Producers": {
+    "chunk_ids": [
+      "chunk-a15c8d50abd30a81a1bb191da6acd84e"
+    ],
+    "count": 1,
+    "create_time": 1766743576,
+    "update_time": 1766743576,
+    "_id": "Producers"
+  },
+  "Geo-Regions": {
+    "chunk_ids": [
+      "chunk-a15c8d50abd30a81a1bb191da6acd84e"
+    ],
+    "count": 1,
+    "create_time": 1766743576,
+    "update_time": 1766743576,
+    "_id": "Geo-Regions"
+  },
+  "Datacenters": {
+    "chunk_ids": [
+      "chunk-a15c8d50abd30a81a1bb191da6acd84e"
+    ],
+    "count": 1,
+    "create_time": 1766743576,
+    "update_time": 1766743576,
+    "_id": "Datacenters"
+  },
+  "Replication Factor": {
+    "chunk_ids": [
+      "chunk-a15c8d50abd30a81a1bb191da6acd84e"
+    ],
+    "count": 1,
+    "create_time": 1766743576,
+    "update_time": 1766743576,
+    "_id": "Replication Factor"
+  },
+  "Admin API (Kafka)": {
+    "chunk_ids": [
+      "chunk-a15c8d50abd30a81a1bb191da6acd84e"
+    ],
+    "count": 1,
+    "create_time": 1766743576,
+    "update_time": 1766743576,
+    "_id": "Admin API (Kafka)"
+  },
+  "Producer API (Kafka)": {
+    "chunk_ids": [
+      "chunk-a15c8d50abd30a81a1bb191da6acd84e"
+    ],
+    "count": 1,
+    "create_time": 1766743576,
+    "update_time": 1766743576,
+    "_id": "Producer API (Kafka)"
+  },
+  "Consumer API (Kafka)": {
+    "chunk_ids": [
+      "chunk-a15c8d50abd30a81a1bb191da6acd84e"
+    ],
+    "count": 1,
+    "create_time": 1766743576,
+    "update_time": 1766743576,
+    "_id": "Consumer API (Kafka)"
+  },
+  "Kafka Streams API": {
+    "chunk_ids": [
+      "chunk-a15c8d50abd30a81a1bb191da6acd84e"
+    ],
+    "count": 1,
+    "create_time": 1766743576,
+    "update_time": 1766743576,
+    "_id": "Kafka Streams API"
+  },
+  "Kafka Connect API": {
+    "chunk_ids": [
+      "chunk-a15c8d50abd30a81a1bb191da6acd84e"
+    ],
+    "count": 1,
+    "create_time": 1766743576,
+    "update_time": 1766743576,
+    "_id": "Kafka Connect API"
+  },
+  "Java (Language)": {
+    "chunk_ids": [
+      "chunk-a15c8d50abd30a81a1bb191da6acd84e"
+    ],
+    "count": 1,
+    "create_time": 1766743576,
+    "update_time": 1766743576,
+    "_id": "Java (Language)"
+  },
+  "Scala (Language)": {
+    "chunk_ids": [
+      "chunk-a15c8d50abd30a81a1bb191da6acd84e"
+    ],
+    "count": 1,
+    "create_time": 1766743576,
+    "update_time": 1766743576,
+    "_id": "Scala (Language)"
+  },
+  "Kafka Documentation": {
+    "chunk_ids": [
+      "chunk-a15c8d50abd30a81a1bb191da6acd84e"
+    ],
+    "count": 1,
+    "create_time": 1766743576,
+    "update_time": 1766743576,
+    "_id": "Kafka Documentation"
+  },
+  "Kafka Quickstart": {
+    "chunk_ids": [
+      "chunk-a15c8d50abd30a81a1bb191da6acd84e"
+    ],
+    "count": 1,
+    "create_time": 1766743576,
+    "update_time": 1766743576,
+    "_id": "Kafka Quickstart"
+  },
+  "Kafka Books": {
+    "chunk_ids": [
+      "chunk-a15c8d50abd30a81a1bb191da6acd84e"
+    ],
+    "count": 1,
+    "create_time": 1766743576,
+    "update_time": 1766743576,
+    "_id": "Kafka Books"
+  },
+  "Academic Papers (Kafka)": {
+    "chunk_ids": [
+      "chunk-a15c8d50abd30a81a1bb191da6acd84e"
+    ],
+    "count": 1,
+    "create_time": 1766743576,
+    "update_time": 1766743576,
+    "_id": "Academic Papers (Kafka)"
+  },
+  "Kafka Use Cases": {
+    "chunk_ids": [
+      "chunk-a15c8d50abd30a81a1bb191da6acd84e"
+    ],
+    "count": 1,
+    "create_time": 1766743577,
+    "update_time": 1766743577,
+    "_id": "Kafka Use Cases"
+  },
+  "Local Kafka Meetup Group": {
+    "chunk_ids": [
+      "chunk-a15c8d50abd30a81a1bb191da6acd84e"
+    ],
+    "count": 1,
+    "create_time": 1766743577,
+    "update_time": 1766743577,
+    "_id": "Local Kafka Meetup Group"
+  },
+  "Kafka Summit": {
+    "chunk_ids": [
+      "chunk-a15c8d50abd30a81a1bb191da6acd84e"
+    ],
+    "count": 1,
+    "create_time": 1766743577,
+    "update_time": 1766743577,
+    "_id": "Kafka Summit"
+  },
+  "Kafka Community": {
+    "chunk_ids": [
+      "chunk-a15c8d50abd30a81a1bb191da6acd84e",
+      "chunk-c7a6477706b973e2e63ad547b7ea2015"
+    ],
+    "count": 2,
+    "create_time": 1766743577,
+    "update_time": 1766743577,
+    "_id": "Kafka Community"
+  },
+  "PostgreSQL": {
+    "chunk_ids": [
+      "chunk-a15c8d50abd30a81a1bb191da6acd84e"
+    ],
+    "count": 1,
+    "create_time": 1766743577,
+    "update_time": 1766743577,
+    "_id": "PostgreSQL"
+  },
+  "Stream Processing Applications": {
+    "chunk_ids": [
+      "chunk-a15c8d50abd30a81a1bb191da6acd84e"
+    ],
+    "count": 1,
+    "create_time": 1766743577,
+    "update_time": 1766743577,
+    "_id": "Stream Processing Applications"
+  },
+  "Data Import/Export Connectors": {
+    "chunk_ids": [
+      "chunk-a15c8d50abd30a81a1bb191da6acd84e"
+    ],
+    "count": 1,
+    "create_time": 1766743577,
+    "update_time": 1766743577,
+    "_id": "Data Import/Export Connectors"
+  },
+  "External Systems": {
+    "chunk_ids": [
+      "chunk-a15c8d50abd30a81a1bb191da6acd84e"
+    ],
+    "count": 1,
+    "create_time": 1766743577,
+    "update_time": 1766743577,
+    "_id": "External Systems"
+  },
+  "Topic Configuration Setting": {
+    "chunk_ids": [
+      "chunk-a15c8d50abd30a81a1bb191da6acd84e"
+    ],
+    "count": 1,
+    "create_time": 1766743577,
+    "update_time": 1766743577,
+    "_id": "Topic Configuration Setting"
+  },
+  "Data Size": {
+    "chunk_ids": [
+      "chunk-a15c8d50abd30a81a1bb191da6acd84e"
+    ],
+    "count": 1,
+    "create_time": 1766743577,
+    "update_time": 1766743577,
+    "_id": "Data Size"
+  },
+  "Scalability": {
+    "chunk_ids": [
+      "chunk-a15c8d50abd30a81a1bb191da6acd84e"
+    ],
+    "count": 1,
+    "create_time": 1766743577,
+    "update_time": 1766743577,
+    "_id": "Scalability"
+  },
+  "Network (Computing)": {
+    "chunk_ids": [
+      "chunk-a15c8d50abd30a81a1bb191da6acd84e"
+    ],
+    "count": 1,
+    "create_time": 1766743577,
+    "update_time": 1766743577,
+    "_id": "Network (Computing)"
+  },
+  "Fault Tolerance": {
+    "chunk_ids": [
+      "chunk-a15c8d50abd30a81a1bb191da6acd84e"
+    ],
+    "count": 1,
+    "create_time": 1766743577,
+    "update_time": 1766743577,
+    "_id": "Fault Tolerance"
+  },
+  "High Availability": {
+    "chunk_ids": [
+      "chunk-a15c8d50abd30a81a1bb191da6acd84e"
+    ],
+    "count": 1,
+    "create_time": 1766743577,
+    "update_time": 1766743577,
+    "_id": "High Availability"
+  },
+  "Replication": {
+    "chunk_ids": [
+      "chunk-a15c8d50abd30a81a1bb191da6acd84e"
+    ],
+    "count": 1,
+    "create_time": 1766743577,
+    "update_time": 1766743577,
+    "_id": "Replication"
+  },
+  "Microservices": {
+    "chunk_ids": [
+      "chunk-a15c8d50abd30a81a1bb191da6acd84e"
+    ],
+    "count": 1,
+    "create_time": 1766743577,
+    "update_time": 1766743577,
+    "_id": "Microservices"
+  },
+  "Relational Database": {
+    "chunk_ids": [
+      "chunk-a15c8d50abd30a81a1bb191da6acd84e",
+      "chunk-c7a6477706b973e2e63ad547b7ea2015"
+    ],
+    "count": 2,
+    "create_time": 1766743577,
+    "update_time": 1766743577,
+    "_id": "Relational Database"
+  },
+  "Command Line Tooling (Kafka)": {
+    "chunk_ids": [
+      "chunk-a15c8d50abd30a81a1bb191da6acd84e"
+    ],
+    "count": 1,
+    "create_time": 1766743577,
+    "update_time": 1766743577,
+    "_id": "Command Line Tooling (Kafka)"
+  },
+  "Kafka APIs (Collection)": {
+    "chunk_ids": [
+      "chunk-a15c8d50abd30a81a1bb191da6acd84e"
+    ],
+    "count": 1,
+    "create_time": 1766743577,
+    "update_time": 1766743577,
+    "_id": "Kafka APIs (Collection)"
+  },
+  "Apache Kafka": {
+    "chunk_ids": [
+      "chunk-c7a6477706b973e2e63ad547b7ea2015"
+    ],
+    "count": 1,
+    "create_time": 1766743577,
+    "update_time": 1766743577,
+    "_id": "Apache Kafka"
+  },
+  "Event Streaming": {
+    "chunk_ids": [
+      "chunk-c7a6477706b973e2e63ad547b7ea2015"
+    ],
+    "count": 1,
+    "create_time": 1766743577,
+    "update_time": 1766743577,
+    "_id": "Event Streaming"
+  },
+  "Event": {
+    "chunk_ids": [
+      "chunk-c7a6477706b973e2e63ad547b7ea2015"
+    ],
+    "count": 1,
+    "create_time": 1766743577,
+    "update_time": 1766743577,
+    "_id": "Event"
+  },
+  "Producer": {
+    "chunk_ids": [
+      "chunk-c7a6477706b973e2e63ad547b7ea2015"
+    ],
+    "count": 1,
+    "create_time": 1766743577,
+    "update_time": 1766743577,
+    "_id": "Producer"
+  },
+  "Consumer": {
+    "chunk_ids": [
+      "chunk-c7a6477706b973e2e63ad547b7ea2015"
+    ],
+    "count": 1,
+    "create_time": 1766743577,
+    "update_time": 1766743577,
+    "_id": "Consumer"
+  },
+  "Topic": {
+    "chunk_ids": [
+      "chunk-c7a6477706b973e2e63ad547b7ea2015"
+    ],
+    "count": 1,
+    "create_time": 1766743577,
+    "update_time": 1766743577,
+    "_id": "Topic"
+  },
+  "Kafka Cluster": {
+    "chunk_ids": [
+      "chunk-c7a6477706b973e2e63ad547b7ea2015"
+    ],
+    "count": 1,
+    "create_time": 1766743577,
+    "update_time": 1766743577,
+    "_id": "Kafka Cluster"
+  },
+  "Broker": {
+    "chunk_ids": [
+      "chunk-c7a6477706b973e2e63ad547b7ea2015"
+    ],
+    "count": 1,
+    "create_time": 1766743577,
+    "update_time": 1766743577,
+    "_id": "Broker"
+  },
+  "Kafka Connect": {
+    "chunk_ids": [
+      "chunk-c7a6477706b973e2e63ad547b7ea2015"
+    ],
+    "count": 1,
+    "create_time": 1766743577,
+    "update_time": 1766743577,
+    "_id": "Kafka Connect"
+  },
+  "Client": {
+    "chunk_ids": [
+      "chunk-c7a6477706b973e2e63ad547b7ea2015"
+    ],
+    "count": 1,
+    "create_time": 1766743577,
+    "update_time": 1766743577,
+    "_id": "Client"
+  },
+  "TCP Network Protocol": {
+    "chunk_ids": [
+      "chunk-c7a6477706b973e2e63ad547b7ea2015"
+    ],
+    "count": 1,
+    "create_time": 1766743577,
+    "update_time": 1766743577,
+    "_id": "TCP Network Protocol"
+  },
+  "Datacenter": {
+    "chunk_ids": [
+      "chunk-c7a6477706b973e2e63ad547b7ea2015"
+    ],
+    "count": 1,
+    "create_time": 1766743577,
+    "update_time": 1766743577,
+    "_id": "Datacenter"
+  },
+  "Cloud Region": {
+    "chunk_ids": [
+      "chunk-c7a6477706b973e2e63ad547b7ea2015"
+    ],
+    "count": 1,
+    "create_time": 1766743577,
+    "update_time": 1766743577,
+    "_id": "Cloud Region"
+  },
+  "Kafka Streams Library": {
+    "chunk_ids": [
+      "chunk-c7a6477706b973e2e63ad547b7ea2015"
+    ],
+    "count": 1,
+    "create_time": 1766743577,
+    "update_time": 1766743577,
+    "_id": "Kafka Streams Library"
+  },
+  "Event-Driven Architecture": {
+    "chunk_ids": [
+      "chunk-c7a6477706b973e2e63ad547b7ea2015"
+    ],
+    "count": 1,
+    "create_time": 1766743578,
+    "update_time": 1766743578,
+    "_id": "Event-Driven Architecture"
+  },
+  "Microservice": {
+    "chunk_ids": [
+      "chunk-c7a6477706b973e2e63ad547b7ea2015"
+    ],
+    "count": 1,
+    "create_time": 1766743578,
+    "update_time": 1766743578,
+    "_id": "Microservice"
+  },
+  "Data Platform": {
+    "chunk_ids": [
+      "chunk-c7a6477706b973e2e63ad547b7ea2015"
+    ],
+    "count": 1,
+    "create_time": 1766743578,
+    "update_time": 1766743578,
+    "_id": "Data Platform"
+  },
+  "Event Source": {
+    "chunk_ids": [
+      "chunk-c7a6477706b973e2e63ad547b7ea2015"
+    ],
+    "count": 1,
+    "create_time": 1766743578,
+    "update_time": 1766743578,
+    "_id": "Event Source"
+  },
+  "Bare-Metal Hardware": {
+    "chunk_ids": [
+      "chunk-c7a6477706b973e2e63ad547b7ea2015"
+    ],
+    "count": 1,
+    "create_time": 1766743578,
+    "update_time": 1766743578,
+    "_id": "Bare-Metal Hardware"
+  },
+  "Virtual Machine": {
+    "chunk_ids": [
+      "chunk-c7a6477706b973e2e63ad547b7ea2015"
+    ],
+    "count": 1,
+    "create_time": 1766743578,
+    "update_time": 1766743578,
+    "_id": "Virtual Machine"
+  },
+  "Container": {
+    "chunk_ids": [
+      "chunk-c7a6477706b973e2e63ad547b7ea2015"
+    ],
+    "count": 1,
+    "create_time": 1766743578,
+    "update_time": 1766743578,
+    "_id": "Container"
+  },
+  "Event Value": {
+    "chunk_ids": [
+      "chunk-c7a6477706b973e2e63ad547b7ea2015"
+    ],
+    "count": 1,
+    "create_time": 1766743578,
+    "update_time": 1766743578,
+    "_id": "Event Value"
+  },
+  "Event Timestamp": {
+    "chunk_ids": [
+      "chunk-c7a6477706b973e2e63ad547b7ea2015"
+    ],
+    "count": 1,
+    "create_time": 1766743578,
+    "update_time": 1766743578,
+    "_id": "Event Timestamp"
+  },
+  "Metadata Header": {
+    "chunk_ids": [
+      "chunk-c7a6477706b973e2e63ad547b7ea2015"
+    ],
+    "count": 1,
+    "create_time": 1766743578,
+    "update_time": 1766743578,
+    "_id": "Metadata Header"
+  },
+  "Partition": {
+    "chunk_ids": [
+      "chunk-c7a6477706b973e2e63ad547b7ea2015"
+    ],
+    "count": 1,
+    "create_time": 1766743578,
+    "update_time": 1766743578,
+    "_id": "Partition"
+  },
+  "Programming Language": {
+    "chunk_ids": [
+      "chunk-c7a6477706b973e2e63ad547b7ea2015"
+    ],
+    "count": 1,
+    "create_time": 1766743578,
+    "update_time": 1766743578,
+    "_id": "Programming Language"
+  },
+  "REST API": {
+    "chunk_ids": [
+      "chunk-c7a6477706b973e2e63ad547b7ea2015"
+    ],
+    "count": 1,
+    "create_time": 1766743578,
+    "update_time": 1766743578,
+    "_id": "REST API"
+  }
+}

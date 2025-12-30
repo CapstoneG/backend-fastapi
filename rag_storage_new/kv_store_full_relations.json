@@ -1,0 +1,1690 @@
+{
+  "doc-41fc9250a6b1fd299c982632197998af": {
+    "relation_pairs": [
+      [
+        "Cultural Exchange",
+        "Diversity"
+      ],
+      [
+        "Culture",
+        "Society"
+      ],
+      [
+        "Art",
+        "Cultural Identity"
+      ],
+      [
+        "Culture",
+        "Values"
+      ],
+      [
+        "Beliefs",
+        "Culture"
+      ],
+      [
+        "Cultural Heritage",
+        "Diversity"
+      ],
+      [
+        "Cultural Homogenization",
+        "Globalization"
+      ],
+      [
+        "Culture",
+        "Traditions"
+      ],
+      [
+        "Cultural Identity",
+        "Music"
+      ],
+      [
+        "Cultural Identity",
+        "Literature"
+      ],
+      [
+        "Cultural Exchange",
+        "Global Communication"
+      ]
+    ],
+    "count": 11,
+    "create_time": 1766773365,
+    "update_time": 1766773365,
+    "_id": "doc-41fc9250a6b1fd299c982632197998af"
+  },
+  "doc-0258ad91fe9120781080b004f383bd29": {
+    "relation_pairs": [
+      [
+        "Academic Pressure",
+        "Students"
+      ],
+      [
+        "Exam-Oriented Teaching",
+        "Students"
+      ],
+      [
+        "Education",
+        "Theoretical Knowledge"
+      ],
+      [
+        "Education",
+        "Problem-Solving Skills"
+      ],
+      [
+        "Creativity",
+        "Education"
+      ],
+      [
+        "Online Education",
+        "Traditional Classroom Learning"
+      ],
+      [
+        "Education",
+        "Practical Skills"
+      ],
+      [
+        "Creativity",
+        "Education System"
+      ],
+      [
+        "Critical Thinking",
+        "Education"
+      ],
+      [
+        "Education",
+        "Social Progress"
+      ],
+      [
+        "Academic Pressure",
+        "Exam-Oriented Teaching"
+      ],
+      [
+        "Education System",
+        "Problem-Solving Skills"
+      ],
+      [
+        "Education",
+        "Personal Development"
+      ],
+      [
+        "Critical Thinking",
+        "Education System"
+      ]
+    ],
+    "count": 14,
+    "create_time": 1766773374,
+    "update_time": 1766773374,
+    "_id": "doc-0258ad91fe9120781080b004f383bd29"
+  },
+  "doc-f487536603023fb081295410a335b8e8": {
+    "relation_pairs": [
+      [
+        "Carbon Emissions",
+        "Recycling"
+      ],
+      [
+        "Governments",
+        "Recycling"
+      ],
+      [
+        "Climate Change",
+        "Environmental Protection"
+      ],
+      [
+        "Environmental Damage",
+        "Excessive Consumption"
+      ],
+      [
+        "Air Pollution",
+        "Environmental Protection"
+      ],
+      [
+        "Climate Change",
+        "Natural Ecosystems"
+      ],
+      [
+        "Carbon Emissions",
+        "Renewable Energy"
+      ],
+      [
+        "Deforestation",
+        "Environmental Protection"
+      ],
+      [
+        "Individuals",
+        "Waste Reduction"
+      ],
+      [
+        "Environmental Protection",
+        "Future Generations"
+      ],
+      [
+        "Environmental Damage",
+        "Industrial Production"
+      ],
+      [
+        "Deforestation",
+        "Natural Ecosystems"
+      ],
+      [
+        "Air Pollution",
+        "Natural Ecosystems"
+      ],
+      [
+        "Governments",
+        "Renewable Energy"
+      ],
+      [
+        "Individuals",
+        "Public Transport"
+      ],
+      [
+        "Environmental Damage",
+        "Human Activities"
+      ]
+    ],
+    "count": 16,
+    "create_time": 1766773382,
+    "update_time": 1766773382,
+    "_id": "doc-f487536603023fb081295410a335b8e8"
+  },
+  "doc-730f07c6091635ef24782570b41b172d": {
+    "relation_pairs": [
+      [
+        "Lead",
+        "Take the lead"
+      ],
+      [
+        "Art",
+        "Masterpiece"
+      ],
+      [
+        "Heritage",
+        "Rich heritage"
+      ],
+      [
+        "Learn",
+        "Master"
+      ],
+      [
+        "Different",
+        "Unique"
+      ],
+      [
+        "Cultural heritage",
+        "Heritage"
+      ],
+      [
+        "Embrace",
+        "Reject"
+      ],
+      [
+        "Communication",
+        "Dialogue"
+      ],
+      [
+        "Globalization",
+        "Protectionism"
+      ],
+      [
+        "Important",
+        "Significant"
+      ],
+      [
+        "General / Sociology",
+        "Role"
+      ],
+      [
+        "Collocations of 'learn'",
+        "Learn"
+      ],
+      [
+        "Communication",
+        "General"
+      ],
+      [
+        "Learn",
+        "Teach"
+      ],
+      [
+        "Fear",
+        "Psychology"
+      ],
+      [
+        "Allow",
+        "General / Governance"
+      ],
+      [
+        "Alike",
+        "Different"
+      ],
+      [
+        "Field of Education",
+        "Learn"
+      ],
+      [
+        "Homogenization",
+        "Standardization"
+      ],
+      [
+        "Embrace",
+        "Oppose"
+      ],
+      [
+        "Principle",
+        "Value"
+      ],
+      [
+        "English Literature",
+        "Literature"
+      ],
+      [
+        "Exchange",
+        "Interchange"
+      ],
+      [
+        "Value",
+        "Worthlessness"
+      ],
+      [
+        "Globalization",
+        "Localization"
+      ],
+      [
+        "Dread",
+        "Fear"
+      ],
+      [
+        "English literature",
+        "Literature"
+      ],
+      [
+        "Culture / Arts",
+        "Music"
+      ],
+      [
+        "Cause",
+        "Effect"
+      ],
+      [
+        "Global",
+        "Planetary"
+      ],
+      [
+        "Important",
+        "Key"
+      ],
+      [
+        "Habit",
+        "Tradition"
+      ],
+      [
+        "Fear",
+        "Fear of"
+      ],
+      [
+        "Key Role",
+        "Role"
+      ],
+      [
+        "Anti-Globalization",
+        "Globalization"
+      ],
+      [
+        "Preserve",
+        "Ruin"
+      ],
+      [
+        "Literature",
+        "Texts"
+      ],
+      [
+        "Culture",
+        "Heritage"
+      ],
+      [
+        "Perform",
+        "Play"
+      ],
+      [
+        "Anxiety",
+        "Fear"
+      ],
+      [
+        "Preserve",
+        "Preserve Culture"
+      ],
+      [
+        "Theme",
+        "Topic"
+      ],
+      [
+        "Culture (field for heritage)",
+        "Heritage"
+      ],
+      [
+        "People",
+        "People Say"
+      ],
+      [
+        "Belief",
+        "Creed"
+      ],
+      [
+        "Part",
+        "Role"
+      ],
+      [
+        "Embrace",
+        "Psychology / General"
+      ],
+      [
+        "Embrace",
+        "Warmly Embrace"
+      ],
+      [
+        "Art",
+        "Craft"
+      ],
+      [
+        "Preserve",
+        "Save"
+      ],
+      [
+        "Essential",
+        "General"
+      ],
+      [
+        "Global",
+        "Regional"
+      ],
+      [
+        "Cultural",
+        "Cultural Background"
+      ],
+      [
+        "Collocations of 'society'",
+        "Society"
+      ],
+      [
+        "Era of Globalization",
+        "Globalization"
+      ],
+      [
+        "Music",
+        "Noise"
+      ],
+      [
+        "Ignore",
+        "Learn"
+      ],
+      [
+        "Learn",
+        "Study"
+      ],
+      [
+        "Preserve",
+        "Preserve the Environment"
+      ],
+      [
+        "Reflect",
+        "Reflect light"
+      ],
+      [
+        "Cause",
+        "General / Science"
+      ],
+      [
+        "Heritage",
+        "Rich Heritage"
+      ],
+      [
+        "General",
+        "Important"
+      ],
+      [
+        "Belief",
+        "Disbelief"
+      ],
+      [
+        "Art",
+        "Skill"
+      ],
+      [
+        "Anthropology",
+        "Culture"
+      ],
+      [
+        "Belief",
+        "Opinion"
+      ],
+      [
+        "Leading Role",
+        "Role"
+      ],
+      [
+        "Diversity",
+        "Mixture"
+      ],
+      [
+        "Cultural",
+        "Ethnic"
+      ],
+      [
+        "Culture",
+        "Sociology"
+      ],
+      [
+        "Crucial",
+        "Essential"
+      ],
+      [
+        "Crucial",
+        "Important"
+      ],
+      [
+        "Absorb",
+        "Reflect"
+      ],
+      [
+        "Allow",
+        "Forbid"
+      ],
+      [
+        "Identity",
+        "Individuality"
+      ],
+      [
+        "Community",
+        "Society"
+      ],
+      [
+        "Keep",
+        "Preserve"
+      ],
+      [
+        "Modenity",
+        "Tradition"
+      ],
+      [
+        "Innovation",
+        "Tradition"
+      ],
+      [
+        "Guide",
+        "Lead"
+      ],
+      [
+        "Communication",
+        "Withholding"
+      ],
+      [
+        "Different",
+        "Distinct"
+      ],
+      [
+        "Cultural",
+        "Societal"
+      ],
+      [
+        "Play",
+        "Work"
+      ],
+      [
+        "Adopt",
+        "Embrace"
+      ],
+      [
+        "Belief",
+        "Skepticism"
+      ],
+      [
+        "Allow",
+        "Let"
+      ],
+      [
+        "Society",
+        "Sociology"
+      ],
+      [
+        "Reflect",
+        "Reflect the reality"
+      ],
+      [
+        "Physics / Psychology",
+        "Reflect"
+      ],
+      [
+        "Cause",
+        "Origin"
+      ],
+      [
+        "Homogenization",
+        "Sociology / Globalization"
+      ],
+      [
+        "Exchange",
+        "Swap"
+      ],
+      [
+        "Embrace",
+        "Embrace An Opportunity"
+      ],
+      [
+        "Different",
+        "Varied"
+      ],
+      [
+        "Essential",
+        "Expendable"
+      ],
+      [
+        "Belief",
+        "Doubt"
+      ],
+      [
+        "Duty",
+        "Role"
+      ],
+      [
+        "Belief",
+        "Belief System"
+      ],
+      [
+        "Fear",
+        "Living in Fear"
+      ],
+      [
+        "Homogenization",
+        "Uniformity"
+      ],
+      [
+        "Public",
+        "Society"
+      ],
+      [
+        "Humans",
+        "People"
+      ],
+      [
+        "General",
+        "Lead"
+      ],
+      [
+        "Individuals",
+        "People"
+      ],
+      [
+        "Fear",
+        "Terror"
+      ],
+      [
+        "Globalization",
+        "Integration"
+      ],
+      [
+        "Conservation",
+        "Preserve"
+      ],
+      [
+        "Preserve",
+        "Preserve peace"
+      ],
+      [
+        "Communication",
+        "Interaction"
+      ],
+      [
+        "Echo",
+        "Reflect"
+      ],
+      [
+        "Diversity",
+        "Variety"
+      ],
+      [
+        "Humanity",
+        "Society"
+      ],
+      [
+        "Cause",
+        "Root Cause"
+      ],
+      [
+        "Acquire",
+        "Learn"
+      ],
+      [
+        "Art",
+        "Culture / Arts"
+      ],
+      [
+        "Different",
+        "General"
+      ],
+      [
+        "Melody",
+        "Music"
+      ],
+      [
+        "Play a Role",
+        "Role"
+      ],
+      [
+        "Conversation",
+        "Topic"
+      ],
+      [
+        "Cause",
+        "Reason"
+      ],
+      [
+        "Sociology (field for tradition)",
+        "Tradition"
+      ],
+      [
+        "Communication",
+        "Contact"
+      ],
+      [
+        "Forget",
+        "Learn"
+      ],
+      [
+        "Lead",
+        "Lead a Team"
+      ],
+      [
+        "Lead",
+        "Obey"
+      ],
+      [
+        "Lead",
+        "Lead to"
+      ],
+      [
+        "Belief",
+        "View"
+      ],
+      [
+        "Exchange",
+        "Keep"
+      ],
+      [
+        "Preserve",
+        "Preserve for Future Generations"
+      ],
+      [
+        "History (field for preserve)",
+        "Preserve"
+      ],
+      [
+        "Economic Globalization",
+        "Globalization"
+      ],
+      [
+        "Allow",
+        "Prohibit"
+      ],
+      [
+        "Reflect",
+        "Reflect the Reality"
+      ],
+      [
+        "Art",
+        "Collocations of 'art'"
+      ],
+      [
+        "Essential",
+        "Vital"
+      ],
+      [
+        "Embrace",
+        "Support"
+      ],
+      [
+        "Culture",
+        "Nature"
+      ],
+      [
+        "Allow",
+        "Collocations of 'allow'"
+      ],
+      [
+        "Communication",
+        "Correspondence"
+      ],
+      [
+        "Culture (field)",
+        "Heritage"
+      ],
+      [
+        "Conserve",
+        "Preserve"
+      ],
+      [
+        "Globalization",
+        "Isolationism"
+      ],
+      [
+        "Heritage",
+        "National Heritage"
+      ],
+      [
+        "Heritage",
+        "Preserve Heritage"
+      ],
+      [
+        "Preserve",
+        "Preserve the environment"
+      ],
+      [
+        "Culture",
+        "Pop Culture"
+      ],
+      [
+        "Cultural",
+        "Sociology"
+      ],
+      [
+        "Cause",
+        "Root"
+      ],
+      [
+        "Cause",
+        "Major Cause"
+      ],
+      [
+        "Blending",
+        "Homogenization"
+      ],
+      [
+        "Culture",
+        "Pop culture"
+      ],
+      [
+        "Civilization",
+        "Society"
+      ],
+      [
+        "People",
+        "Persons"
+      ],
+      [
+        "Literature",
+        "Prose"
+      ],
+      [
+        "Heritage",
+        "Preserve heritage"
+      ],
+      [
+        "Important",
+        "Unimportant"
+      ],
+      [
+        "Merit",
+        "Value"
+      ],
+      [
+        "Contemplate",
+        "Reflect"
+      ],
+      [
+        "Belief",
+        "Faith"
+      ],
+      [
+        "Cultural Heritage",
+        "Heritage"
+      ],
+      [
+        "Identity",
+        "Psychology / Sociology"
+      ],
+      [
+        "Allow",
+        "Grant"
+      ],
+      [
+        "Ponder",
+        "Reflect"
+      ],
+      [
+        "Diversity",
+        "Similarity"
+      ],
+      [
+        "Accept",
+        "Embrace"
+      ],
+      [
+        "Point",
+        "Topic"
+      ],
+      [
+        "Communication",
+        "Transmission"
+      ],
+      [
+        "Arts / Education",
+        "Literature"
+      ],
+      [
+        "Cultural Exchange",
+        "Exchange"
+      ],
+      [
+        "Education",
+        "Learn"
+      ],
+      [
+        "Identity",
+        "Personality"
+      ],
+      [
+        "Embrace",
+        "General"
+      ],
+      [
+        "Basis",
+        "Cause"
+      ],
+      [
+        "Music",
+        "Tune"
+      ],
+      [
+        "Harmony",
+        "Music"
+      ],
+      [
+        "Subject",
+        "Topic"
+      ],
+      [
+        "Reflect",
+        "Time to reflect"
+      ],
+      [
+        "Reflect",
+        "Time to Reflect"
+      ],
+      [
+        "Essential",
+        "Unnecessary"
+      ],
+      [
+        "Fear",
+        "Panic"
+      ],
+      [
+        "Culture",
+        "Way of Life"
+      ],
+      [
+        "Heritage",
+        "Legacy"
+      ],
+      [
+        "Economics / Sociology",
+        "Globalization"
+      ],
+      [
+        "Preserve",
+        "Protect"
+      ],
+      [
+        "Preserve",
+        "Preserve culture"
+      ],
+      [
+        "Diversity",
+        "Homogeneity"
+      ],
+      [
+        "Cultural",
+        "Cultural Exchange"
+      ],
+      [
+        "Cause",
+        "Consequence"
+      ],
+      [
+        "Cultural",
+        "Cultural Heritage"
+      ],
+      [
+        "Ancestry",
+        "Heritage"
+      ],
+      [
+        "Ignore",
+        "Reflect"
+      ],
+      [
+        "Ritual",
+        "Tradition"
+      ],
+      [
+        "Diversity",
+        "Uniformity"
+      ],
+      [
+        "Convention",
+        "Tradition"
+      ],
+      [
+        "Heritage",
+        "History (as synonym)"
+      ],
+      [
+        "Character",
+        "Identity"
+      ],
+      [
+        "Capacity",
+        "Role"
+      ],
+      [
+        "Heritage",
+        "National heritage"
+      ],
+      [
+        "Belief",
+        "Religious Belief"
+      ],
+      [
+        "Economics / Communication",
+        "Exchange"
+      ],
+      [
+        "Barter",
+        "Exchange"
+      ],
+      [
+        "Function",
+        "Role"
+      ],
+      [
+        "Reflect",
+        "Reflect Light"
+      ],
+      [
+        "Value",
+        "Worth"
+      ],
+      [
+        "Cultural",
+        "Cultural Differences"
+      ],
+      [
+        "Culture",
+        "Rich culture"
+      ],
+      [
+        "Literature",
+        "Writings"
+      ],
+      [
+        "Essential",
+        "Nonessential"
+      ],
+      [
+        "Physics",
+        "Reflect"
+      ],
+      [
+        "Composition",
+        "Music"
+      ],
+      [
+        "Matter",
+        "Topic"
+      ],
+      [
+        "Exchange",
+        "Trade"
+      ],
+      [
+        "Differentiation",
+        "Homogenization"
+      ],
+      [
+        "Literature",
+        "Modern Literature"
+      ],
+      [
+        "Art",
+        "Reality"
+      ],
+      [
+        "Direct",
+        "Lead"
+      ],
+      [
+        "Globalization",
+        "Impact of Globalization"
+      ],
+      [
+        "Literature",
+        "Review the literature"
+      ],
+      [
+        "Lead",
+        "Lead the Way"
+      ],
+      [
+        "Head",
+        "Lead"
+      ],
+      [
+        "Communication",
+        "Topic"
+      ],
+      [
+        "Civilization",
+        "Culture"
+      ],
+      [
+        "Discourse",
+        "Topic"
+      ],
+      [
+        "Culture",
+        "Customs"
+      ],
+      [
+        "Identity",
+        "Self"
+      ],
+      [
+        "Follow Tradition",
+        "Tradition"
+      ],
+      [
+        "Essential",
+        "Important"
+      ],
+      [
+        "Bravery",
+        "Fear"
+      ],
+      [
+        "Mirror",
+        "Reflect"
+      ],
+      [
+        "Global",
+        "Universal"
+      ],
+      [
+        "Domestic",
+        "Global"
+      ],
+      [
+        "Heterogeneity",
+        "Homogenization"
+      ],
+      [
+        "Amuse Oneself",
+        "Play"
+      ],
+      [
+        "Embrace",
+        "Embrace Change"
+      ],
+      [
+        "People",
+        "Public"
+      ],
+      [
+        "Different",
+        "Dissimilar"
+      ],
+      [
+        "Lead",
+        "Take the Lead"
+      ],
+      [
+        "Exchange",
+        "Exchange Rate"
+      ],
+      [
+        "Fear",
+        "Overcome Fear"
+      ],
+      [
+        "Global",
+        "Local"
+      ],
+      [
+        "Essential",
+        "Indispensable"
+      ],
+      [
+        "Global",
+        "National"
+      ],
+      [
+        "Cause",
+        "Cause of Death"
+      ],
+      [
+        "Culture",
+        "Culture shock"
+      ],
+      [
+        "Exchange",
+        "Exchange Ideas"
+      ],
+      [
+        "Belief",
+        "Contrary to Popular Belief"
+      ],
+      [
+        "Entertain",
+        "Play"
+      ],
+      [
+        "Collocations of 'identity'",
+        "Identity"
+      ],
+      [
+        "Art",
+        "Artwork"
+      ],
+      [
+        "Lead",
+        "Lead the way"
+      ],
+      [
+        "Ethics / Economics",
+        "Value"
+      ],
+      [
+        "Classic Literature",
+        "Literature"
+      ],
+      [
+        "Different",
+        "Similar"
+      ],
+      [
+        "Lead",
+        "Lead a team"
+      ],
+      [
+        "Grasp",
+        "Learn"
+      ],
+      [
+        "Art",
+        "Creation"
+      ],
+      [
+        "Collocations of 'value'",
+        "Value"
+      ],
+      [
+        "Exchange",
+        "Switch"
+      ],
+      [
+        "Cause",
+        "Outcome"
+      ],
+      [
+        "Local People",
+        "People"
+      ],
+      [
+        "Globalization",
+        "Internationalization"
+      ],
+      [
+        "Leisure / Arts",
+        "Play"
+      ],
+      [
+        "Practice",
+        "Tradition"
+      ],
+      [
+        "People",
+        "Populace"
+      ],
+      [
+        "Music",
+        "Silence"
+      ],
+      [
+        "Standard",
+        "Value"
+      ],
+      [
+        "Different",
+        "Identical"
+      ],
+      [
+        "Assortment",
+        "Diversity"
+      ],
+      [
+        "Globalization",
+        "Universalization"
+      ],
+      [
+        "Break with tradition",
+        "Tradition"
+      ],
+      [
+        "Long tradition",
+        "Tradition"
+      ],
+      [
+        "Role",
+        "Role Model"
+      ],
+      [
+        "Diversification",
+        "Homogenization"
+      ],
+      [
+        "Embrace",
+        "Refuse"
+      ],
+      [
+        "Follow tradition",
+        "Tradition"
+      ],
+      [
+        "Novelty",
+        "Tradition"
+      ],
+      [
+        "Artistic",
+        "Cultural"
+      ],
+      [
+        "Cause",
+        "Cause and Effect"
+      ],
+      [
+        "Cultural",
+        "Educational"
+      ],
+      [
+        "Society",
+        "Solitude"
+      ],
+      [
+        "Important",
+        "Vital"
+      ],
+      [
+        "Preserve",
+        "Preserve for future generations"
+      ],
+      [
+        "Heritage",
+        "History"
+      ],
+      [
+        "Corporate Culture",
+        "Culture"
+      ],
+      [
+        "Geography / Politics",
+        "Global"
+      ],
+      [
+        "Global",
+        "International"
+      ],
+      [
+        "Populace",
+        "Society"
+      ],
+      [
+        "Collocations of 'homogenization'",
+        "Homogenization"
+      ],
+      [
+        "Essential",
+        "Fundamental"
+      ],
+      [
+        "Disregard",
+        "Reflect"
+      ],
+      [
+        "Communication",
+        "Concealment"
+      ],
+      [
+        "Follow",
+        "Lead"
+      ],
+      [
+        "Letters",
+        "Literature"
+      ],
+      [
+        "Diversity",
+        "Sociology / Ecology"
+      ],
+      [
+        "Literature",
+        "Modern literature"
+      ],
+      [
+        "Embrace",
+        "Espouse"
+      ],
+      [
+        "Insignificance",
+        "Value"
+      ],
+      [
+        "Embrace",
+        "Welcome"
+      ],
+      [
+        "Allow",
+        "Disallow"
+      ],
+      [
+        "Allow",
+        "Authorize"
+      ],
+      [
+        "Culture",
+        "Society"
+      ],
+      [
+        "Important",
+        "Minor"
+      ],
+      [
+        "Reflect",
+        "Reflect on"
+      ],
+      [
+        "Lead",
+        "Leadership"
+      ],
+      [
+        "Embrace",
+        "Shun"
+      ],
+      [
+        "Assimilation",
+        "Homogenization"
+      ],
+      [
+        "Culture (field for tradition)",
+        "Tradition"
+      ],
+      [
+        "Different",
+        "Diverse"
+      ],
+      [
+        "Issue",
+        "Topic"
+      ],
+      [
+        "Essential",
+        "Necessary"
+      ],
+      [
+        "Diversity",
+        "Heterogeneity"
+      ],
+      [
+        "Classic literature",
+        "Literature"
+      ],
+      [
+        "Courage",
+        "Fear"
+      ],
+      [
+        "Oral tradition",
+        "Tradition"
+      ],
+      [
+        "Abandon",
+        "Preserve"
+      ],
+      [
+        "Allow",
+        "Permit"
+      ],
+      [
+        "Belief",
+        "Strong Belief"
+      ],
+      [
+        "Embrace",
+        "Embrace Diversity"
+      ],
+      [
+        "Participate",
+        "Play"
+      ],
+      [
+        "Literature",
+        "Review the Literature"
+      ],
+      [
+        "Exchange",
+        "Hold"
+      ],
+      [
+        "Fear",
+        "Fright"
+      ],
+      [
+        "Allow",
+        "Prevent"
+      ],
+      [
+        "Neglect",
+        "Preserve"
+      ],
+      [
+        "Custom",
+        "Tradition"
+      ],
+      [
+        "Culture",
+        "Rich Culture"
+      ],
+      [
+        "Govern",
+        "Lead"
+      ],
+      [
+        "Important",
+        "Trivial"
+      ],
+      [
+        "Learn",
+        "Understand"
+      ],
+      [
+        "Belief",
+        "Conviction"
+      ],
+      [
+        "Oral Tradition",
+        "Tradition"
+      ],
+      [
+        "Exchange",
+        "Exchange Student"
+      ],
+      [
+        "Cause",
+        "Source"
+      ],
+      [
+        "Diversity",
+        "Multiplicity"
+      ],
+      [
+        "Books",
+        "Literature"
+      ],
+      [
+        "Command",
+        "Lead"
+      ],
+      [
+        "Heritage",
+        "Tradition"
+      ],
+      [
+        "Heritage",
+        "Inheritance"
+      ],
+      [
+        "Fear",
+        "Fearlessness"
+      ],
+      [
+        "Importance",
+        "Value"
+      ],
+      [
+        "Allow",
+        "Enable"
+      ],
+      [
+        "Break with Tradition",
+        "Tradition"
+      ],
+      [
+        "Different",
+        "Same"
+      ],
+      [
+        "Maintain",
+        "Preserve"
+      ],
+      [
+        "Important",
+        "Insignificant"
+      ],
+      [
+        "Belief",
+        "Philosophy / Religion"
+      ],
+      [
+        "People",
+        "Young People"
+      ],
+      [
+        "Essential",
+        "Optional"
+      ],
+      [
+        "Act",
+        "Play"
+      ],
+      [
+        "Psychology",
+        "Reflect"
+      ],
+      [
+        "Distinctiveness",
+        "Identity"
+      ],
+      [
+        "Art",
+        "Science"
+      ],
+      [
+        "Long Tradition",
+        "Tradition"
+      ],
+      [
+        "Preserve",
+        "Preserve Peace"
+      ],
+      [
+        "Allow",
+        "Ban"
+      ],
+      [
+        "Corporate culture",
+        "Culture"
+      ],
+      [
+        "Culture",
+        "Culture Shock"
+      ],
+      [
+        "Deep-Seated Fear",
+        "Fear"
+      ],
+      [
+        "Position",
+        "Role"
+      ],
+      [
+        "Group of People",
+        "People"
+      ],
+      [
+        "Collocations of 'music'",
+        "Music"
+      ],
+      [
+        "Collocations of 'topic'",
+        "Topic"
+      ],
+      [
+        "Global",
+        "Worldwide"
+      ],
+      [
+        "Communication",
+        "Silence"
+      ],
+      [
+        "Confidence",
+        "Fear"
+      ],
+      [
+        "Cause",
+        "Result"
+      ],
+      [
+        "Isolation",
+        "Society"
+      ],
+      [
+        "Destroy",
+        "Preserve"
+      ],
+      [
+        "People",
+        "Sociology"
+      ],
+      [
+        "Collocations of 'different'",
+        "Different"
+      ],
+      [
+        "Anonymity",
+        "Identity"
+      ]
+    ],
+    "count": 373,
+    "create_time": 1766774015,
+    "update_time": 1766774015,
+    "_id": "doc-730f07c6091635ef24782570b41b172d"
+  }
+}

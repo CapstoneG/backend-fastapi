@@ -1,0 +1,103 @@
+{
+  "doc-41fc9250a6b1fd299c982632197998af": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-41fc9250a6b1fd299c982632197998af"
+    ],
+    "content_summary": "Topic: Culture\n\nCulture reflects the values, traditions, and beliefs of a society. Music, art, and literature play important roles in cultural identity. Global communication has led to cultural exchange, allowing people to learn from different tradit...",
+    "content_length": 394,
+    "created_at": "2025-12-26T18:22:38.744143+00:00",
+    "updated_at": "2025-12-26T18:22:45.738613+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251227_012238_c438f4e6",
+    "metadata": {
+      "processing_start_time": 1766773358,
+      "processing_end_time": 1766773365
+    }
+  },
+  "doc-0258ad91fe9120781080b004f383bd29": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-0258ad91fe9120781080b004f383bd29"
+    ],
+    "content_summary": "Topic: Education\n\nEducation plays a crucial role in shaping individuals and society. \nA well-designed education system helps students develop critical thinking, creativity, and problem-solving skills. \nIn many countries, traditional classroom learnin...",
+    "content_length": 645,
+    "created_at": "2025-12-26T18:22:45.876677+00:00",
+    "updated_at": "2025-12-26T18:22:54.706562+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251227_012245_4afb3951",
+    "metadata": {
+      "processing_start_time": 1766773365,
+      "processing_end_time": 1766773374
+    }
+  },
+  "doc-f487536603023fb081295410a335b8e8": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-f487536603023fb081295410a335b8e8"
+    ],
+    "content_summary": "Topic: Environment\n\nEnvironmental protection has become a global priority. Climate change, air pollution, and deforestation threaten natural ecosystems. Human activities such as industrial production and excessive consumption contribute significantly...",
+    "content_length": 517,
+    "created_at": "2025-12-26T18:22:54.721084+00:00",
+    "updated_at": "2025-12-26T18:23:02.503498+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251227_012254_bacba447",
+    "metadata": {
+      "processing_start_time": 1766773374,
+      "processing_end_time": 1766773382
+    }
+  },
+  "doc-730f07c6091635ef24782570b41b172d": {
+    "status": "processed",
+    "chunks_count": 4,
+    "chunks_list": [
+      "chunk-13c1852ae8531ada53791c4956a59104",
+      "chunk-7e82e3f76d7635f646256257f008ff3e",
+      "chunk-e28a6dcce7a0ae1230f80aed19dcfb85",
+      "chunk-e5522df5f6f626115fe8cfc9350b1357"
+    ],
+    "content_summary": "The term 'allow' is a significant concept in the field of General / Governance. It is defined as: To give permission for something to happen or to be done; to permit.. Contextually, 'allow' shares a similar meaning with 'permit', 'let', 'authorize', ...",
+    "content_length": 18329,
+    "created_at": "2025-12-26T18:23:02.529130+00:00",
+    "updated_at": "2025-12-26T18:33:35.844499+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251227_012302_31d98abb",
+    "metadata": {
+      "processing_start_time": 1766773926,
+      "processing_end_time": 1766774015
+    }
+  },
+  "doc-dfad6b2131dace64007b976a08c754b7": {
+    "status": "failed",
+    "error_msg": "C[4/6]: chunk-2ca652b71259762bcbf17039600a288d: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 10, model: gemini-2.5-flash-lite\\nPlease retry in 52.179799563s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash-lite'}, 'quotaValue': '10'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '52s'}]}} (Original exception could not be reconstructed: APIError.__init__() missing 1 required positional argument: 'response_json')",
+    "content_summary": "The term 'opinion' is a significant concept in the field of General / Communication. It is defined as: A view or judgment formed about something, not necessarily based on fact or knowledge.. Contextually, 'opinion' shares a similar meaning with 'view...",
+    "content_length": 26932,
+    "created_at": "2025-12-26T18:23:18.567406+00:00",
+    "updated_at": "2025-12-26T18:34:08.037986+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251227_012318_2d995d93",
+    "metadata": {
+      "processing_start_time": 1766774047,
+      "processing_end_time": 1766774048
+    },
+    "chunks_list": []
+  },
+  "doc-fcc9ba3252e82d224ba9ce370c6cdda9": {
+    "status": "failed",
+    "error_msg": "C[2/5]: chunk-ba1b5922804c929c288835c016db3137: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash-lite\\nPlease retry in 51.996243458s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash-lite'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '51s'}]}} (Original exception could not be reconstructed: APIError.__init__() missing 1 required positional argument: 'response_json')",
+    "content_summary": "The term 'industrial' is a significant concept in the field of Economy / Industry. It is defined as: Relating to or characterized by industry, factories, and manufacturing.. Contextually, 'industrial' shares a similar meaning with 'manufacturing', 'c...",
+    "content_length": 21551,
+    "created_at": "2025-12-26T18:23:19.082358+00:00",
+    "updated_at": "2025-12-26T18:34:08.126793+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251227_012319_cc7ab216",
+    "metadata": {
+      "processing_start_time": 1766774047,
+      "processing_end_time": 1766774048
+    },
+    "chunks_list": []
+  }
+}
