@@ -1,0 +1,322 @@
+[
+  {
+    "word": "industrial",
+    "definition": "Relating to or characterized by industry, factories, and manufacturing.",
+    "synonyms": ["manufacturing", "commercial", "technical", "factory"],
+    "antonyms": ["agricultural", "domestic"],
+    "topic": "Economy / Industry",
+    "collocations": ["industrial revolution", "industrial waste", "industrial zone", "industrial output"]
+  },
+  {
+    "word": "environment",
+    "definition": "The surroundings or conditions in which a person, animal, or plant lives or operates.",
+    "synonyms": ["habitat", "surroundings", "ecosystem", "nature"],
+    "antonyms": [],
+    "topic": "Nature / Ecology",
+    "collocations": ["protect the environment", "environment friendly", "natural environment", "urban environment"]
+  },
+  {
+    "word": "protection",
+    "definition": "The action of protecting, or the state of being protected.",
+    "synonyms": ["defense", "security", "safeguard", "preservation", "conservation"],
+    "antonyms": ["exposure", "neglect", "harm"],
+    "topic": "Safety / Conservation",
+    "collocations": ["environmental protection", "data protection", "protection against", "legal protection"]
+  },
+  {
+    "word": "production",
+    "definition": "The action of making or manufacturing from components or raw materials.",
+    "synonyms": ["manufacturing", "fabrication", "creation", "output"],
+    "antonyms": ["consumption", "destruction"],
+    "topic": "Industry / Economics",
+    "collocations": ["mass production", "production line", "production cost", "increase production"]
+  },
+  {
+    "word": "protect",
+    "definition": "Keep safe from harm or injury.",
+    "synonyms": ["guard", "defend", "shield", "conserve", "secure"],
+    "antonyms": ["attack", "endanger", "harm", "neglect"],
+    "topic": "General",
+    "collocations": ["protect from", "protect against", "hard to protect", "protect rights"]
+  },
+  {
+    "word": "survival",
+    "definition": "The state or fact of continuing to live or exist, typically in spite of an accident, ordeal, or difficult circumstances.",
+    "synonyms": ["existence", "subsistence", "endurance", "continuity"],
+    "antonyms": ["death", "extinction", "demise"],
+    "topic": "Biology / General",
+    "collocations": ["survival rate", "struggle for survival", "survival skills", "survival instinct"]
+  },
+  {
+    "word": "promote",
+    "definition": "Support or actively encourage (a cause, venture, etc.); further the progress of.",
+    "synonyms": ["encourage", "advocate", "foster", "boost", "advance"],
+    "antonyms": ["hinder", "obstruct", "impede"],
+    "topic": "Marketing / General",
+    "collocations": ["promote health", "promote awareness", "promote a product", "promote growth"]
+  },
+  {
+    "word": "ecosystem",
+    "definition": "A biological community of interacting organisms and their physical environment.",
+    "synonyms": ["environment", "biosphere", "ecological unit"],
+    "antonyms": [],
+    "topic": "Ecology",
+    "collocations": ["fragile ecosystem", "marine ecosystem", "damage the ecosystem", "balance of the ecosystem"]
+  },
+  {
+    "word": "transport",
+    "definition": "Take or carry (people or goods) from one place to another by means of a vehicle, aircraft, or ship.",
+    "synonyms": ["conveyance", "transportation", "transit", "shipping"],
+    "antonyms": [],
+    "topic": "Logistics / Travel",
+    "collocations": ["public transport", "mode of transport", "transport system", "air transport"]
+  },
+  {
+    "word": "pollution",
+    "definition": "The presence in or introduction into the environment of a substance or thing that has harmful or poisonous effects.",
+    "synonyms": ["contamination", "impurity", "smog", "pollutants"],
+    "antonyms": ["purification", "cleanliness"],
+    "topic": "Environment",
+    "collocations": ["air pollution", "noise pollution", "reduce pollution", "environmental pollution"]
+  },
+  {
+    "word": "damage",
+    "definition": "Physical harm caused to something in such a way as to impair its value, usefulness, or normal function.",
+    "synonyms": ["harm", "injury", "destruction", "impairment"],
+    "antonyms": ["repair", "improvement", "fix"],
+    "topic": "General",
+    "collocations": ["cause damage", "serious damage", "permanent damage", "property damage"]
+  },
+  {
+    "word": "topic",
+    "definition": "A matter dealt with in a text, discourse, or conversation; a subject.",
+    "synonyms": ["subject", "theme", "issue", "matter"],
+    "antonyms": [],
+    "topic": "Communication",
+    "collocations": ["main topic", "topic of interest", "change the topic", "research topic"]
+  },
+  {
+    "word": "help",
+    "definition": "Make it easier for (someone) to do something by offering one's services or resources.",
+    "synonyms": ["assist", "aid", "support", "serve"],
+    "antonyms": ["hinder", "harm"],
+    "topic": "General",
+    "collocations": ["help with", "need help", "ask for help", "big help"]
+  },
+  {
+    "word": "contribute",
+    "definition": "Give (something, especially money) in order to help achieve or provide something.",
+    "synonyms": ["donate", "supply", "furnish", "add", "participate"],
+    "antonyms": ["take", "withhold", "subtract"],
+    "topic": "General / Philanthropy",
+    "collocations": ["contribute to", "contribute money", "contribute significantly", "make a contribution"]
+  },
+  {
+    "word": "global",
+    "definition": "Relating to the whole world; worldwide.",
+    "synonyms": ["worldwide", "international", "universal"],
+    "antonyms": ["local", "regional", "domestic"],
+    "topic": "Geography / Politics",
+    "collocations": ["global warming", "global economy", "global crisis", "global village"]
+  },
+  {
+    "word": "air",
+    "definition": "The invisible gaseous substance surrounding the earth, a mixture mainly of oxygen and nitrogen.",
+    "synonyms": ["atmosphere", "sky", "breeze"],
+    "antonyms": [],
+    "topic": "Environment",
+    "collocations": ["fresh air", "air pollution", "air quality", "breath of air"]
+  },
+  {
+    "word": "essential",
+    "definition": "Absolutely necessary; extremely important.",
+    "synonyms": ["crucial", "vital", "indispensable", "fundamental"],
+    "antonyms": ["optional", "unnecessary", "nonessential"],
+    "topic": "General",
+    "collocations": ["essential part", "absolutely essential", "essential oil", "essential service"]
+  },
+  {
+    "word": "renewable",
+    "definition": "(of a natural resource or source of energy) not depleted when used.",
+    "synonyms": ["sustainable", "inexhaustible", "regenerative"],
+    "antonyms": ["non-renewable", "finite"],
+    "topic": "Energy / Environment",
+    "collocations": ["renewable energy", "renewable resources", "renewable power", "renewable source"]
+  },
+  {
+    "word": "individual",
+    "definition": "Single; separate.",
+    "synonyms": ["single", "separate", "discrete", "independent"],
+    "antonyms": ["collective", "shared", "group"],
+    "topic": "General",
+    "collocations": ["individual needs", "individual rights", "each individual", "individual responsibility"]
+  },
+  {
+    "word": "environmental",
+    "definition": "Relating to the natural world and the impact of human activity on its condition.",
+    "synonyms": ["ecological", "green"],
+    "antonyms": [],
+    "topic": "Environment",
+    "collocations": ["environmental impact", "environmental protection", "environmental awareness", "environmental issues"]
+  },
+  {
+    "word": "deforestation",
+    "definition": "The action of clearing a wide area of trees.",
+    "synonyms": ["logging", "clearing", "desertification"],
+    "antonyms": ["afforestation", "reforestation"],
+    "topic": "Environment",
+    "collocations": ["combat deforestation", "rate of deforestation", "cause of deforestation", "massive deforestation"]
+  },
+  {
+    "word": "human",
+    "definition": "Relating to or characteristic of people or human beings.",
+    "synonyms": ["person", "mortal", "anthropoid"],
+    "antonyms": ["animal", "inhuman"],
+    "topic": "Biology",
+    "collocations": ["human rights", "human nature", "human resources", "human being"]
+  },
+  {
+    "word": "priority",
+    "definition": "The fact or condition of being regarded or treated as more important.",
+    "synonyms": ["precedence", "urgency", "preference", "prime concern"],
+    "antonyms": ["unimportance", "afterthought"],
+    "topic": "Management / General",
+    "collocations": ["top priority", "high priority", "give priority to", "main priority"]
+  },
+  {
+    "word": "recycling",
+    "definition": "The action or process of converting waste into reusable material.",
+    "synonyms": ["reprocessing", "reclaiming", "reuse"],
+    "antonyms": ["waste", "disposal"],
+    "topic": "Environment",
+    "collocations": ["recycling bin", "recycling plant", "paper recycling", "recycling program"]
+  },
+  {
+    "word": "public",
+    "definition": "Of or concerning the people as a whole.",
+    "synonyms": ["general", "communal", "civic", "social"],
+    "antonyms": ["private", "exclusive", "secret"],
+    "topic": "Society",
+    "collocations": ["public transport", "public opinion", "public health", "general public"]
+  },
+  {
+    "word": "emission",
+    "definition": "The production and discharge of something, especially gas or radiation.",
+    "synonyms": ["discharge", "release", "outflow", "effanation"],
+    "antonyms": ["absorption"],
+    "topic": "Environment / Physics",
+    "collocations": ["carbon emissions", "reduce emissions", "greenhouse gas emissions", "vehicle emissions"]
+  },
+  {
+    "word": "waste",
+    "definition": "Material that is not wanted; the unusable remains or byproducts of something.",
+    "synonyms": ["garbage", "trash", "refuse", "rubbish"],
+    "antonyms": ["treasure", "resource"],
+    "topic": "Environment",
+    "collocations": ["toxic waste", "waste disposal", "waste management", "industrial waste"]
+  },
+  {
+    "word": "consumption",
+    "definition": "The using up of a resource.",
+    "synonyms": ["use", "utilization", "expenditure", "depletion"],
+    "antonyms": ["production", "conservation", "saving"],
+    "topic": "Economics / Environment",
+    "collocations": ["energy consumption", "mass consumption", "reduce consumption", "domestic consumption"]
+  },
+  {
+    "word": "change",
+    "definition": "Make or become different.",
+    "synonyms": ["alter", "transform", "modify", "shift"],
+    "antonyms": ["preserve", "keep", "remain"],
+    "topic": "General",
+    "collocations": ["climate change", "change the world", "subject to change", "drastic change"]
+  },
+  {
+    "word": "generation",
+    "definition": "The production of something.",
+    "synonyms": ["creation", "production", "breeding"],
+    "antonyms": ["destruction"],
+    "topic": "General / Energy",
+    "collocations": ["power generation", "next generation", "generation gap", "revenue generation"]
+  },
+  {
+    "word": "energy",
+    "definition": "Power derived from the utilization of physical or chemical resources.",
+    "synonyms": ["power", "force", "vigor", "stamina"],
+    "antonyms": ["lethargy", "weakness"],
+    "topic": "Physics / General",
+    "collocations": ["renewable energy", "energy efficiency", "save energy", "energy source"]
+  },
+  {
+    "word": "future",
+    "definition": "The time or a period of time following the moment of speaking or writing; time regarded as still to come.",
+    "synonyms": ["hereafter", "prospect", "tomorrow"],
+    "antonyms": ["past", "history"],
+    "topic": "Time",
+    "collocations": ["in the future", "near future", "future generations", "future plans"]
+  },
+  {
+    "word": "excessive",
+    "definition": "More than is necessary, normal, or desirable; immoderate.",
+    "synonyms": ["immoderate", "extreme", "exorbitant", "disproportionate"],
+    "antonyms": ["insufficient", "moderate", "meager"],
+    "topic": "General",
+    "collocations": ["excessive force", "excessive noise", "excessive consumption", "excessive use"]
+  },
+  {
+    "word": "government",
+    "definition": "The governing body of a nation, state, or community.",
+    "synonyms": ["administration", "regime", "authority", "leadership"],
+    "antonyms": ["anarchy"],
+    "topic": "Politics",
+    "collocations": ["federal government", "local government", "government policy", "government official"]
+  },
+  {
+    "word": "reduce",
+    "definition": "Make smaller or less in amount, degree, or size.",
+    "synonyms": ["lower", "decrease", "diminish", "minimize"],
+    "antonyms": ["increase", "raise", "amplify"],
+    "topic": "General",
+    "collocations": ["reduce cost", "reduce waste", "reduce risk", "significantly reduce"]
+  },
+  {
+    "word": "climate",
+    "definition": "The weather conditions prevailing in an area in general or over a long period.",
+    "synonyms": ["weather pattern", "atmosphere", "meteorology"],
+    "antonyms": [],
+    "topic": "Geography / Environment",
+    "collocations": ["climate change", "tropical climate", "climate crisis", "mild climate"]
+  },
+  {
+    "word": "carbon",
+    "definition": "A chemical element; typically referring to carbon dioxide or other carbon compounds in the context of emissions.",
+    "synonyms": ["soot", "graphite"],
+    "antonyms": [],
+    "topic": "Chemistry / Environment",
+    "collocations": ["carbon footprint", "carbon dioxide", "carbon neutral", "low carbon"]
+  },
+  {
+    "word": "threaten",
+    "definition": "State one's intention to take hostile action against someone; cause (someone or something) to be at risk.",
+    "synonyms": ["menace", "intimidate", "endanger", "jeopardize"],
+    "antonyms": ["protect", "defend", "safeguard"],
+    "topic": "General",
+    "collocations": ["threaten security", "threaten to", "threaten existence", "seriously threaten"]
+  },
+  {
+    "word": "activity",
+    "definition": "The condition in which things are happening or being done.",
+    "synonyms": ["action", "movement", "operation", "undertaking"],
+    "antonyms": ["inactivity", "idleness"],
+    "topic": "General",
+    "collocations": ["human activity", "physical activity", "criminal activity", "outdoor activity"]
+  },
+  {
+    "word": "natural",
+    "definition": "Existing in or caused by nature; not made or caused by humankind.",
+    "synonyms": ["organic", "innate", "native", "unprocessed"],
+    "antonyms": ["artificial", "synthetic", "man-made"],
+    "topic": "Nature",
+    "collocations": ["natural resources", "natural beauty", "natural disaster", "natural environment"]
+  }
+]

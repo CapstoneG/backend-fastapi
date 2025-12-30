@@ -4,3 +4,9 @@ gTTS
 cloudinary
 python-dotenv
 google-genai
+trafilatura 
+requests
+nest_asyncio
+networkx
+pyvis
+spacy

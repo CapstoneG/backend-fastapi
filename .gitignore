@@ -1,3 +1,6 @@
 .venv
 .env
 ./scripts/.env
+logs
+lightrag_graph.html
+lightrag_ollama_demo.log

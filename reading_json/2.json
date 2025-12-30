@@ -1,0 +1,394 @@
+[
+  {
+    "word": "opinion",
+    "definition": "A view or judgment formed about something, not necessarily based on fact or knowledge.",
+    "synonyms": ["view", "belief", "judgment", "stance", "perspective"],
+    "antonyms": ["fact", "certainty"],
+    "topic": "General / Communication",
+    "collocations": ["public opinion", "matter of opinion", "voice an opinion", "personal opinion"]
+  },
+  {
+    "word": "education",
+    "definition": "The process of receiving or giving systematic instruction, especially at a school or university.",
+    "synonyms": ["schooling", "instruction", "tuition", "learning", "training"],
+    "antonyms": ["ignorance", "illiteracy"],
+    "topic": "Education",
+    "collocations": ["higher education", "further education", "education system", "quality education"]
+  },
+  {
+    "word": "critical",
+    "definition": "Expressing or involving an analysis of the merits and faults of a work of literature, music, or art; (of a situation) extremely important.",
+    "synonyms": ["analytical", "evaluative", "crucial", "vital", "serious"],
+    "antonyms": ["uncritical", "unimportant", "safe"],
+    "topic": "Thinking / General",
+    "collocations": ["critical thinking", "critical role", "critical condition", "highly critical"]
+  },
+  {
+    "word": "social",
+    "definition": "Relating to society or its organization.",
+    "synonyms": ["communal", "collective", "public", "societal"],
+    "antonyms": ["solitary", "private", "antisocial"],
+    "topic": "Sociology",
+    "collocations": ["social media", "social skills", "social issues", "social life"]
+  },
+  {
+    "word": "society",
+    "definition": "The aggregate of people living together in a more or less ordered community.",
+    "synonyms": ["community", "public", "populace", "civilization"],
+    "antonyms": ["isolation"],
+    "topic": "Sociology",
+    "collocations": ["modern society", "multicultural society", "contribution to society", "member of society"]
+  },
+  {
+    "word": "classroom",
+    "definition": "A room in which a class of pupils or students is taught.",
+    "synonyms": ["schoolroom", "study hall"],
+    "antonyms": [],
+    "topic": "Education",
+    "collocations": ["classroom management", "flipped classroom", "in the classroom", "classroom environment"]
+  },
+  {
+    "word": "development",
+    "definition": "The process of developing or being developed.",
+    "synonyms": ["evolution", "growth", "expansion", "progress", "advancement"],
+    "antonyms": ["regression", "decline", "stagnation"],
+    "topic": "General / Business",
+    "collocations": ["professional development", "research and development", "sustainable development", "child development"]
+  },
+  {
+    "word": "different",
+    "definition": "Not the same as another or each other; unlike in nature, form, or quality.",
+    "synonyms": ["dissimilar", "distinct", "disparate", "varied"],
+    "antonyms": ["similar", "same", "identical"],
+    "topic": "General",
+    "collocations": ["different from", "entirely different", "many different", "make something different"]
+  },
+  {
+    "word": "creativity",
+    "definition": "The use of the imagination or original ideas, especially in the production of an artistic work.",
+    "synonyms": ["inventiveness", "imagination", "innovation", "originality"],
+    "antonyms": ["unimaginativeness"],
+    "topic": "Arts / Psychology",
+    "collocations": ["stifle creativity", "foster creativity", "creativity and innovation", "spark creativity"]
+  },
+  {
+    "word": "country",
+    "definition": "A nation with its own government, occupying a particular territory.",
+    "synonyms": ["nation", "state", "land", "realm"],
+    "antonyms": [],
+    "topic": "Geography / Politics",
+    "collocations": ["developing country", "developed country", "host country", "across the country"]
+  },
+  {
+    "word": "skill",
+    "definition": "The ability to do something well; expertise.",
+    "synonyms": ["expertise", "proficiency", "talent", "ability", "competence"],
+    "antonyms": ["incompetence", "inability", "clumsiness"],
+    "topic": "Education / Work",
+    "collocations": ["soft skills", "communication skills", "hone a skill", "acquire a skill"]
+  },
+  {
+    "word": "topic",
+    "definition": "A matter dealt with in a text, discourse, or conversation; a subject.",
+    "synonyms": ["subject", "theme", "issue", "point"],
+    "antonyms": [],
+    "topic": "Communication",
+    "collocations": ["topic of discussion", "hot topic", "stay on topic", "cover a topic"]
+  },
+  {
+    "word": "focus",
+    "definition": "The center of interest or activity; to pay particular attention to.",
+    "synonyms": ["center", "focal point", "concentrate", "highlight"],
+    "antonyms": ["distraction", "ignore", "overlook"],
+    "topic": "General / Psychology",
+    "collocations": ["focus on", "main focus", "lose focus", "sharp focus"]
+  },
+  {
+    "word": "progress",
+    "definition": "Forward or onward movement toward a destination or goal.",
+    "synonyms": ["advancement", "headway", "improvement", "growth"],
+    "antonyms": ["regression", "setback", "failure"],
+    "topic": "General",
+    "collocations": ["make progress", "work in progress", "monitor progress", "technological progress"]
+  },
+  {
+    "word": "design",
+    "definition": "A plan or drawing produced to show the look and function or workings of something before it is built or made.",
+    "synonyms": ["plan", "blueprint", "pattern", "create", "devise"],
+    "antonyms": ["destruction"],
+    "topic": "Arts / Technology",
+    "collocations": ["interior design", "graphic design", "by design", "design process"]
+  },
+  {
+    "word": "help",
+    "definition": "Make it easier for (someone) to do something by offering one's services or resources.",
+    "synonyms": ["assist", "aid", "support", "facilitate"],
+    "antonyms": ["hinder", "impede", "harm"],
+    "topic": "General",
+    "collocations": ["help with", "seek help", "big help", "help out"]
+  },
+  {
+    "word": "theoretical",
+    "definition": "Concerned with or involving the theory of a subject or area of study rather than its practical application.",
+    "synonyms": ["hypothetical", "speculative", "abstract", "academic"],
+    "antonyms": ["practical", "applied", "empirical"],
+    "topic": "Science / Philosophy",
+    "collocations": ["theoretical knowledge", "theoretical framework", "purely theoretical", "theoretical physics"]
+  },
+  {
+    "word": "play",
+    "definition": "Engage in activity for enjoyment and recreation; take part in (a sport).",
+    "synonyms": ["amuse oneself", "participate", "perform", "compete"],
+    "antonyms": ["work"],
+    "topic": "Leisure",
+    "collocations": ["play a role", "child's play", "play a game", "fair play"]
+  },
+  {
+    "word": "develop",
+    "definition": "Grow or cause to grow and become more mature, advanced, or elaborate.",
+    "synonyms": ["evolve", "expand", "progress", "advance", "cultivate"],
+    "antonyms": ["stunt", "decrease", "halt"],
+    "topic": "General",
+    "collocations": ["develop skills", "develop a plan", "develop a habit", "help develop"]
+  },
+  {
+    "word": "individual",
+    "definition": "A single human being as distinct from a group, class, or family.",
+    "synonyms": ["person", "being", "soul", "entity"],
+    "antonyms": ["group", "collective"],
+    "topic": "Sociology",
+    "collocations": ["individual needs", "individual rights", "private individual", "treat as an individual"]
+  },
+  {
+    "word": "improve",
+    "definition": "Make or become better.",
+    "synonyms": ["enhance", "better", "upgrade", "refine", "ameliorate"],
+    "antonyms": ["worsen", "impair", "deteriorate"],
+    "topic": "General",
+    "collocations": ["improve performance", "room to improve", "significantly improve", "aim to improve"]
+  },
+  {
+    "word": "teaching",
+    "definition": "The occupation, profession, or work of a teacher; ideas or principles taught by an authority.",
+    "synonyms": ["instruction", "education", "schooling", "tutoring", "pedagogy"],
+    "antonyms": [],
+    "topic": "Education",
+    "collocations": ["teaching methods", "teaching staff", "teaching aid", "teaching career"]
+  },
+  {
+    "word": "motivation",
+    "definition": "The reason or reasons one has for acting or behaving in a particular way.",
+    "synonyms": ["incentive", "stimulus", "drive", "inspiration", "ambition"],
+    "antonyms": ["deterrent", "discouragement", "apathy"],
+    "topic": "Psychology",
+    "collocations": ["lack of motivation", "high motivation", "intrinsic motivation", "motivation to learn"]
+  },
+  {
+    "word": "academic",
+    "definition": "Relating to education and scholarship.",
+    "synonyms": ["scholarly", "educational", "scholastic", "instructional"],
+    "antonyms": ["vocational", "practical", "non-academic"],
+    "topic": "Education",
+    "collocations": ["academic performance", "academic year", "academic achievement", "academic career"]
+  },
+  {
+    "word": "personal",
+    "definition": "Of, affecting, or belonging to a particular person rather than to anyone else.",
+    "synonyms": ["private", "individual", "intimate", "own"],
+    "antonyms": ["public", "general", "communal"],
+    "topic": "General",
+    "collocations": ["personal information", "personal growth", "personal experience", "take it personal"]
+  },
+  {
+    "word": "role",
+    "definition": "The function assumed or part played by a person or thing in a particular situation.",
+    "synonyms": ["function", "capacity", "position", "task", "job"],
+    "antonyms": [],
+    "topic": "General",
+    "collocations": ["play a role", "key role", "role model", "vital role"]
+  },
+  {
+    "word": "online",
+    "definition": "Connected to or available through the internet.",
+    "synonyms": ["internet", "web-based", "digital", "virtual", "connected"],
+    "antonyms": ["offline"],
+    "topic": "Technology",
+    "collocations": ["online learning", "online course", "go online", "shop online"]
+  },
+  {
+    "word": "remain",
+    "definition": "Continue to exist, especially after other similar or related people or things have ceased to exist.",
+    "synonyms": ["stay", "continue", "persist", "endure", "last"],
+    "antonyms": ["leave", "depart", "change"],
+    "topic": "General",
+    "collocations": ["remain calm", "remain silent", "remain the same", "remain to be seen"]
+  },
+  {
+    "word": "tool",
+    "definition": "A device or implement used to carry out a particular function.",
+    "synonyms": ["implement", "utensil", "instrument", "device", "apparatus"],
+    "antonyms": [],
+    "topic": "General",
+    "collocations": ["powerful tool", "learning tool", "management tool", "essential tool"]
+  },
+  {
+    "word": "exam",
+    "definition": "A formal test of a person's knowledge or proficiency in a particular subject or skill.",
+    "synonyms": ["test", "examination", "assessment", "evaluation"],
+    "antonyms": [],
+    "topic": "Education",
+    "collocations": ["pass an exam", "take an exam", "final exam", "exam preparation"]
+  },
+  {
+    "word": "accessibility",
+    "definition": "The quality of being able to be reached or entered; the quality of being easy to obtain or use.",
+    "synonyms": ["availability", "approachability", "convenience"],
+    "antonyms": ["inaccessibility", "unavailability"],
+    "topic": "Technology / Social",
+    "collocations": ["web accessibility", "improve accessibility", "accessibility features", "ensure accessibility"]
+  },
+  {
+    "word": "believe",
+    "definition": "Accept (something) as true; feel sure of the truth of.",
+    "synonyms": ["trust", "accept", "think", "suppose"],
+    "antonyms": ["doubt", "disbelieve", "distrust"],
+    "topic": "Psychology / Religion",
+    "collocations": ["believe in", "hard to believe", "firmly believe", "reason to believe"]
+  },
+  {
+    "word": "argue",
+    "definition": "Give reasons or cite evidence in support of an idea, action, or theory, typically with the aim of persuading others to share one's view.",
+    "synonyms": ["contend", "assert", "claim", "debate", "dispute"],
+    "antonyms": ["agree", "concede"],
+    "topic": "Communication",
+    "collocations": ["argue that", "argue against", "argue with", "strongly argue"]
+  },
+  {
+    "word": "powerful",
+    "definition": "Having great power or strength.",
+    "synonyms": ["strong", "potent", "mighty", "influential"],
+    "antonyms": ["weak", "powerless", "feeble"],
+    "topic": "General",
+    "collocations": ["powerful tool", "powerful impact", "powerful voice", "most powerful"]
+  },
+  {
+    "word": "crucial",
+    "definition": "Decisive or critical, especially in the success or failure of something.",
+    "synonyms": ["pivotal", "critical", "decisive", "essential", "vital"],
+    "antonyms": ["insignificant", "trivial", "minor"],
+    "topic": "General",
+    "collocations": ["crucial role", "absolutely crucial", "crucial moment", "crucial factor"]
+  },
+  {
+    "word": "traditional",
+    "definition": "Existing in or as part of a tradition; long-established.",
+    "synonyms": ["conventional", "customary", "established", "classic"],
+    "antonyms": ["modern", "unconventional", "innovative"],
+    "topic": "Culture / History",
+    "collocations": ["traditional method", "traditional values", "traditional culture", "traditional food"]
+  },
+  {
+    "word": "learning",
+    "definition": "The acquisition of knowledge or skills through experience, study, or by being taught.",
+    "synonyms": ["study", "schooling", "education", "knowledge"],
+    "antonyms": ["teaching"],
+    "topic": "Education",
+    "collocations": ["lifelong learning", "learning curve", "distance learning", "learning process"]
+  },
+  {
+    "word": "solve",
+    "definition": "Find an answer to, explanation for, or means of effectively dealing with (a problem or mystery).",
+    "synonyms": ["resolve", "answer", "fix", "crack", "decipher"],
+    "antonyms": ["complicate", "worsen"],
+    "topic": "General",
+    "collocations": ["solve a problem", "solve a mystery", "solve an equation", "hard to solve"]
+  },
+  {
+    "word": "problem",
+    "definition": "A matter or situation regarded as unwelcome or harmful and needing to be dealt with and overcome.",
+    "synonyms": ["issue", "difficulty", "trouble", "complication", "dilemma"],
+    "antonyms": ["solution", "resolution"],
+    "topic": "General",
+    "collocations": ["solve a problem", "problem solving", "major problem", "face a problem"]
+  },
+  {
+    "word": "pressure",
+    "definition": "The continuous physical force exerted on or against an object by something in contact with it; the use of persuasion, influence, or intimidation.",
+    "synonyms": ["force", "load", "stress", "strain", "tension"],
+    "antonyms": ["relief", "relaxation"],
+    "topic": "Physics / Psychology",
+    "collocations": ["under pressure", "blood pressure", "peer pressure", "put pressure on"]
+  },
+  {
+    "word": "system",
+    "definition": "A set of things working together as parts of a mechanism or an interconnecting network.",
+    "synonyms": ["structure", "organization", "framework", "network", "setup"],
+    "antonyms": ["chaos", "disorder"],
+    "topic": "General / Tech",
+    "collocations": ["education system", "immune system", "operating system", "system failure"]
+  },
+  {
+    "word": "thinking",
+    "definition": "The process of using one's mind to consider or reason about something.",
+    "synonyms": ["reasoning", "thought", "contemplation", "reflection"],
+    "antonyms": [],
+    "topic": "Psychology",
+    "collocations": ["critical thinking", "positive thinking", "lateral thinking", "wishful thinking"]
+  },
+  {
+    "word": "reduce",
+    "definition": "Make smaller or less in amount, degree, or size.",
+    "synonyms": ["lessen", "decrease", "lower", "diminish", "minimize"],
+    "antonyms": ["increase", "enlarge", "amplify"],
+    "topic": "General",
+    "collocations": ["reduce cost", "reduce risk", "reduce waste", "significantly reduce"]
+  },
+  {
+    "word": "orient",
+    "definition": "Align or position something relative to the points of a compass or other specified positions.",
+    "synonyms": ["align", "place", "position", "direct", "guide"],
+    "antonyms": ["disorient"],
+    "topic": "General / Navigation",
+    "collocations": ["action-oriented", "detail-oriented", "orient oneself", "future-oriented"]
+  },
+  {
+    "word": "practical",
+    "definition": "Of or concerned with the actual doing or use of something rather than with theory and ideas.",
+    "synonyms": ["empirical", "hands-on", "pragmatic", "realistic", "applied"],
+    "antonyms": ["theoretical", "impractical", "idealistic"],
+    "topic": "General",
+    "collocations": ["practical application", "practical experience", "practical advice", "practical solution"]
+  },
+  {
+    "word": "student",
+    "definition": "A person who is studying at a school or college.",
+    "synonyms": ["pupil", "learner", "scholar", "undergraduate"],
+    "antonyms": ["teacher", "instructor", "professor"],
+    "topic": "Education",
+    "collocations": ["university student", "bright student", "student loan", "exchange student"]
+  },
+  {
+    "word": "combine",
+    "definition": "Join or merge to form a single unit or substance.",
+    "synonyms": ["merge", "mix", "blend", "unite", "integrate"],
+    "antonyms": ["separate", "divide", "detach"],
+    "topic": "General",
+    "collocations": ["combine with", "combine forces", "combine business with pleasure", "hard to combine"]
+  },
+  {
+    "word": "knowledge",
+    "definition": "Facts, information, and skills acquired by a person through experience or education.",
+    "synonyms": ["understanding", "wisdom", "intelligence", "awareness", "expertise"],
+    "antonyms": ["ignorance"],
+    "topic": "Education / Philosophy",
+    "collocations": ["general knowledge", "acquire knowledge", "knowledge base", "thirst for knowledge"]
+  },
+  {
+    "word": "shape",
+    "definition": "The external form or appearance characteristic of someone or something; the outline of an area or figure.",
+    "synonyms": ["form", "structure", "mold", "fashion", "influence"],
+    "antonyms": ["destroy"],
+    "topic": "General",
+    "collocations": ["in good shape", "take shape", "shape the future", "out of shape"]
+  }
+]
