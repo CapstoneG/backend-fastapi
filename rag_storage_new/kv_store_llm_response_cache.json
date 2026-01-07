@@ -978,5 +978,89 @@
     "create_time": 1766826378,
     "update_time": 1766826378,
     "_id": "global:query:324d1abd284a2c62a77fe6cf479c136f"
+  },
+  "hybrid:keywords:881cf24664ae8a960309c97252de4cc0": {
+    "return": "{\"high_level_keywords\": [\"English vocabulary\", \"Cultural studies\", \"Language and culture\"], \"low_level_keywords\": [\"English\", \"word\", \"culture\"]}",
+    "cache_type": "keywords",
+    "chunk_id": null,
+    "original_prompt": "I want to ask english word about culture",
+    "queryparam": {
+      "mode": "hybrid",
+      "response_type": "Multiple Paragraphs",
+      "top_k": 40,
+      "chunk_top_k": 20,
+      "max_entity_tokens": 6000,
+      "max_relation_tokens": 8000,
+      "max_total_tokens": 30000,
+      "user_prompt": "",
+      "enable_rerank": true
+    },
+    "create_time": 1767722304,
+    "update_time": 1767722304,
+    "_id": "hybrid:keywords:881cf24664ae8a960309c97252de4cc0"
+  },
+  "hybrid:query:f64d6331adca07910e74bb194b8633a1": {
+    "return": "The English word \"culture\" is a multifaceted concept that reflects the **values, traditions, and beliefs of a society** [1]. It is defined as the **arts and other manifestations of human intellectual achievement regarded collectively** [2].\n\nHere are several English words and concepts related to \"culture\":\n\n*   **Similar Meanings/Contextual Equivalents**:\n    *   **Society**: Culture is a reflection of society's values, traditions, and beliefs [1]. It shares a similar meaning with 'society' and 'community' [2, 3].\n    *   **Heritage**: The term 'culture' is similar to 'heritage', which refers to valued objects and qualities passed down through generations [2].\n    *   **Customs**: 'Culture' also shares a similar meaning with 'customs' [2].\n    *   **Way of Life**: Another similar term is 'way of life' [2].\n    *   **Civilization**: The term 'culture' is contextually similar to 'civilization' [2].\n\n*   **Components and Influences of Culture**:\n    *   **Values**: These are a fundamental component, representing the importance, worth, or usefulness of something, or principles of behavior [1, 3].\n    *   **Traditions**: These are customary practices passed down through generations [1, 2].\n    *   **Beliefs**: Culture encompasses the shared beliefs of a society [1].\n    *   **Art, Music, and Literature**: These play important roles in shaping **cultural identity** [1, 3]. Literature, specifically, refers to written works of artistic merit [1].\n\n*   **Collocations (Common Phrases with 'Culture')**:\n    *   **Pop culture** [2]\n    *   **Corporate culture** [2]\n    *   **Culture shock** [2]\n    *   **Rich culture** [2]\n    *   **Cultural heritage**: Refers to traditions and history essential to preserve [1, 2].\n    *   **Cultural exchange**: The process of learning from different traditions, often facilitated by global communication [1].\n    *   **Cultural differences** [1]\n    *   **Cultural background** [1]\n    *   **Preserve culture** [2]\n\n*   **Fields of Study**:\n    *   **Sociology**: 'Culture' is a significant concept in this field [2]. The term \"cultural\" itself is also a significant concept in Sociology, relating to the ideas, customs, and social behavior of a society [1].\n    *   **Anthropology**: 'Culture' is a significant concept in Anthropology [2].\n    *   **Arts / Education**: 'Literature', a form of cultural expression, is significant in this field [1].\n\n*   **Antonym**:\n    *   **Nature**: 'Culture' serves as an antonym to 'nature' [2].\n\nGlobal communication can lead to **cultural exchange**, where people **learn** from different traditions. However, globalization can also lead to **cultural homogenization**, which is the process of making things uniform or similar [1, 3]. Preserving **cultural heritage** is essential while embracing **diversity** [1].\n\n### References\n\n- [1] Document Chunk\n- [2] Document Chunk\n- [3] Document Chunk",
+    "cache_type": "query",
+    "chunk_id": null,
+    "original_prompt": "I want to ask english word about culture",
+    "queryparam": {
+      "mode": "hybrid",
+      "response_type": "Multiple Paragraphs",
+      "top_k": 40,
+      "chunk_top_k": 20,
+      "max_entity_tokens": 6000,
+      "max_relation_tokens": 8000,
+      "max_total_tokens": 30000,
+      "hl_keywords": "English vocabulary, Cultural studies, Language and culture",
+      "ll_keywords": "English, word, culture",
+      "user_prompt": "",
+      "enable_rerank": true
+    },
+    "create_time": 1767722311,
+    "update_time": 1767722311,
+    "_id": "hybrid:query:f64d6331adca07910e74bb194b8633a1"
+  },
+  "local:keywords:93191f13218185a4ecb42c8064c899d1": {
+    "return": "{\"high_level_keywords\": [\"Cultural vocabulary\", \"Writing resources\", \"Topic-specific vocabulary\"], \"low_level_keywords\": [\"Cultural practices\", \"Social customs\", \"Traditions\", \"Essay vocabulary\", \"Academic writing terms\"]}",
+    "cache_type": "keywords",
+    "chunk_id": null,
+    "original_prompt": "tôi muốn tìm những từ vựng dùng trong chủ đề culture để viết writing",
+    "queryparam": {
+      "mode": "local",
+      "response_type": "Multiple Paragraphs",
+      "top_k": 40,
+      "chunk_top_k": 20,
+      "max_entity_tokens": 6000,
+      "max_relation_tokens": 8000,
+      "max_total_tokens": 30000,
+      "user_prompt": "",
+      "enable_rerank": true
+    },
+    "create_time": 1767752486,
+    "update_time": 1767752486,
+    "_id": "local:keywords:93191f13218185a4ecb42c8064c899d1"
+  },
+  "local:query:9736a676ef3f5ef594c5cab8ddb523b6": {
+    "return": "Để viết về chủ đề \"Culture\" (Văn hóa), bạn có thể sử dụng các từ vựng sau đây, được trích từ thông tin đã cung cấp:\n\n### Định nghĩa và Khái niệm Chính\n\n*   **Culture (Văn hóa)**: Là các loại hình nghệ thuật và những biểu hiện khác của thành tựu trí tuệ con người được xem xét một cách tập thể. Đây là một khái niệm quan trọng trong Xã hội học và Nhân chủng học. (KG Data: Culture, Document Chunks)\n    *   **Đồng nghĩa**: Society, heritage, customs, way of life, civilization (Xã hội, di sản, phong tục, lối sống, nền văn minh). (KG Data: Culture, Document Chunks)\n    *   **Trái nghĩa**: Nature (Tự nhiên). (KG Data: Culture, Document Chunks)\n    *   **Cụm từ thường dùng (Collocations)**: Pop culture, corporate culture, culture shock, rich culture (Văn hóa đại chúng, văn hóa doanh nghiệp, sốc văn hóa, nền văn hóa phong phú). (KG Data: Culture, Document Chunks)\n*   **Cultural (Thuộc về văn hóa)**: Liên quan đến những ý tưởng, phong tục và hành vi xã hội của một xã hội. Đây là một khái niệm quan trọng trong Xã hội học. (KG Data: Cultural, Document Chunks)\n    *   **Đồng nghĩa**: Societal, ethnic, artistic, educational (Thuộc về xã hội, dân tộc, nghệ thuật, giáo dục). (KG Data: Cultural, Document Chunks)\n    *   **Cụm từ thường dùng (Collocations)**: Cultural heritage, cultural differences, cultural exchange, cultural background (Di sản văn hóa, khác biệt văn hóa, giao lưu văn hóa, nền tảng văn hóa). (KG Data: Cultural, Document Chunks)\n\n### Các Yếu tố Cấu thành Văn hóa\n\nVăn hóa phản ánh các giá trị, truyền thống và niềm tin của một xã hội.\n\n*   **Values (Giá trị)**: Những nguyên tắc hoặc tiêu chuẩn hành vi; tầm quan trọng, giá trị, hoặc tính hữu ích của một cái gì đó. (KG Data: Values, Document Chunks)\n*   **Traditions (Truyền thống)**: Sự truyền bá phong tục hoặc niềm tin từ thế hệ này sang thế hệ khác, hoặc thực tế được truyền lại theo cách này. (KG Data: Traditions, Document Chunks)\n    *   **Đồng nghĩa**: Custom, practice, convention, ritual, habit (Phong tục, tập quán, quy ước, nghi lễ, thói quen). (Document Chunks)\n    *   **Trái nghĩa**: Innovation, novelty, modernity (Đổi mới, tính mới lạ, hiện đại). (Document Chunks)\n    *   **Cụm từ thường dùng**: Long tradition, follow tradition, break with tradition, oral tradition (Truyền thống lâu đời, theo truyền thống, phá vỡ truyền thống, truyền khẩu). (Document Chunks)\n*   **Beliefs (Niềm tin)**: Niềm tin, sự tin tưởng hoặc sự tự tin vào ai đó hoặc điều gì đó; sự chấp nhận một tuyên bố là đúng hoặc một cái gì đó tồn tại. (KG Data: Beliefs, Document Chunks)\n\n### Vai trò của Nghệ thuật và Giao lưu Văn hóa\n\n*   **Cultural identity (Bản sắc văn hóa)**: Âm nhạc, nghệ thuật và văn học đóng vai trò quan trọng trong việc hình thành bản sắc văn hóa. (KG Data: Cultural Identity, Document Chunks)\n    *   **Music (Âm nhạc)**: Âm thanh giọng hát hoặc nhạc cụ (hoặc cả hai) kết hợp theo cách tạo ra vẻ đẹp hình thức, sự hài hòa và biểu cảm cảm xúc. (Document Chunks)\n    *   **Art (Nghệ thuật)**: Sự biểu hiện hoặc ứng dụng kỹ năng sáng tạo và trí tưởng tượng của con người, thường ở dạng hình ảnh như hội họa hoặc điêu khắc. (Document Chunks)\n    *   **Literature (Văn học)**: Các tác phẩm viết, đặc biệt là những tác phẩm được coi là có giá trị nghệ thuật vượt trội hoặc lâu dài. (KG Data: Literature, Document Chunks)\n        *   **Đồng nghĩa**: Writings, books, texts, letters, prose (Bài viết, sách, văn bản, thư, văn xuôi). (Document Chunks)\n        *   **Cụm từ thường dùng**: English literature, classic literature, modern literature, review the literature (Văn học Anh, văn học cổ điển, văn học hiện đại, xem xét tài liệu). (Document Chunks)\n*   **Cultural exchange (Giao lưu văn hóa)**: Giao tiếp toàn cầu đã dẫn đến giao lưu văn hóa, cho phép mọi người học hỏi từ các truyền thống khác nhau. (Document Chunks)\n*   **Globalization (Toàn cầu hóa)**: Quá trình các doanh nghiệp hoặc tổ chức khác phát triển ảnh hưởng quốc tế hoặc bắt đầu hoạt động trên quy mô quốc tế. (Document Chunks)\n    *   **Cụm từ thường dùng**: Economic globalization, impact of globalization, era of globalization, anti-globalization (Toàn cầu hóa kinh tế, tác động của toàn cầu hóa, kỷ nguyên toàn cầu hóa, chống toàn cầu hóa). (Document Chunks)\n    *   **Tác động**: Một số người lo ngại rằng toàn cầu hóa gây ra sự **cultural homogenization (đồng nhất hóa văn hóa)**, là quá trình làm cho mọi thứ trở nên đồng nhất hoặc tương tự. (Document Chunks)\n\n### Bảo tồn Văn hóa\n\n*   **Preserving cultural heritage (Bảo tồn di sản văn hóa)**: Việc bảo tồn di sản văn hóa là điều cần thiết trong khi vẫn chấp nhận sự đa dạng. (Document Chunks)\n    *   **Heritage (Di sản)**: Tài sản có thể được thừa kế; các vật thể và phẩm chất có giá trị như các tòa nhà lịch sử và truyền thống văn hóa đã được truyền lại từ các thế hệ trước. (Document Chunks)\n    *   **Diversity (Đa dạng)**: Trạng thái đa dạng; sự phong phú, sự đa dạng. (Document Chunks)\n\n### References\n\n*   [1] Document Chunks",
+    "cache_type": "query",
+    "chunk_id": null,
+    "original_prompt": "tôi muốn tìm những từ vựng dùng trong chủ đề culture để viết writing",
+    "queryparam": {
+      "mode": "local",
+      "response_type": "Multiple Paragraphs",
+      "top_k": 40,
+      "chunk_top_k": 20,
+      "max_entity_tokens": 6000,
+      "max_relation_tokens": 8000,
+      "max_total_tokens": 30000,
+      "hl_keywords": "Cultural vocabulary, Writing resources, Topic-specific vocabulary",
+      "ll_keywords": "Cultural practices, Social customs, Traditions, Essay vocabulary, Academic writing terms",
+      "user_prompt": "",
+      "enable_rerank": true
+    },
+    "create_time": 1767752495,
+    "update_time": 1767752495,
+    "_id": "local:query:9736a676ef3f5ef594c5cab8ddb523b6"
   }
 }

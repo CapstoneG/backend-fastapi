@@ -81,7 +81,6 @@ async def initialize_rag():
         llm_model_name="gemini-2.5-flash",
     )
 
-    # 🔑 REQUIRED
     await rag.initialize_storages()
     return rag
 
@@ -139,14 +138,14 @@ def main():
     print("\nLocal Search:")
     print(rag.query(query, param=QueryParam(mode="local")))
 
-    print("\nGlobal Search:")
-    print(rag.query(query, param=QueryParam(mode="global")))
+    # print("\nGlobal Search:")
+    # print(rag.query(query, param=QueryParam(mode="global")))
 
-    print("\nHybrid Search:")
-    print(rag.query(query, param=QueryParam(mode="hybrid")))
+    # print("\nHybrid Search:")
+    # print(rag.query(query, param=QueryParam(mode="hybrid")))
 
-    print("\nMixed Search:")
-    print(rag.query(query, param=QueryParam(mode="mix")))
+    # print("\nMixed Search:")
+    # print(rag.query(query, param=QueryParam(mode="mix")))
 
 
 if __name__ == "__main__":
