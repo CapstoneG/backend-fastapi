@@ -83,12 +83,13 @@ class SuggestWordService:
         Rules:
         - Use double quotes only
         - Output must start with "{{" and end with "}}"
-        - Provide 5–10 flashcards TOTAL (not per text)
         - Do not duplicate terms
         - Phonetic must be in IPA format (e.g. /ˈkɒn.sept/)
         - Definition must be in simple English
         - Example sentence must be clear and natural
         - Vocabulary can be extracted from ANY text in the list
+        - Do NOT create additional vocabulary beyond the given words
+        - One word equals one flashcard only
 
         Input texts:
         \"\"\"
