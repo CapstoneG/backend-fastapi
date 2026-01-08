@@ -18,7 +18,7 @@ class WordTranslateResponse(BaseModel):
     translated_word: str
 
 class FlashcardRequest(BaseModel):
-    word: str
+    word: list[str]
 
 class FlashcardResponse(BaseModel):
     term: str
