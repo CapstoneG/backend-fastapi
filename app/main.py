@@ -14,6 +14,7 @@ from app.api.chatbot_router import router as chatbot_router
 from app.api.analysis import router as analysis_router
 from app.api.recommendation import router as recommendation_router
 from app.api.suggest_word import route as suggest_word_router
+from fastapi.middleware.cors import CORSMiddleware
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
@@ -26,6 +27,15 @@ async def lifespan(app: FastAPI):
 
 
 app = FastAPI(lifespan=lifespan)
+
+# Cấu hình CORS
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Cho phép tất cả các nguồn gốc
+    allow_credentials=True,
+    allow_methods=["*"],  # Cho phép tất cả các phương thức HTTP
+    allow_headers=["*"],  # Cho phép tất cả các header
+)
 
 # --- 3. INCLUDE ROUTERS ---
 app.include_router(sentence_routes)

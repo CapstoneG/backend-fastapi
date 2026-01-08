@@ -54,43 +54,49 @@ class SuggestWordService:
         """
         return self.client.generate_text(prompt)
 
-    def generate_flashcards_prompt(self, text: str) -> str:
+    def generate_flashcards_prompt(self, texts: list[str]) -> str:
+        joined_texts = "\n".join(f"- {t}" for t in texts)
+
         prompt = f"""
         You are a vocabulary extraction API.
 
-        Extract important English vocabulary from the input text.
-        Select words that are useful for learning (avoid very basic words).
+        Your task is to extract important English vocabulary from a LIST of input texts.
+        Select words that are useful for English learners.
+        Avoid very basic or common words.
 
         Return ONLY valid JSON.
         No markdown, no explanations, no extra text.
 
-        JSON schema:
+        JSON schema (must match exactly):
         {{
         "flashcards": [
             {{
-            "term": string,
-            "phonetic": string,
-            "definition": string,
-            "partOfSpeech": string,
-            "exampleSentence": string
+            "term": "string",
+            "phonetic": "string",
+            "definition": "string",
+            "partOfSpeech": "string",
+            "exampleSentence": "string"
             }}
         ]
         }}
 
         Rules:
         - Use double quotes only
-        - Output must start with '{{' and end with '}}'
-        - Provide 5–10 flashcards if possible
-        - Phonetic must be IPA format
+        - Output must start with "{{" and end with "}}"
+        - Provide 5–10 flashcards TOTAL (not per text)
+        - Do not duplicate terms
+        - Phonetic must be in IPA format (e.g. /ˈkɒn.sept/)
         - Definition must be in simple English
         - Example sentence must be clear and natural
+        - Vocabulary can be extracted from ANY text in the list
 
-        Input text:
+        Input texts:
         \"\"\"
-        {text}
+        {joined_texts}
         \"\"\"
-        """
+        """.strip()
 
+        print("Flashcard Prompt:\n", prompt)  # Debug log
         return self.client.generate_text(prompt)
 
     def score_writing_prompt(self, title: str, description: str, content: str) -> str:
