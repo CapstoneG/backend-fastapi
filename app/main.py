@@ -13,6 +13,7 @@ from app.api.variant_router import router as variant_router
 from app.api.chatbot_router import router as chatbot_router
 from app.api.analysis import router as analysis_router
 from app.api.recommendation import router as recommendation_router
+from app.api.suggest_word import route as suggest_word_router
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
@@ -35,6 +36,7 @@ app.include_router(variant_router)
 app.include_router(chatbot_router) 
 app.include_router(analysis_router)
 app.include_router(recommendation_router)
+app.include_router(suggest_word_router)
 
 @app.get("/")
 async def root():
